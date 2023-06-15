@@ -4,6 +4,8 @@
 
 #
 
-
+| Name | Description | URL |
+|------|-------------|-----|
+| Filter | Block promo | <a href="filter.txt?raw=true">filter.txt</a> |
 
 </div>
