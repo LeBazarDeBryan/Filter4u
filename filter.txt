@@ -30,3 +30,8 @@ mifirm.net##.bnud.holder
 mifirm.net##.ydvy0kvs51ll
 mifirm.net##.l3gr1y3eem0z
 mifirm.net##.\36 83w536q5sn8
+ws-cdn.nperf.com##.BadLicense
+www.moyens.net##.nke7hnkyx975
+itnursery.com##.ez_banner.ez_twentytwentytwo_corners
+itnursery.com##.ez-twentytwentytwo.ez-main-cmp-wrapper.pre-render-cmp.ez_banner
+codefordev.com##.segment.aligned.center.inverted.vertical.ui
