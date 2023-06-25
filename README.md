@@ -4,6 +4,6 @@
 
 | Name | Description | URL |
 |------|-------------|-----|
-| Filter | Block promo, pop-up, optimize | <a href="filter.txt?raw=true">filter.txt</a> |
+| Filter | Block promo, pop-up, newsletters, optimize page loading | <a href="filter.txt?raw=true">filter.txt</a> |
 
 </div>
