@@ -35,3 +35,11 @@ www.moyens.net##.nke7hnkyx975
 itnursery.com##.ez_banner.ez_twentytwentytwo_corners
 itnursery.com##.ez-twentytwentytwo.ez-main-cmp-wrapper.pre-render-cmp.ez_banner
 codefordev.com##.segment.aligned.center.inverted.vertical.ui
+www.tomsguide.com##.exit-intent__background.exit-intent
+www.nperf.com###consent
+ws.nperf.com##.tooltip
+www.speedtest.net##.ot-fade-in.onetrust-pc-dark-filter
+www.speedtest.net###onetrust-group-container
+www.speedtest.net##.has-reject-all-button.ot-sdk-columns.ot-sdk-twelve
+www.speedtest.net##.notification-container > div > .notification
+cdn.privacy-mgmt.com##.message-overlay
