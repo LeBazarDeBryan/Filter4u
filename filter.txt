@@ -43,3 +43,16 @@ www.speedtest.net###onetrust-group-container
 www.speedtest.net##.has-reject-all-button.ot-sdk-columns.ot-sdk-twelve
 www.speedtest.net##.notification-container > div > .notification
 cdn.privacy-mgmt.com##.message-overlay
+pop.system76.com##.sys-header-U6nZ
+www.techradar.com##.trending__wrapper
+zorin.com###modal-lite > .download-modal.md-content > .rounded.white.newsletter-form
+zorin.com###modal-lite > .download-modal.md-content > .text-center.d-block.muted
+zorin.com###modal-lite > .download-modal.md-content > div
+zorin.com###modal-lite > .download-modal.md-content > h4
+zorin.com###modal-core > .download-modal.md-content > .rounded.white.newsletter-form
+zorin.com###modal-core > .download-modal.md-content > h4
+zorin.com###modal-core > .download-modal.md-content > div
+zorin.com###modal-core > .download-modal.md-content > .text-center.d-block.muted
+alternativeto.net##.i8i0cqjzambv
+alternativeto.net##.lt23aqdyr50k
+alternativeto.net##.nrixmrp9slfy
