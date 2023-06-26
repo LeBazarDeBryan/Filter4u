@@ -56,3 +56,4 @@ zorin.com###modal-core > .download-modal.md-content > .text-center.d-block.muted
 alternativeto.net##.i8i0cqjzambv
 alternativeto.net##.lt23aqdyr50k
 alternativeto.net##.nrixmrp9slfy
+msguides.com##.kknbnpcvhomb
