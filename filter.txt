@@ -56,4 +56,16 @@ zorin.com###modal-core > .download-modal.md-content > .text-center.d-block.muted
 alternativeto.net##.i8i0cqjzambv
 alternativeto.net##.lt23aqdyr50k
 alternativeto.net##.nrixmrp9slfy
-msguides.com##.kknbnpcvhomb
+www.deepl.com##.min-\[1400px\]\:px-\[100px\].min-\[1200px\]\:px-\[70px\].min-\[1000px\]\:px-\[50px\].min-\[840px\]\:px-\[30px\].sm\:px-\[20px\].max-w-\[1600px\].sm\:bottom-6.mx-auto.z-50.bottom-0.inset-x-0.fixed
+www.deepl.com###dl_quotes_container
+www.deepl.com##.eSEOtericText.dl_visible_desktop_only.dl_top_element--wide.dl_body--redesign
+www.deepl.com##div.dl_ad_pro_container:nth-of-type(2)
+||static.deepl.com/img/app_desktop.svg$image
+||static.deepl.com/img/hexagon_yellow_outline.svg$image
+||static.deepl.com/img/hexagon_grey_filled.svg$image
+||static.deepl.com/img/write/write_illustration2.svg$image
+||static.deepl.com/img/_optimized/footer/deeplLogo.svg$image
+www.deepl.com##path:nth-of-type(3)
+www.deepl.com###languageSelectorIcon
+www.forbes.com###ketch-consent-overlay
+www.forbes.com##.sizer__JgPZ9.root__TFKT8
