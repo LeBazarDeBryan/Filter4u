@@ -69,3 +69,36 @@ www.deepl.com##path:nth-of-type(3)
 www.deepl.com###languageSelectorIcon
 www.forbes.com###ketch-consent-overlay
 www.forbes.com##.sizer__JgPZ9.root__TFKT8
+www.lifewire.com##.ot-fade-in.onetrust-pc-dark-filter
+www.lifewire.com##.ot-sdk-row
+www.stream4free.live###__peek_a_bar_34465017
+www.stream4free.live###__peek_a_bar_70486817
+www.stream4free.live##.intrinsic-container-16x9.intrinsic-container
+www.stream4free.live###Mod98 > .module-inner > .module-ct
+www.stream4free.live###promo
+jdownloader.org###cookie_info
+www.compuhoy.com##.ez-twentytwentytwo.ez-main-cmp-wrapper.pre-render-cmp.ez_banner
+status.adobe.com##.vertical-align-content.bottom.otFlat
+www.deepl.com##.min-\[1400px\]\:px-\[100px\].min-\[1200px\]\:px-\[70px\].min-\[1000px\]\:px-\[50px\].min-\[840px\]\:px-\[30px\].sm\:px-\[20px\].max-w-\[1600px\].sm\:bottom-6.mx-auto.z-\[1000\].bottom-0.inset-x-0.fixed
+www.razer.com##.use.lang-fr.tos-cookies-container
+www.razer.com##.use.lang-fr.tos-cookies-container
+mysupport.razer.com##.use.lang-en.tos-cookies-container
+www.razer.com##.use.lang-en.tos-cookies-container
+gold.razer.com##.dialog-item
+www.samsung.com##.truste-consent-content
+www.samsung.com##.truste-responsive.trustarc-banner
+||cmp-consent-tool.privacymanager.io/latest/index.html$subdocument
+www.rakuten.tv###gdpr-consent-tool-wrapper
+www.canalplus.com###pm-overlay
+sevrim.com##.column1 > center
+virtualmachinery.weebly.com##.wpcc-color-custom--943834009.wpcc-left.wpcc-bottom.wpcc-border-thin.wpcc-corners-small.wpcc-corners-round.wpcc-float.wpcc-container
+www.qrcode-monkey.com##.banner-content
+www.qrcode-monkey.com###onetrust-cookie-btn > svg
+www.qrcode-monkey.com###onetrust-cookie-btn-container > .ot-link-btn
+3ds.hacks.guide##.cc-color-override-2147335709.cc-top.cc-static.cc-theme-edgeless.cc-type-info.cc-banner.cc-window
+gamefaqs.gamespot.com##.ot-fade-in.onetrust-pc-dark-filter
+gamefaqs.gamespot.com##.ot-sdk-container > .ot-sdk-row
+compucademy.net##.ez-twentytwentytwo.ez-main-cmp-wrapper.pre-render-cmp.ez_banner
+play2048.co##.ez-twentytwentytwo.ez-main-cmp-wrapper.pre-render-cmp.ez_banner
+flappybird.io##.ez-twentytwentytwo.ez-main-cmp-wrapper.pre-render-cmp.ez_banner
+blog.lawtantra.org##.singleton-element.cookie-choices-info
