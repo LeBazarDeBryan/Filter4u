@@ -102,3 +102,15 @@ compucademy.net##.ez-twentytwentytwo.ez-main-cmp-wrapper.pre-render-cmp.ez_banne
 play2048.co##.ez-twentytwentytwo.ez-main-cmp-wrapper.pre-render-cmp.ez_banner
 flappybird.io##.ez-twentytwentytwo.ez-main-cmp-wrapper.pre-render-cmp.ez_banner
 blog.lawtantra.org##.singleton-element.cookie-choices-info
+www.achatmoinscher.com##body > .alert-info.alert
+geekflare.com###mailmunch-inner-overlay-1892c33a55b180fa
+geekflare.com##.mailmunch-bounceIn.mailmunch-popover-container
+geekflare.com###mailmunch-popover-1892c33a55b180fa
+geekflare.com###mailmunch-overlay-1892c33a55b180fa
+openweathermap.org##.stick-footer-panel
+emojis.wiki##.ez-twentytwentytwo.ez-main-cmp-wrapper.pre-render-cmp.ez_banner
+www.deepl.com##.transition-opacity.bg-opacity-50.bg-deprecated-almost-black.inset-0.fixed
+www.deepl.com##.sm\:p-0.text-center.pb-20.pt-4.px-4.justify-center.items-center.min-h-screen.flex
+www.deepl.com##.overflow-y-auto.inset-0.fixed
+d.tousecurity.com##.hustle-optin-mask.hustle-popup-mask
+fmscan.org###cookieDiv
