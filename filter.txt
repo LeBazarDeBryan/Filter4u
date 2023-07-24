@@ -114,3 +114,46 @@ www.deepl.com##.sm\:p-0.text-center.pb-20.pt-4.px-4.justify-center.items-center.
 www.deepl.com##.overflow-y-auto.inset-0.fixed
 d.tousecurity.com##.hustle-optin-mask.hustle-popup-mask
 fmscan.org###cookieDiv
+duckduckgo.com##.is-showing.js-welcome-wrap.welcome-wrap
+www.gamergeeks.net##.ez-twentytwentytwo.ez-main-cmp-wrapper.pre-render-cmp.ez_banner
+developers.cloudflare.com##.ot-fade-in.onetrust-pc-dark-filter
+developers.cloudflare.com##.ot-sdk-container > .ot-sdk-row
+www.darty.com##.ot-fade-in.onetrust-pc-dark-filter
+www.darty.com###onetrust-button-group-parent
+www.darty.com###onetrust-group-container
+www.twitch.tv##.consent-banner.fvoCQA.Layout-sc-1xcs6mc-0
+www.thewindowsclub.com##.ez-original.ez-main-cmp-wrapper.pre-render-cmp.ez_modal
+lecrabeinfo.net##.alertIncentive.alert-warning.alert
+lecrabeinfo.net##.langouste_cookiesDenied.langouste_no.langouste_singlePost3.langouste_single.langouste
+lecrabeinfo.net##.langouste_cookiesDenied.langouste_no.langouste_singlePost2.langouste_single.langouste
+lecrabeinfo.net##.langouste_cookiesDenied.langouste_no.langouste_singlePost1.langouste_single.langouste
+lecrabeinfo.net##.langouste_cookiesDenied.langouste_no.langouste_singlePost5.langouste_single.langouste
+||www.mediafire.com/widgets/sidebar_promo.php$subdocument
+||www.mediafire.com/widgets/premium_trial.php$subdocument
+||www.mediafire.com/widgets/premium_trial.php$subdocument
+touchvpn.net##.ot-sdk-container
+||img.1fichier.com/ui/ui-bg_highlight-soft_100_eeeeee_1x100.png$image
+||img.1fichier.com/ui/ui-bg_highlight-soft_100_eeeeee_1x100.png$image
+sevrim.com##.column1 > center
+tomacloud.com###myCookieConsent
+www.theverge.com##.lg\:pt-36.lg\:pb-40.text-black.pt-28.pb-36.px-16.bg-franklin.w-full.z-30.bottom-0.fixed.duet--cta--cookie-banner
+1fichier.com###cookie_box
+www.deepl.com##.sm\:justify-end.sm\:flex-row.py-4.px-5.gap-4.flex-col.flex
+www.deepl.com##.\[\&_a\]\:\!underline.\[\&_a\]\:text-white.\[\&_a\]\:font-semibold.text-white.pb-4
+www.deepl.com##.sm\:text-2xl.font-semibold.text-lg.py-3.px-5
+www.deepl.com##.text-current.font-medium.gap-2.items-center.h-8.flex.rounded-xs.active\:text-dark-7
+www.epicgames.com###onetrust-banner-sdk > .ot-sdk-container > .ot-sdk-row
+play2048.co##.ez-twentytwentytwo.ez-main-cmp-wrapper.pre-render-cmp.ez_banner
+www.lannuaire.fr##.cli-show.cli-popupbar-overlay.cli-fade.cli-modal-backdrop
+www.lannuaire.fr###cookie-law-info-bar
+www.annuaire-inverse-france.com##.cookies > div
+www.speedtest.net##.ot-fade-in.onetrust-pc-dark-filter
+www.speedtest.net###onetrust-group-container
+www.speedtest.net##.has-reject-all-button.ot-sdk-columns.ot-sdk-twelve
+www.tp-link.com##.tp-cookie-eu
+www.it-connect.fr##.ez_banner.ez-twentytwentytwo.ez-main-cmp-wrapper
+||static.tp-link.com/assets/diff/fr/widgets/popup/pc-img.png$image
+www.intel.fr##.ot-fade-in.onetrust-pc-dark-filter
+www.intel.fr##.ot-sdk-container > .ot-sdk-row
+www.itigic.com##.ez-twentytwentytwo.ez-main-cmp-wrapper.pre-render-cmp.ez_banner
+www.pcastuces.com##.sd-cmp-VSd2z
