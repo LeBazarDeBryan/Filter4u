@@ -157,3 +157,12 @@ www.intel.fr##.ot-fade-in.onetrust-pc-dark-filter
 www.intel.fr##.ot-sdk-container > .ot-sdk-row
 www.itigic.com##.ez-twentytwentytwo.ez-main-cmp-wrapper.pre-render-cmp.ez_banner
 www.pcastuces.com##.sd-cmp-VSd2z
+www.instagram.com##._abcm._aa5t._abck._abci._abcg._abcf._abab._ab9-._abby._abbg._ab9p._ab9m._ab9h._ab9c._ab99._ab94._ab8w._ab8q
+www.fake-id.com###freeprivacypolicy-com---preferences-center
+www.youtube.com##.opened
+www.youtube.com##.ytd-consent-bump-v2-lightbox.style-scope.eom-v1-dialog
+aternos.org##.server-tutorials
+scalacube.com###navigation > .contact-bar
+alfred.camera##.MuiDialog-scrollPaper.MuiDialog-container
+alfred.camera##.MuiBackdrop-root
+alfred.camera##.MuiDialog-root
