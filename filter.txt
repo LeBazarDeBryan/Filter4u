@@ -168,9 +168,10 @@ alfred.camera##.MuiBackdrop-root
 alfred.camera##.MuiDialog-root
 aternos.org##.fa-ban.fas
 aternos.org###zoasZkFpIrVS > div > div > div > span
-aternos.org##.btn-red.btn
 aternos.org##.responsive-sky-scraper > .ad-label-wrapper
 aternos.org##.responsive-sky-scraper > .ad-replacement
 aternos.org##.responsive-sky-scraper
 aternos.org##.content > .ad-dfp.mobile-full-width.responsive-leaderboard > .ad-label-wrapper
 aternos.org##.content > .ad-dfp.mobile-full-width.responsive-leaderboard > .ad-replacement
+scribens.fr##.visible.modal-wall > div
+scribens.fr##.visible.modal-wall
