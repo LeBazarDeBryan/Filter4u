@@ -175,3 +175,10 @@ aternos.org##.content > .ad-dfp.mobile-full-width.responsive-leaderboard > .ad-l
 aternos.org##.content > .ad-dfp.mobile-full-width.responsive-leaderboard > .ad-replacement
 scribens.fr##.visible.modal-wall > div
 scribens.fr##.visible.modal-wall
+www.hostgator.com##.ot-fade-in.onetrust-pc-dark-filter
+zyro.com##.zyro-cookies
+vincentdepaul.fr###cookie_law_banner
+vacances-scolaires.education##.sd-cmp-VSd2z
+technicalustad.com##.ez-twentytwentytwo.ez-main-cmp-wrapper.pre-render-cmp.ez_banner
+www.synaptics.com##.eu-cookie-compliance-banner--opt-in.eu-cookie-compliance-banner-info.eu-cookie-compliance-banner
+www.virustotal.com##vt-stateful-disclaimer
