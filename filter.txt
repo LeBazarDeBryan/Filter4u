@@ -182,3 +182,70 @@ vacances-scolaires.education##.sd-cmp-VSd2z
 technicalustad.com##.ez-twentytwentytwo.ez-main-cmp-wrapper.pre-render-cmp.ez_banner
 www.synaptics.com##.eu-cookie-compliance-banner--opt-in.eu-cookie-compliance-banner-info.eu-cookie-compliance-banner
 www.virustotal.com##vt-stateful-disclaimer
+www.sisik.eu##.cc-color-override--1645678099.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-window
+||www.dlink2.com/media.php$subdocument
+||www.clictune.com/images/logo_redirect.png$image
+fileproinfo.com###cookieAlert
+twitter.com##.r-13qz1uu.r-1f1sjgu.r-ymttw5.r-1d7fvdj.r-18u37iz.r-15ce4ve.r-1sw30gj.r-1awozwy.css-1dbjc4n
+www.molotov.tv##._2HA10
+www.molotov.tv##.eRnhI
+blog-iptv.com##.et_pb_bg_layout_light.et_pb_text_align_center.et_pb_promo.et_pb_cta_0.et_pb_module
+blog-iptv.com##.et_pb_sidebar_no_border.et_pb_bg_layout_light.et_pb_widget_area_right.clearfix.et_pb_widget_area.et_pb_sidebar_0.et_pb_module
+blog-iptv.com##.cookie-notice-container
+www.m3u.fr##.cc_container--open.cc_container.cc_banner
+www.m3u.fr###fh5co-content > center
+www.m3u.fr##.left-sidebar.col-md-pull-8.col-md-4
+www.justgeek.fr##.sd-cmp-33S-2 > div
+www.justgeek.fr##.sd-cmp-33S-2
+superuser.com##.js-consent-banner.r16.l16.b16.bar-lg.fc-white.bg-black-750.sm\:p16.p32.sm\:w-auto.ws4.z-nav-fixed.ps-fixed.ff-sans
+stackoverflow.com##.spotCookieLg.svg-spot.sm\:d-none.mb24.mln4 > path
+stackoverflow.com##.spotCookieLg.svg-spot.sm\:d-none.mb24.mln4
+stackoverflow.com##.mb4.fw-bold.fs-body2
+stackoverflow.com##.s-anchors__underlined.s-anchors__inherit.s-anchors.mb16
+stackoverflow.com##.js-consent-banner-hide.js-accept-cookies.s-btn__primary.s-btn.flex--item6
+helpx.adobe.com##.vertical-align-content.bottom.otFlat
+helpx.adobe.com###helpful-pod
+www.bel-com.be##.cn-body > p
+www.bel-com.be##.title > span
+www.bel-com.be##.cm-btn-accept-all.cm-btn-success.cm-btn
+www.bel-com.be##[href="https://kiprotect.com/klaro"]
+www.bel-com.be###wrap > .panel
+www.bel-com.be###phpbb_announcement_1
+www.mediafire.com##.ez_banner.ez-twentytwentytwo.ez-main-cmp-wrapper
+www.mediafire.com###cookie-accept-footer
+www.mediafire.com##.Download-compatibility
+www.mediafire.com##.description
+www.mediafire.com###ezwrp-105
+www.mediafire.com###ezwrp-104
+www.mediafire.com##.DLExtraInfo-row.DLExtraInfo-Facebook
+www.mediafire.com##.DLExtraInfo-column.DLExtraInfo-downloadApp
+www.mediafire.com###ezwrp-106
+www.mediafire.com##.DLExtraInfo-column.DLExtraInfo-accountStatus > .DLExtraInfo-sectionDetails
+www.mediafire.com##.DLExtraInfo-column.DLExtraInfo-accountStatus
+www.mediafire.com###subFooterSocial
+www.mediafire.com##.nonDLContentWrap
+www.mediafire.com##.DLExtraInfo-row.DLExtraInfo-virusTotal
+www.mediafire.com##.DLExtraInfo-column.DLExtraInfo-upload
+www.mediafire.com##.u-cf.footerColWrap
+www.mediafire.com##.footer-gt-cont
+www.mediafire.com##div.DLExtraInfo:nth-of-type(1)
+www.mediafire.com##.DLExtraInfo-wrap
+www.viralwalk.com##.MuiDialog-scrollPaper.MuiDialog-container
+www.viralwalk.com##.MuiBackdrop-root
+www.viralwalk.com##.MuiDialog-root
+ploudos.com##.css-ea5y2c.qc-cmp-cleanslate
+ploudos.com##.footer
+ploudos.com##.qc-cmp2-persistent-link
+ploudos.com##.alert-danger.alert
+www.cdiscount.com##.tc-privacy-iab-banner.tc-privacy-footer.tc-privacy-bar.tc-privacy-banner.tc-reset-css
+www.dolby.com##.ot-sdk-container > .ot-sdk-row
+www.assistance.bouyguestelecom.fr###tc_privacy_textBan > p
+www.assistance.bouyguestelecom.fr##li.tc_bt_listitems:nth-of-type(1)
+www.assistance.bouyguestelecom.fr##li.tc_bt_listitems:nth-of-type(2)
+www.assistance.bouyguestelecom.fr##li.tc_bt_listitems:nth-of-type(3)
+www.assistance.bouyguestelecom.fr##li.tc_bt_listitems:nth-of-type(4)
+www.assistance.bouyguestelecom.fr##li.tc_bt_listitems:nth-of-type(5)
+www.assistance.bouyguestelecom.fr##li.tc_bt_listitems:nth-of-type(6)
+www.assistance.bouyguestelecom.fr##.tc_bt_listitems2
+www.assistance.bouyguestelecom.fr###tc_privacy_title > p
+www.assistance.bouyguestelecom.fr###popin_tc_privacy_button_3
