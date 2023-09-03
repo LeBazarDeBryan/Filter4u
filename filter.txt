@@ -1,3 +1,6 @@
+! List by LeBazarDeBryan
+
+! START OF THE LIST
 ||www.mediafire.com/widgets/sidebar_promo.php$subdocument
 www.mediafire.com##.u49fswdte9fq
 ||www.mediafire.com/widgets/premium_trial.php$subdocument
@@ -249,3 +252,43 @@ www.assistance.bouyguestelecom.fr##li.tc_bt_listitems:nth-of-type(6)
 www.assistance.bouyguestelecom.fr##.tc_bt_listitems2
 www.assistance.bouyguestelecom.fr###tc_privacy_title > p
 www.assistance.bouyguestelecom.fr###popin_tc_privacy_button_3
+www.streaming-vlc.com##.tdc-element-style.td-pb-row.wpb_row.tdi_61.vc_row
+www.streaming-vlc.com##.td-is-sticky.td-pb-span4.tdc-column.vc_column_container.wpb_column.tdi_87.vc_column
+www.recevoir-tv.com##.cc_container--open.cc_container.cc_banner
+iptv-online.org##.cmplz-show.cc-window.cmplz-categories-type-save-preferences.cmplz-center.optin.banner-1.cmplz-cookiebanner
+minecraft.tools###cm
+www.tiktok.com##tiktok-cookie-banner
+xmr.2miners.com##.banner.banner-2cryptocalc > [href]
+hypixel.net##.notice-content
+cdn.privacy-mgmt.com##p.no-children.text.message-component:nth-of-type(1)
+cdn.privacy-mgmt.com##p.no-children.text.message-component:nth-of-type(2)
+cdn.privacy-mgmt.com##p:nth-of-type(3)
+cdn.privacy-mgmt.com##.accordion
+cdn.privacy-mgmt.com##.last-focusable-el.sp_choice_type_11.focusable.no-children.message-button.message-component
+cdn.privacy-mgmt.com##div.message-column.message-component:nth-of-type(3)
+cdn.privacy-mgmt.com##div.message-column.message-component:nth-of-type(2)
+cdn.privacy-mgmt.com##h3.info-title
+cdn.privacy-mgmt.com##p.pm-sub-p:nth-of-type(1)
+cdn.privacy-mgmt.com##.legend
+cdn.privacy-mgmt.com##p.pm-sub-p:nth-of-type(2)
+cdn.privacy-mgmt.com##h2.info-title
+cdn.privacy-mgmt.com##.accept-toggle.stack-toggle
+www.whois.com##.cc-color-override--1762072787.cc-bottom.cc-theme-block.cc-type-opt-in.cc-banner.cc-window
+gaming.stackexchange.com##.js-consent-banner.r16.l16.b16.bar-lg.fc-white.bg-black-750.sm\:p16.p32.sm\:w-auto.ws4.z-nav-fixed.ps-fixed.ff-sans
+meta.stackexchange.com##.js-consent-banner.r16.l16.b16.bar-lg.fc-white.bg-black-750.sm\:p16.p32.sm\:w-auto.ws4.z-nav-fixed.ps-fixed.ff-sans
+minecraft.fandom.com##.sitenotice-wrapper--visible.sitenotice-wrapper
+www.reddit.com##.pointer-events-auto.border-tone-4.border-solid.border.shadow-md.duration-300.transition-opacity.pt-0.p-md.opacity-100.mx-0.my-md.rounded-sm.bg-ui-modalbackground.relative.block.z-\[2\].nd\:pb-2xl.nd\:visible
+rufus.ie##.text
+rufus.ie##hr:nth-of-type(1)
+rufus.ie##hr:nth-of-type(2)
+www.mcbedrock.com##.css-1vti6ok.qc-cmp-cleanslate
+www.k-net.fr##.cmplz-show.cc-window.cmplz-categories-type-view-preferences.cmplz-bottom-right.optin.banner-1.cmplz-cookiebanner
+www.free-reseau.fr###adblocker > table
+www.free-reseau.fr##.recherche_google
+fr.trustpilot.com##.ot-fade-in.onetrust-pc-dark-filter
+fr.trustpilot.com###onetrust-group-container
+fr.trustpilot.com##.has-reject-all-button.ot-sdk-columns.ot-sdk-twelve
+fr.wikipedia.org##.vector-sitenotice-container
+www.asciiart.eu##.qc-cmp2-consent-info
+www.asciiart.eu##.css-47sehv
+! END OF THE LIST
