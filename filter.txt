@@ -1,6 +1,3 @@
-! List by LeBazarDeBryan
-
-! START OF THE LIST
 ||www.mediafire.com/widgets/sidebar_promo.php$subdocument
 www.mediafire.com##.u49fswdte9fq
 ||www.mediafire.com/widgets/premium_trial.php$subdocument
@@ -291,4 +288,10 @@ fr.trustpilot.com##.has-reject-all-button.ot-sdk-columns.ot-sdk-twelve
 fr.wikipedia.org##.vector-sitenotice-container
 www.asciiart.eu##.qc-cmp2-consent-info
 www.asciiart.eu##.css-47sehv
-! END OF THE LIST
+www.dlink2.com##td:nth-of-type(1)
+www.dlink2.com##td:nth-of-type(3)
+www.curseforge.com##.cookiebar
+www.planetminecraft.com##.card-content
+www.planetminecraft.com##li.r-card.resource:nth-of-type(3)
+www.planetminecraft.com##li.r-card.resource:nth-of-type(18)
+www.omegle.com
