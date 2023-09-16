@@ -295,3 +295,52 @@ www.planetminecraft.com##.card-content
 www.planetminecraft.com##li.r-card.resource:nth-of-type(3)
 www.planetminecraft.com##li.r-card.resource:nth-of-type(18)
 www.omegle.com
+gameguardian.net##.ipsJS_hide.ipsPad_half
+www.aresclient.com##.dnjcK.lhbLEe
+epieos.com##.w-full.bottom-0.fixed > .shadow-strong.sm-h\:max-h-\[150px\].max-h-\[150px\].md\:max-h-\[240px\].max-h-\[240px\].bg-white.min-w-0.w-full.justify-center.flex.relative
+epieos.com##.sm-h\:hidden.md\:text-\[12px\].md\:flex-col.md\:flex.hidden.min-h-0 > .max-h-\[24px\].h-\[3vh\]
+www.iobit.com##.active.clearfix.float-bar
+www.twitch.tv##.jXmrwp.Layout-sc-1xcs6mc-0
+www.twitch.tv##.consent-banner.fvjrYF.Layout-sc-1xcs6mc-0
+www.histoiredumonde.net##.tarteaucitronAlertBigBottom
+www.larousse.fr##.ot-fade-in.onetrust-pc-dark-filter
+www.larousse.fr###onetrust-group-container
+www.larousse.fr##.has-reject-all-button.ot-sdk-columns.ot-sdk-twelve
+assets.poool.fr##.p3-login.p3-link
+assets.poool.fr##.p3-or
+assets.poool.fr##button.p3-main-action.p3-button:nth-of-type(2)
+www.nationalgeographic.fr##.ot-fade-in.onetrust-pc-dark-filter
+www.nationalgeographic.fr##.has-reject-all-button.ot-sdk-columns.ot-sdk-twelve
+www.nationalgeographic.fr###onetrust-group-container
+www.nationalgeographic.fr##.css-nayslh
+www.universalis.fr##.css-8mu7gm.qc-cmp-cleanslate
+www.universalis.fr###bandeau-footer
+www.universalis.fr###back-to-top
+www.universalis.fr##div.free-toc-container:nth-of-type(3)
+www.universalis.fr##div.free-toc-container:nth-of-type(2)
+www.universalis.fr##div.free-toc-container:nth-of-type(1)
+www.universalis.fr##.folio-block
+||www.universalis.fr/_web/assets/img/banner-cta.png$image
+www.remove.bg##.fixed-bottom.banner
+www.remove.bg##.position-relative.px-4.py-3.rounded-lg.overlay
+www.remove.bg##div.small:nth-of-type(3)
+www.remove.bg##.pt-2.text-center.justify-content-center.align-items-center.d-flex
+www.remove.bg##.w-100.mt-md-0.mt-3.mb-3 > .mb-1
+www.remove.bg##.w-100.mt-md-0.mt-3.mb-3 > .small.text-muted > div
+www.remove.bg##.\!mt-3.gap-3.flex-wrap.flex
+www.opendns.com###onetrust-banner-sdk > div
+www.opendns.com##.vertical-align-content.ot-wo-title.bottom.otFlat
+www.cisco.com###onetrust-banner-sdk > div
+www.cisco.com##.vertical-align-content.ot-wo-title.bottom.otFlat
+www.cloudflare.com##.ot-fade-in.onetrust-pc-dark-filter
+www.cloudflare.com##.ot-sdk-row
+www.linkedin.com##.artdeco-global-alert--COOKIE_CONSENT.artdeco-global-alert--NOTICE.artdeco-global-alert
+www.linkedin.com##.transition-in.global-alert-banner
+www.ci4mastream.fr##.singleton-element.cookie-choices-info
+www.ci4mastream.fr##.cookie.nJ
+www.ci4mastream.fr###notif-widget > .HTML.widget
+||landings-cdn.adsterratech.com/referralBanners/gif/250x250_adsterra_reff.gif$image
+||landings-cdn.adsterratech.com/referralBanners/gif/250x250_adsterra_reff.gif$image
+www.warp2search.net##.alert-warning.alert-block.alert
+geo-tel.mobi###cookie-banner
+tracking-panel.org###mcl-wrapper
