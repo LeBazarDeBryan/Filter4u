@@ -344,3 +344,12 @@ www.ci4mastream.fr###notif-widget > .HTML.widget
 www.warp2search.net##.alert-warning.alert-block.alert
 geo-tel.mobi###cookie-banner
 tracking-panel.org###mcl-wrapper
+obsproject.com##.notice-content
+www.facebook.com##._3ixn
+www.facebook.com##._3qw._4-hy.uiLayer._9o-w._10
+romtendo.webnode.nl##.cb-scrollable.cb-bar
+romtendo.webnode.nl##.wnd-free-stripe-link
+romtendo.webnode.nl##.cf.wnd-free-stripe
+ws.nperf.com##.content > .title
+ws.nperf.com##.content > .text
+ws.nperf.com##.buttonAcceptContainer
