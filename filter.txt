@@ -353,3 +353,26 @@ romtendo.webnode.nl##.cf.wnd-free-stripe
 ws.nperf.com##.content > .title
 ws.nperf.com##.content > .text
 ws.nperf.com##.buttonAcceptContainer
+www.free-css.com##.divascookies-banner-container
+builtbybit.com##.notice--cookie.notice--primary.js-notice.notice
+polymart.org##.wpcc-color-custom--943834009.wpcc-bottom.wpcc-fontsize-small.wpcc-transparency-10.wpcc-padding-none.wpcc-corners-normal.wpcc-corners-round.wpcc-banner.wpcc-container
+www.tebex.io##.cookie-bar
+vencord.app
+ubuntu.com##.p-modal
+fr.lovebox.love##.cb-cookie_consent-layout_container.fhVjU.WidgetComponent__LayoutContainer-sc-1933jxm-1
+fr.lovebox.love###app-embed-container-30760
+trochox.com##.column1 > center
+www.chronometre.fr##font > font
+webhorloge.fr##.xs-p-10.panel-ne0n
+webhorloge.fr##.panel-share.panel-body > ul
+twitter.com##.r-1i6wzkk.r-yz1j6i.r-qo02w8.r-l5o3uw.css-1dbjc4n
+about.twitter.com##.u12b-opt-in
+www.timeanddate.com##.center.modal
+www.teamos.xyz##.notice-content
+www.mi.com##.truste-consent-track-class
+pcmanager.microsoft.com##._23tra1HsiiP6cT-Cka-ycB
+nowapsiindia.com##.adb-overlay
+www.badlion.net###usercentrics-root
+jartexnetwork.com##.notice-content
+www.frandroid.com##.didomi-popup__backdrop.didomi-notice-popup.didomi-popup-backdrop
+www.minecraft.net##._23tra1HsiiP6cT-Cka-ycB
