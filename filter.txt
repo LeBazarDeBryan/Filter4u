@@ -372,7 +372,16 @@ www.teamos.xyz##.notice-content
 www.mi.com##.truste-consent-track-class
 pcmanager.microsoft.com##._23tra1HsiiP6cT-Cka-ycB
 nowapsiindia.com##.adb-overlay
-www.badlion.net###usercentrics-root
+www.badlion.net###usercentrics-roo
 jartexnetwork.com##.notice-content
 www.frandroid.com##.didomi-popup__backdrop.didomi-notice-popup.didomi-popup-backdrop
 www.minecraft.net##._23tra1HsiiP6cT-Cka-ycB
+univ-droit.fr##.tarteaucitronBeforeVisible
+www.collaboraoffice.com##.cookie-notice-container
+www.collaboraoffice.com##.mf-loaded.mf-animate.mf-bar-iframe-sticky.mf-bar-iframe-large.mf-bar-iframe-top.mf-bar-iframe
+www.logitech.com##.ot-sdk-container > .ot-sdk-row
+logitechg502.com###cookie-law-info-bar
+www.pcmag.com##.ot-fade-in.onetrust-pc-dark-filter
+www.pcmag.com###onetrust-group-container
+www.pcmag.com##.has-reject-all-button.ot-sdk-columns.ot-sdk-twelve
+status.nicehash.com##.Cookie--base.Cookie--bottom.Cookie
