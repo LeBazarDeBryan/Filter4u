@@ -385,3 +385,37 @@ www.pcmag.com##.ot-fade-in.onetrust-pc-dark-filter
 www.pcmag.com###onetrust-group-container
 www.pcmag.com##.has-reject-all-button.ot-sdk-columns.ot-sdk-twelve
 status.nicehash.com##.Cookie--base.Cookie--bottom.Cookie
+www.francelive.fr##.didomi-popup-notice-buttons.didomi-buttons.multiple
+www.francelive.fr##.didomi-popup-notice-logo-container
+www.francelive.fr##.didomi-popup-notice-text-container
+dotnet.microsoft.com##._23tra1HsiiP6cT-Cka-ycB
+www.szynalski.com###cookie-message
+www.szynalski.com##.ad-banner-adblock-msg
+www.szynalski.com##.ad-remove-ui
+www.upwork.com##.ot-sdk-row
+www.paypal.com##.gdprCookieBanner_container
+www.freelance.com##.tarteaucitronAlertBigBottom
+www.honeygain.com##.cgsvr.sc-jrkPcm
+www.honeygain.com##.dMmrNH.sc-lkMEiX
+www.honeygain.com##.jjyIvt.sc-fnhmGq > svg
+earnweb.com##.dialog-pane--side.cdk-overlay-pane
+earnweb.com##.alert--layout-undefined.alert--danger.alert--size-md.alert
+blog.szynalski.com###cookie-message
+www.ocbase.com##.CookieConsent
+www.reddit.com##.transform-none.overflow-hidden.fixed.w-\[300px\].shadow-none.bottom-\[60px\].right-\[74px\].top-\[unset\].left-\[unset\].rounded-lg
+||img.gearspace.com/uploads/River%20Series_360x1050.jpg$image
+||js.driftt.com/core?d=1&embedId=rg5w64chs6ee&eId=rg5w64chs6ee&region=US&forceShow=false&skipCampaigns=false&sessionId=3adde968-4a85-473f-ae93-fe61512b68fe&sessionStarted=1697031869.968&campaignRefreshToken=02ada914-3632-4910-b060-1a3c31477ba2&hideController=false&pageLoadStartTime=1697031945355&mode=CHAT&driftEnableLog=false&secureIframe=false&u=https%3A%2F%2Fwww.techtarget.com%2Ftechnologyguide%2F$subdocument
+www.logitech.com##.email-subscription-modal-content > .js-modal-default-view.modal-default-view
+steamcommunity.com##.cookiepreferences_popup_content
+www.omnicalculator.com##.top.jsx-2656163997.jsx-2174582361
+www.omnicalculator.com##.bottom.jsx-2656163997.jsx-2174582361
+karmasearch.org##.px-5.justify-center.items-center.content-center.flex-col.flex
+www.last.fm##.ot-fade-in.onetrust-pc-dark-filter
+www.last.fm###onetrust-banner-sdk > .ot-sdk-container > .ot-sdk-row
+www.avast.com##.ot-fade-in.onetrust-pc-dark-filter
+www.avast.com##.vertical-align-content.default.otCenterRounded
+signalrgb.com##.cookie-visible.cookie-notice
+youtube.com##+js(set, yt.config_.openPopupConfig.supportedPopups.adBlockMessageViewModel, false)
+youtube.com##+js(set, Object.prototype.adBlocksFound, 0)
+youtube.com##+js(set, ytplayer.config.args.raw_player_response.adPlacements, [])
+youtube.com##+js(set, Object.prototype.hasAllowedInstreamAd, true)
