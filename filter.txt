@@ -1,28 +1,28 @@
-||www.mediafire.com/widgets/sidebar_promo.php$subdocument
-www.mediafire.com##.u49fswdte9fq
+||mediafire.com/widgets/sidebar_promo.php$subdocument
+mediafire.com##.u49fswdte9fq
 ||www.mediafire.com/widgets/premium_trial.php$subdocument
-www.mediafire.com##.lp6yu39k3yeh
-www.mediafire.com##.jg5awubzao7n
-www.mots-croises.ch##.ez_banner.ez_twentytwentytwo_corners
-www.mots-croises.ch##.ez-twentytwentytwo.ez-main-cmp-wrapper.pre-render-cmp.ez_banner
-www.dcode.fr###df2554e0c
-www.dcode.fr###x502
-www.dcode.fr###pe14
-www.dcode.fr###i862d6
-www.dcode.fr###x7457b7d
-www.dcode.fr###y3083e89
-www.dcode.fr###d798
-www.dcode.fr###y339c8e98
-www.dcode.fr###k5945aca7
-www.dcode.fr###h7104fc75
-www.dcode.fr###p27127
-www.dcode.fr###t79f9d3d
-www.dcode.fr###z7cec7
-www.dcode.fr###pd18
-www.dcode.fr###k105c
-www.dcode.fr###eff663e6
-www.scribens.fr##.visible.modal-wall > div
-www.scribens.fr##.visible.modal-wall
+mediafire.com##.lp6yu39k3yeh
+mediafire.com##.jg5awubzao7n
+mots-croises.ch##.ez_banner.ez_twentytwentytwo_corners
+mots-croises.ch##.ez-twentytwentytwo.ez-main-cmp-wrapper.pre-render-cmp.ez_banner
+dcode.fr###df2554e0c
+dcode.fr###x502
+dcode.fr###pe14
+dcode.fr###i862d6
+dcode.fr###x7457b7d
+dcode.fr###y3083e89
+dcode.fr###d798
+dcode.fr###y339c8e98
+dcode.fr###k5945aca7
+dcode.fr###h7104fc75
+dcode.fr###p27127
+dcode.fr###t79f9d3d
+dcode.fr###z7cec7
+dcode.fr###pd18
+dcode.fr###k105c
+dcode.fr###eff663e6
+scribens.fr##.visible.modal-wall > div
+scribens.fr##.visible.modal-wall
 samfw.com##.bnud.holder
 samfw.com###block-mess
 mifirm.net###block-mess
@@ -31,20 +31,20 @@ mifirm.net##.ydvy0kvs51ll
 mifirm.net##.l3gr1y3eem0z
 mifirm.net##.\36 83w536q5sn8
 ws-cdn.nperf.com##.BadLicense
-www.moyens.net##.nke7hnkyx975
+moyens.net##.nke7hnkyx975
 itnursery.com##.ez_banner.ez_twentytwentytwo_corners
 itnursery.com##.ez-twentytwentytwo.ez-main-cmp-wrapper.pre-render-cmp.ez_banner
 codefordev.com##.segment.aligned.center.inverted.vertical.ui
-www.tomsguide.com##.exit-intent__background.exit-intent
-www.nperf.com###consent
+tomsguide.com##.exit-intent__background.exit-intent
+nperf.com###consent
 ws.nperf.com##.tooltip
-www.speedtest.net##.ot-fade-in.onetrust-pc-dark-filter
-www.speedtest.net###onetrust-group-container
-www.speedtest.net##.has-reject-all-button.ot-sdk-columns.ot-sdk-twelve
-www.speedtest.net##.notification-container > div > .notification
+speedtest.net##.ot-fade-in.onetrust-pc-dark-filter
+speedtest.net###onetrust-group-container
+speedtest.net##.has-reject-all-button.ot-sdk-columns.ot-sdk-twelve
+speedtest.net##.notification-container > div > .notification
 cdn.privacy-mgmt.com##.message-overlay
 pop.system76.com##.sys-header-U6nZ
-www.techradar.com##.trending__wrapper
+techradar.com##.trending__wrapper
 zorin.com###modal-lite > .download-modal.md-content > .rounded.white.newsletter-form
 zorin.com###modal-lite > .download-modal.md-content > .text-center.d-block.muted
 zorin.com###modal-lite > .download-modal.md-content > div
@@ -56,45 +56,45 @@ zorin.com###modal-core > .download-modal.md-content > .text-center.d-block.muted
 alternativeto.net##.i8i0cqjzambv
 alternativeto.net##.lt23aqdyr50k
 alternativeto.net##.nrixmrp9slfy
-www.deepl.com##.min-\[1400px\]\:px-\[100px\].min-\[1200px\]\:px-\[70px\].min-\[1000px\]\:px-\[50px\].min-\[840px\]\:px-\[30px\].sm\:px-\[20px\].max-w-\[1600px\].sm\:bottom-6.mx-auto.z-50.bottom-0.inset-x-0.fixed
-www.deepl.com###dl_quotes_container
-www.deepl.com##.eSEOtericText.dl_visible_desktop_only.dl_top_element--wide.dl_body--redesign
-www.deepl.com##div.dl_ad_pro_container:nth-of-type(2)
+deepl.com##.min-\[1400px\]\:px-\[100px\].min-\[1200px\]\:px-\[70px\].min-\[1000px\]\:px-\[50px\].min-\[840px\]\:px-\[30px\].sm\:px-\[20px\].max-w-\[1600px\].sm\:bottom-6.mx-auto.z-50.bottom-0.inset-x-0.fixed
+deepl.com###dl_quotes_container
+deepl.com##.eSEOtericText.dl_visible_desktop_only.dl_top_element--wide.dl_body--redesign
+deepl.com##div.dl_ad_pro_container:nth-of-type(2)
 ||static.deepl.com/img/app_desktop.svg$image
 ||static.deepl.com/img/hexagon_yellow_outline.svg$image
 ||static.deepl.com/img/hexagon_grey_filled.svg$image
 ||static.deepl.com/img/write/write_illustration2.svg$image
 ||static.deepl.com/img/_optimized/footer/deeplLogo.svg$image
-www.deepl.com##path:nth-of-type(3)
-www.deepl.com###languageSelectorIcon
-www.forbes.com###ketch-consent-overlay
-www.forbes.com##.sizer__JgPZ9.root__TFKT8
-www.lifewire.com##.ot-fade-in.onetrust-pc-dark-filter
-www.lifewire.com##.ot-sdk-row
-www.stream4free.live###__peek_a_bar_34465017
-www.stream4free.live###__peek_a_bar_70486817
-www.stream4free.live##.intrinsic-container-16x9.intrinsic-container
-www.stream4free.live###Mod98 > .module-inner > .module-ct
-www.stream4free.live###promo
+deepl.com##path:nth-of-type(3)
+deepl.com###languageSelectorIcon
+forbes.com###ketch-consent-overlay
+forbes.com##.sizer__JgPZ9.root__TFKT8
+lifewire.com##.ot-fade-in.onetrust-pc-dark-filter
+lifewire.com##.ot-sdk-row
+stream4free.live###__peek_a_bar_34465017
+stream4free.live###__peek_a_bar_70486817
+stream4free.live##.intrinsic-container-16x9.intrinsic-container
+stream4free.live###Mod98 > .module-inner > .module-ct
+stream4free.live###promo
 jdownloader.org###cookie_info
 www.compuhoy.com##.ez-twentytwentytwo.ez-main-cmp-wrapper.pre-render-cmp.ez_banner
 status.adobe.com##.vertical-align-content.bottom.otFlat
-www.deepl.com##.min-\[1400px\]\:px-\[100px\].min-\[1200px\]\:px-\[70px\].min-\[1000px\]\:px-\[50px\].min-\[840px\]\:px-\[30px\].sm\:px-\[20px\].max-w-\[1600px\].sm\:bottom-6.mx-auto.z-\[1000\].bottom-0.inset-x-0.fixed
-www.razer.com##.use.lang-fr.tos-cookies-container
-www.razer.com##.use.lang-fr.tos-cookies-container
+deepl.com##.min-\[1400px\]\:px-\[100px\].min-\[1200px\]\:px-\[70px\].min-\[1000px\]\:px-\[50px\].min-\[840px\]\:px-\[30px\].sm\:px-\[20px\].max-w-\[1600px\].sm\:bottom-6.mx-auto.z-\[1000\].bottom-0.inset-x-0.fixed
+razer.com##.use.lang-fr.tos-cookies-container
+razer.com##.use.lang-fr.tos-cookies-container
 mysupport.razer.com##.use.lang-en.tos-cookies-container
-www.razer.com##.use.lang-en.tos-cookies-container
+razer.com##.use.lang-en.tos-cookies-container
 gold.razer.com##.dialog-item
-www.samsung.com##.truste-consent-content
-www.samsung.com##.truste-responsive.trustarc-banner
+samsung.com##.truste-consent-content
+samsung.com##.truste-responsive.trustarc-banner
 ||cmp-consent-tool.privacymanager.io/latest/index.html$subdocument
-www.rakuten.tv###gdpr-consent-tool-wrapper
-www.canalplus.com###pm-overlay
+rakuten.tv###gdpr-consent-tool-wrapper
+canalplus.com###pm-overlay
 sevrim.com##.column1 > center
 virtualmachinery.weebly.com##.wpcc-color-custom--943834009.wpcc-left.wpcc-bottom.wpcc-border-thin.wpcc-corners-small.wpcc-corners-round.wpcc-float.wpcc-container
-www.qrcode-monkey.com##.banner-content
-www.qrcode-monkey.com###onetrust-cookie-btn > svg
-www.qrcode-monkey.com###onetrust-cookie-btn-container > .ot-link-btn
+qrcode-monkey.com##.banner-content
+qrcode-monkey.com###onetrust-cookie-btn > svg
+qrcode-monkey.com###onetrust-cookie-btn-container > .ot-link-btn
 3ds.hacks.guide##.cc-color-override-2147335709.cc-top.cc-static.cc-theme-edgeless.cc-type-info.cc-banner.cc-window
 gamefaqs.gamespot.com##.ot-fade-in.onetrust-pc-dark-filter
 gamefaqs.gamespot.com##.ot-sdk-container > .ot-sdk-row
@@ -102,27 +102,27 @@ compucademy.net##.ez-twentytwentytwo.ez-main-cmp-wrapper.pre-render-cmp.ez_banne
 play2048.co##.ez-twentytwentytwo.ez-main-cmp-wrapper.pre-render-cmp.ez_banner
 flappybird.io##.ez-twentytwentytwo.ez-main-cmp-wrapper.pre-render-cmp.ez_banner
 blog.lawtantra.org##.singleton-element.cookie-choices-info
-www.achatmoinscher.com##body > .alert-info.alert
+achatmoinscher.com##body > .alert-info.alert
 geekflare.com###mailmunch-inner-overlay-1892c33a55b180fa
 geekflare.com##.mailmunch-bounceIn.mailmunch-popover-container
 geekflare.com###mailmunch-popover-1892c33a55b180fa
 geekflare.com###mailmunch-overlay-1892c33a55b180fa
 openweathermap.org##.stick-footer-panel
 emojis.wiki##.ez-twentytwentytwo.ez-main-cmp-wrapper.pre-render-cmp.ez_banner
-www.deepl.com##.transition-opacity.bg-opacity-50.bg-deprecated-almost-black.inset-0.fixed
-www.deepl.com##.sm\:p-0.text-center.pb-20.pt-4.px-4.justify-center.items-center.min-h-screen.flex
-www.deepl.com##.overflow-y-auto.inset-0.fixed
+deepl.com##.transition-opacity.bg-opacity-50.bg-deprecated-almost-black.inset-0.fixed
+deepl.com##.sm\:p-0.text-center.pb-20.pt-4.px-4.justify-center.items-center.min-h-screen.flex
+deepl.com##.overflow-y-auto.inset-0.fixed
 d.tousecurity.com##.hustle-optin-mask.hustle-popup-mask
 fmscan.org###cookieDiv
 duckduckgo.com##.is-showing.js-welcome-wrap.welcome-wrap
-www.gamergeeks.net##.ez-twentytwentytwo.ez-main-cmp-wrapper.pre-render-cmp.ez_banner
+gamergeeks.net##.ez-twentytwentytwo.ez-main-cmp-wrapper.pre-render-cmp.ez_banner
 developers.cloudflare.com##.ot-fade-in.onetrust-pc-dark-filter
 developers.cloudflare.com##.ot-sdk-container > .ot-sdk-row
-www.darty.com##.ot-fade-in.onetrust-pc-dark-filter
-www.darty.com###onetrust-button-group-parent
-www.darty.com###onetrust-group-container
-www.twitch.tv##.consent-banner.fvoCQA.Layout-sc-1xcs6mc-0
-www.thewindowsclub.com##.ez-original.ez-main-cmp-wrapper.pre-render-cmp.ez_modal
+darty.com##.ot-fade-in.onetrust-pc-dark-filter
+darty.com###onetrust-button-group-parent
+darty.com###onetrust-group-container
+twitch.tv##.consent-banner.fvoCQA.Layout-sc-1xcs6mc-0
+thewindowsclub.com##.ez-original.ez-main-cmp-wrapper.pre-render-cmp.ez_modal
 lecrabeinfo.net##.alertIncentive.alert-warning.alert
 lecrabeinfo.net##.langouste_cookiesDenied.langouste_no.langouste_singlePost3.langouste_single.langouste
 lecrabeinfo.net##.langouste_cookiesDenied.langouste_no.langouste_singlePost2.langouste_single.langouste
@@ -136,31 +136,31 @@ touchvpn.net##.ot-sdk-container
 ||img.1fichier.com/ui/ui-bg_highlight-soft_100_eeeeee_1x100.png$image
 sevrim.com##.column1 > center
 tomacloud.com###myCookieConsent
-www.theverge.com##.lg\:pt-36.lg\:pb-40.text-black.pt-28.pb-36.px-16.bg-franklin.w-full.z-30.bottom-0.fixed.duet--cta--cookie-banner
+theverge.com##.lg\:pt-36.lg\:pb-40.text-black.pt-28.pb-36.px-16.bg-franklin.w-full.z-30.bottom-0.fixed.duet--cta--cookie-banner
 1fichier.com###cookie_box
-www.deepl.com##.sm\:justify-end.sm\:flex-row.py-4.px-5.gap-4.flex-col.flex
-www.deepl.com##.\[\&_a\]\:\!underline.\[\&_a\]\:text-white.\[\&_a\]\:font-semibold.text-white.pb-4
-www.deepl.com##.sm\:text-2xl.font-semibold.text-lg.py-3.px-5
-www.deepl.com##.text-current.font-medium.gap-2.items-center.h-8.flex.rounded-xs.active\:text-dark-7
-www.epicgames.com###onetrust-banner-sdk > .ot-sdk-container > .ot-sdk-row
+deepl.com##.sm\:justify-end.sm\:flex-row.py-4.px-5.gap-4.flex-col.flex
+deepl.com##.\[\&_a\]\:\!underline.\[\&_a\]\:text-white.\[\&_a\]\:font-semibold.text-white.pb-4
+deepl.com##.sm\:text-2xl.font-semibold.text-lg.py-3.px-5
+deepl.com##.text-current.font-medium.gap-2.items-center.h-8.flex.rounded-xs.active\:text-dark-7
+epicgames.com###onetrust-banner-sdk > .ot-sdk-container > .ot-sdk-row
 play2048.co##.ez-twentytwentytwo.ez-main-cmp-wrapper.pre-render-cmp.ez_banner
-www.lannuaire.fr##.cli-show.cli-popupbar-overlay.cli-fade.cli-modal-backdrop
-www.lannuaire.fr###cookie-law-info-bar
-www.annuaire-inverse-france.com##.cookies > div
-www.speedtest.net##.ot-fade-in.onetrust-pc-dark-filter
-www.speedtest.net###onetrust-group-container
-www.speedtest.net##.has-reject-all-button.ot-sdk-columns.ot-sdk-twelve
-www.tp-link.com##.tp-cookie-eu
-www.it-connect.fr##.ez_banner.ez-twentytwentytwo.ez-main-cmp-wrapper
+lannuaire.fr##.cli-show.cli-popupbar-overlay.cli-fade.cli-modal-backdrop
+lannuaire.fr###cookie-law-info-bar
+annuaire-inverse-france.com##.cookies > div
+speedtest.net##.ot-fade-in.onetrust-pc-dark-filter
+speedtest.net###onetrust-group-container
+speedtest.net##.has-reject-all-button.ot-sdk-columns.ot-sdk-twelve
+tp-link.com##.tp-cookie-eu
+it-connect.fr##.ez_banner.ez-twentytwentytwo.ez-main-cmp-wrapper
 ||static.tp-link.com/assets/diff/fr/widgets/popup/pc-img.png$image
-www.intel.fr##.ot-fade-in.onetrust-pc-dark-filter
-www.intel.fr##.ot-sdk-container > .ot-sdk-row
-www.itigic.com##.ez-twentytwentytwo.ez-main-cmp-wrapper.pre-render-cmp.ez_banner
-www.pcastuces.com##.sd-cmp-VSd2z
-www.instagram.com##._abcm._aa5t._abck._abci._abcg._abcf._abab._ab9-._abby._abbg._ab9p._ab9m._ab9h._ab9c._ab99._ab94._ab8w._ab8q
-www.fake-id.com###freeprivacypolicy-com---preferences-center
-www.youtube.com##.opened
-www.youtube.com##.ytd-consent-bump-v2-lightbox.style-scope.eom-v1-dialog
+intel.fr##.ot-fade-in.onetrust-pc-dark-filter
+intel.fr##.ot-sdk-container > .ot-sdk-row
+itigic.com##.ez-twentytwentytwo.ez-main-cmp-wrapper.pre-render-cmp.ez_banner
+pcastuces.com##.sd-cmp-VSd2z
+instagram.com##._abcm._aa5t._abck._abci._abcg._abcf._abab._ab9-._abby._abbg._ab9p._ab9m._ab9h._ab9c._ab99._ab94._ab8w._ab8q
+fake-id.com###freeprivacypolicy-com---preferences-center
+youtube.com##.opened
+youtube.com##.ytd-consent-bump-v2-lightbox.style-scope.eom-v1-dialog
 aternos.org##.server-tutorials
 scalacube.com###navigation > .contact-bar
 alfred.camera##.MuiDialog-scrollPaper.MuiDialog-container
@@ -175,28 +175,28 @@ aternos.org##.content > .ad-dfp.mobile-full-width.responsive-leaderboard > .ad-l
 aternos.org##.content > .ad-dfp.mobile-full-width.responsive-leaderboard > .ad-replacement
 scribens.fr##.visible.modal-wall > div
 scribens.fr##.visible.modal-wall
-www.hostgator.com##.ot-fade-in.onetrust-pc-dark-filter
+hostgator.com##.ot-fade-in.onetrust-pc-dark-filter
 zyro.com##.zyro-cookies
 vincentdepaul.fr###cookie_law_banner
 vacances-scolaires.education##.sd-cmp-VSd2z
 technicalustad.com##.ez-twentytwentytwo.ez-main-cmp-wrapper.pre-render-cmp.ez_banner
 www.synaptics.com##.eu-cookie-compliance-banner--opt-in.eu-cookie-compliance-banner-info.eu-cookie-compliance-banner
-www.virustotal.com##vt-stateful-disclaimer
-www.sisik.eu##.cc-color-override--1645678099.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-window
+virustotal.com##vt-stateful-disclaimer
+sisik.eu##.cc-color-override--1645678099.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-window
 ||www.dlink2.com/media.php$subdocument
 ||www.clictune.com/images/logo_redirect.png$image
 fileproinfo.com###cookieAlert
 twitter.com##.r-13qz1uu.r-1f1sjgu.r-ymttw5.r-1d7fvdj.r-18u37iz.r-15ce4ve.r-1sw30gj.r-1awozwy.css-1dbjc4n
-www.molotov.tv##._2HA10
-www.molotov.tv##.eRnhI
+molotov.tv##._2HA10
+molotov.tv##.eRnhI
 blog-iptv.com##.et_pb_bg_layout_light.et_pb_text_align_center.et_pb_promo.et_pb_cta_0.et_pb_module
 blog-iptv.com##.et_pb_sidebar_no_border.et_pb_bg_layout_light.et_pb_widget_area_right.clearfix.et_pb_widget_area.et_pb_sidebar_0.et_pb_module
 blog-iptv.com##.cookie-notice-container
-www.m3u.fr##.cc_container--open.cc_container.cc_banner
-www.m3u.fr###fh5co-content > center
-www.m3u.fr##.left-sidebar.col-md-pull-8.col-md-4
-www.justgeek.fr##.sd-cmp-33S-2 > div
-www.justgeek.fr##.sd-cmp-33S-2
+m3u.fr##.cc_container--open.cc_container.cc_banner
+m3u.fr###fh5co-content > center
+m3u.fr##.left-sidebar.col-md-pull-8.col-md-4
+justgeek.fr##.sd-cmp-33S-2 > div
+justgeek.fr##.sd-cmp-33S-2
 superuser.com##.js-consent-banner.r16.l16.b16.bar-lg.fc-white.bg-black-750.sm\:p16.p32.sm\:w-auto.ws4.z-nav-fixed.ps-fixed.ff-sans
 stackoverflow.com##.spotCookieLg.svg-spot.sm\:d-none.mb24.mln4 > path
 stackoverflow.com##.spotCookieLg.svg-spot.sm\:d-none.mb24.mln4
@@ -205,56 +205,56 @@ stackoverflow.com##.s-anchors__underlined.s-anchors__inherit.s-anchors.mb16
 stackoverflow.com##.js-consent-banner-hide.js-accept-cookies.s-btn__primary.s-btn.flex--item6
 helpx.adobe.com##.vertical-align-content.bottom.otFlat
 helpx.adobe.com###helpful-pod
-www.bel-com.be##.cn-body > p
-www.bel-com.be##.title > span
-www.bel-com.be##.cm-btn-accept-all.cm-btn-success.cm-btn
-www.bel-com.be##[href="https://kiprotect.com/klaro"]
-www.bel-com.be###wrap > .panel
-www.bel-com.be###phpbb_announcement_1
-www.mediafire.com##.ez_banner.ez-twentytwentytwo.ez-main-cmp-wrapper
-www.mediafire.com###cookie-accept-footer
-www.mediafire.com##.Download-compatibility
-www.mediafire.com##.description
-www.mediafire.com###ezwrp-105
-www.mediafire.com###ezwrp-104
-www.mediafire.com##.DLExtraInfo-row.DLExtraInfo-Facebook
-www.mediafire.com##.DLExtraInfo-column.DLExtraInfo-downloadApp
-www.mediafire.com###ezwrp-106
-www.mediafire.com##.DLExtraInfo-column.DLExtraInfo-accountStatus > .DLExtraInfo-sectionDetails
-www.mediafire.com##.DLExtraInfo-column.DLExtraInfo-accountStatus
-www.mediafire.com###subFooterSocial
-www.mediafire.com##.nonDLContentWrap
-www.mediafire.com##.DLExtraInfo-row.DLExtraInfo-virusTotal
-www.mediafire.com##.DLExtraInfo-column.DLExtraInfo-upload
-www.mediafire.com##.u-cf.footerColWrap
-www.mediafire.com##.footer-gt-cont
-www.mediafire.com##div.DLExtraInfo:nth-of-type(1)
-www.mediafire.com##.DLExtraInfo-wrap
-www.viralwalk.com##.MuiDialog-scrollPaper.MuiDialog-container
-www.viralwalk.com##.MuiBackdrop-root
-www.viralwalk.com##.MuiDialog-root
+bel-com.be##.cn-body > p
+bel-com.be##.title > span
+bel-com.be##.cm-btn-accept-all.cm-btn-success.cm-btn
+bel-com.be##[href="https://kiprotect.com/klaro"]
+bel-com.be###wrap > .panel
+bel-com.be###phpbb_announcement_1
+mediafire.com##.ez_banner.ez-twentytwentytwo.ez-main-cmp-wrapper
+mediafire.com###cookie-accept-footer
+mediafire.com##.Download-compatibility
+mediafire.com##.description
+mediafire.com###ezwrp-105
+mediafire.com###ezwrp-104
+mediafire.com##.DLExtraInfo-row.DLExtraInfo-Facebook
+mediafire.com##.DLExtraInfo-column.DLExtraInfo-downloadApp
+mediafire.com###ezwrp-106
+mediafire.com##.DLExtraInfo-column.DLExtraInfo-accountStatus > .DLExtraInfo-sectionDetails
+mediafire.com##.DLExtraInfo-column.DLExtraInfo-accountStatus
+mediafire.com###subFooterSocial
+mediafire.com##.nonDLContentWrap
+mediafire.com##.DLExtraInfo-row.DLExtraInfo-virusTotal
+mediafire.com##.DLExtraInfo-column.DLExtraInfo-upload
+mediafire.com##.u-cf.footerColWrap
+mediafire.com##.footer-gt-cont
+mediafire.com##div.DLExtraInfo:nth-of-type(1)
+mediafire.com##.DLExtraInfo-wrap
+viralwalk.com##.MuiDialog-scrollPaper.MuiDialog-container
+viralwalk.com##.MuiBackdrop-root
+viralwalk.com##.MuiDialog-root
 ploudos.com##.css-ea5y2c.qc-cmp-cleanslate
 ploudos.com##.footer
 ploudos.com##.qc-cmp2-persistent-link
 ploudos.com##.alert-danger.alert
-www.cdiscount.com##.tc-privacy-iab-banner.tc-privacy-footer.tc-privacy-bar.tc-privacy-banner.tc-reset-css
-www.dolby.com##.ot-sdk-container > .ot-sdk-row
-www.assistance.bouyguestelecom.fr###tc_privacy_textBan > p
-www.assistance.bouyguestelecom.fr##li.tc_bt_listitems:nth-of-type(1)
-www.assistance.bouyguestelecom.fr##li.tc_bt_listitems:nth-of-type(2)
-www.assistance.bouyguestelecom.fr##li.tc_bt_listitems:nth-of-type(3)
-www.assistance.bouyguestelecom.fr##li.tc_bt_listitems:nth-of-type(4)
-www.assistance.bouyguestelecom.fr##li.tc_bt_listitems:nth-of-type(5)
-www.assistance.bouyguestelecom.fr##li.tc_bt_listitems:nth-of-type(6)
-www.assistance.bouyguestelecom.fr##.tc_bt_listitems2
-www.assistance.bouyguestelecom.fr###tc_privacy_title > p
-www.assistance.bouyguestelecom.fr###popin_tc_privacy_button_3
-www.streaming-vlc.com##.tdc-element-style.td-pb-row.wpb_row.tdi_61.vc_row
-www.streaming-vlc.com##.td-is-sticky.td-pb-span4.tdc-column.vc_column_container.wpb_column.tdi_87.vc_column
-www.recevoir-tv.com##.cc_container--open.cc_container.cc_banner
+cdiscount.com##.tc-privacy-iab-banner.tc-privacy-footer.tc-privacy-bar.tc-privacy-banner.tc-reset-css
+dolby.com##.ot-sdk-container > .ot-sdk-row
+assistance.bouyguestelecom.fr###tc_privacy_textBan > p
+assistance.bouyguestelecom.fr##li.tc_bt_listitems:nth-of-type(1)
+assistance.bouyguestelecom.fr##li.tc_bt_listitems:nth-of-type(2)
+assistance.bouyguestelecom.fr##li.tc_bt_listitems:nth-of-type(3)
+assistance.bouyguestelecom.fr##li.tc_bt_listitems:nth-of-type(4)
+assistance.bouyguestelecom.fr##li.tc_bt_listitems:nth-of-type(5)
+assistance.bouyguestelecom.fr##li.tc_bt_listitems:nth-of-type(6)
+assistance.bouyguestelecom.fr##.tc_bt_listitems2
+assistance.bouyguestelecom.fr###tc_privacy_title > p
+assistance.bouyguestelecom.fr###popin_tc_privacy_button_3
+streaming-vlc.com##.tdc-element-style.td-pb-row.wpb_row.tdi_61.vc_row
+streaming-vlc.com##.td-is-sticky.td-pb-span4.tdc-column.vc_column_container.wpb_column.tdi_87.vc_column
+recevoir-tv.com##.cc_container--open.cc_container.cc_banner
 iptv-online.org##.cmplz-show.cc-window.cmplz-categories-type-save-preferences.cmplz-center.optin.banner-1.cmplz-cookiebanner
 minecraft.tools###cm
-www.tiktok.com##tiktok-cookie-banner
+tiktok.com##tiktok-cookie-banner
 xmr.2miners.com##.banner.banner-2cryptocalc > [href]
 hypixel.net##.notice-content
 cdn.privacy-mgmt.com##p.no-children.text.message-component:nth-of-type(1)
@@ -270,159 +270,159 @@ cdn.privacy-mgmt.com##.legend
 cdn.privacy-mgmt.com##p.pm-sub-p:nth-of-type(2)
 cdn.privacy-mgmt.com##h2.info-title
 cdn.privacy-mgmt.com##.accept-toggle.stack-toggle
-www.whois.com##.cc-color-override--1762072787.cc-bottom.cc-theme-block.cc-type-opt-in.cc-banner.cc-window
+whois.com##.cc-color-override--1762072787.cc-bottom.cc-theme-block.cc-type-opt-in.cc-banner.cc-window
 gaming.stackexchange.com##.js-consent-banner.r16.l16.b16.bar-lg.fc-white.bg-black-750.sm\:p16.p32.sm\:w-auto.ws4.z-nav-fixed.ps-fixed.ff-sans
 meta.stackexchange.com##.js-consent-banner.r16.l16.b16.bar-lg.fc-white.bg-black-750.sm\:p16.p32.sm\:w-auto.ws4.z-nav-fixed.ps-fixed.ff-sans
 minecraft.fandom.com##.sitenotice-wrapper--visible.sitenotice-wrapper
-www.reddit.com##.pointer-events-auto.border-tone-4.border-solid.border.shadow-md.duration-300.transition-opacity.pt-0.p-md.opacity-100.mx-0.my-md.rounded-sm.bg-ui-modalbackground.relative.block.z-\[2\].nd\:pb-2xl.nd\:visible
+reddit.com##.pointer-events-auto.border-tone-4.border-solid.border.shadow-md.duration-300.transition-opacity.pt-0.p-md.opacity-100.mx-0.my-md.rounded-sm.bg-ui-modalbackground.relative.block.z-\[2\].nd\:pb-2xl.nd\:visible
 rufus.ie##.text
 rufus.ie##hr:nth-of-type(1)
 rufus.ie##hr:nth-of-type(2)
-www.mcbedrock.com##.css-1vti6ok.qc-cmp-cleanslate
-www.k-net.fr##.cmplz-show.cc-window.cmplz-categories-type-view-preferences.cmplz-bottom-right.optin.banner-1.cmplz-cookiebanner
-www.free-reseau.fr###adblocker > table
-www.free-reseau.fr##.recherche_google
-fr.trustpilot.com##.ot-fade-in.onetrust-pc-dark-filter
-fr.trustpilot.com###onetrust-group-container
-fr.trustpilot.com##.has-reject-all-button.ot-sdk-columns.ot-sdk-twelve
-fr.wikipedia.org##.vector-sitenotice-container
-www.asciiart.eu##.qc-cmp2-consent-info
-www.asciiart.eu##.css-47sehv
-www.dlink2.com##td:nth-of-type(1)
-www.dlink2.com##td:nth-of-type(3)
-www.curseforge.com##.cookiebar
-www.planetminecraft.com##.card-content
-www.planetminecraft.com##li.r-card.resource:nth-of-type(3)
-www.planetminecraft.com##li.r-card.resource:nth-of-type(18)
-www.omegle.com
+mcbedrock.com##.css-1vti6ok.qc-cmp-cleanslate
+k-net.fr##.cmplz-show.cc-window.cmplz-categories-type-view-preferences.cmplz-bottom-right.optin.banner-1.cmplz-cookiebanner
+free-reseau.fr###adblocker > table
+free-reseau.fr##.recherche_google
+trustpilot.com##.ot-fade-in.onetrust-pc-dark-filter
+trustpilot.com###onetrust-group-container
+trustpilot.com##.has-reject-all-button.ot-sdk-columns.ot-sdk-twelve
+wikipedia.org##.vector-sitenotice-container
+asciiart.eu##.qc-cmp2-consent-info
+asciiart.eu##.css-47sehv
+dlink2.com##td:nth-of-type(1)
+dlink2.com##td:nth-of-type(3)
+curseforge.com##.cookiebar
+planetminecraft.com##.card-content
+planetminecraft.com##li.r-card.resource:nth-of-type(3)
+planetminecraft.com##li.r-card.resource:nth-of-type(18)
+omegle.com
 gameguardian.net##.ipsJS_hide.ipsPad_half
-www.aresclient.com##.dnjcK.lhbLEe
+aresclient.com##.dnjcK.lhbLEe
 epieos.com##.w-full.bottom-0.fixed > .shadow-strong.sm-h\:max-h-\[150px\].max-h-\[150px\].md\:max-h-\[240px\].max-h-\[240px\].bg-white.min-w-0.w-full.justify-center.flex.relative
 epieos.com##.sm-h\:hidden.md\:text-\[12px\].md\:flex-col.md\:flex.hidden.min-h-0 > .max-h-\[24px\].h-\[3vh\]
-www.iobit.com##.active.clearfix.float-bar
-www.twitch.tv##.jXmrwp.Layout-sc-1xcs6mc-0
-www.twitch.tv##.consent-banner.fvjrYF.Layout-sc-1xcs6mc-0
-www.histoiredumonde.net##.tarteaucitronAlertBigBottom
-www.larousse.fr##.ot-fade-in.onetrust-pc-dark-filter
-www.larousse.fr###onetrust-group-container
-www.larousse.fr##.has-reject-all-button.ot-sdk-columns.ot-sdk-twelve
+iobit.com##.active.clearfix.float-bar
+twitch.tv##.jXmrwp.Layout-sc-1xcs6mc-0
+twitch.tv##.consent-banner.fvjrYF.Layout-sc-1xcs6mc-0
+histoiredumonde.net##.tarteaucitronAlertBigBottom
+larousse.fr##.ot-fade-in.onetrust-pc-dark-filter
+larousse.fr###onetrust-group-container
+larousse.fr##.has-reject-all-button.ot-sdk-columns.ot-sdk-twelve
 assets.poool.fr##.p3-login.p3-link
 assets.poool.fr##.p3-or
 assets.poool.fr##button.p3-main-action.p3-button:nth-of-type(2)
-www.nationalgeographic.fr##.ot-fade-in.onetrust-pc-dark-filter
-www.nationalgeographic.fr##.has-reject-all-button.ot-sdk-columns.ot-sdk-twelve
-www.nationalgeographic.fr###onetrust-group-container
-www.nationalgeographic.fr##.css-nayslh
-www.universalis.fr##.css-8mu7gm.qc-cmp-cleanslate
-www.universalis.fr###bandeau-footer
-www.universalis.fr###back-to-top
-www.universalis.fr##div.free-toc-container:nth-of-type(3)
-www.universalis.fr##div.free-toc-container:nth-of-type(2)
-www.universalis.fr##div.free-toc-container:nth-of-type(1)
-www.universalis.fr##.folio-block
-||www.universalis.fr/_web/assets/img/banner-cta.png$image
-www.remove.bg##.fixed-bottom.banner
-www.remove.bg##.position-relative.px-4.py-3.rounded-lg.overlay
-www.remove.bg##div.small:nth-of-type(3)
-www.remove.bg##.pt-2.text-center.justify-content-center.align-items-center.d-flex
-www.remove.bg##.w-100.mt-md-0.mt-3.mb-3 > .mb-1
-www.remove.bg##.w-100.mt-md-0.mt-3.mb-3 > .small.text-muted > div
-www.remove.bg##.\!mt-3.gap-3.flex-wrap.flex
-www.opendns.com###onetrust-banner-sdk > div
-www.opendns.com##.vertical-align-content.ot-wo-title.bottom.otFlat
-www.cisco.com###onetrust-banner-sdk > div
-www.cisco.com##.vertical-align-content.ot-wo-title.bottom.otFlat
-www.cloudflare.com##.ot-fade-in.onetrust-pc-dark-filter
-www.cloudflare.com##.ot-sdk-row
-www.linkedin.com##.artdeco-global-alert--COOKIE_CONSENT.artdeco-global-alert--NOTICE.artdeco-global-alert
-www.linkedin.com##.transition-in.global-alert-banner
-www.ci4mastream.fr##.singleton-element.cookie-choices-info
-www.ci4mastream.fr##.cookie.nJ
-www.ci4mastream.fr###notif-widget > .HTML.widget
+nationalgeographic.fr##.ot-fade-in.onetrust-pc-dark-filter
+nationalgeographic.fr##.has-reject-all-button.ot-sdk-columns.ot-sdk-twelve
+nationalgeographic.fr###onetrust-group-container
+nationalgeographic.fr##.css-nayslh
+universalis.fr##.css-8mu7gm.qc-cmp-cleanslate
+universalis.fr###bandeau-footer
+universalis.fr###back-to-top
+universalis.fr##div.free-toc-container:nth-of-type(3)
+universalis.fr##div.free-toc-container:nth-of-type(2)
+universalis.fr##div.free-toc-container:nth-of-type(1)
+universalis.fr##.folio-block
+||universalis.fr/_web/assets/img/banner-cta.png$image
+remove.bg##.fixed-bottom.banner
+remove.bg##.position-relative.px-4.py-3.rounded-lg.overlay
+remove.bg##div.small:nth-of-type(3)
+remove.bg##.pt-2.text-center.justify-content-center.align-items-center.d-flex
+remove.bg##.w-100.mt-md-0.mt-3.mb-3 > .mb-1
+remove.bg##.w-100.mt-md-0.mt-3.mb-3 > .small.text-muted > div
+remove.bg##.\!mt-3.gap-3.flex-wrap.flex
+opendns.com###onetrust-banner-sdk > div
+opendns.com##.vertical-align-content.ot-wo-title.bottom.otFlat
+cisco.com###onetrust-banner-sdk > div
+cisco.com##.vertical-align-content.ot-wo-title.bottom.otFlat
+cloudflare.com##.ot-fade-in.onetrust-pc-dark-filter
+cloudflare.com##.ot-sdk-row
+linkedin.com##.artdeco-global-alert--COOKIE_CONSENT.artdeco-global-alert--NOTICE.artdeco-global-alert
+linkedin.com##.transition-in.global-alert-banner
+ci4mastream.fr##.singleton-element.cookie-choices-info
+ci4mastream.fr##.cookie.nJ
+ci4mastream.fr###notif-widget > .HTML.widget
 ||landings-cdn.adsterratech.com/referralBanners/gif/250x250_adsterra_reff.gif$image
 ||landings-cdn.adsterratech.com/referralBanners/gif/250x250_adsterra_reff.gif$image
-www.warp2search.net##.alert-warning.alert-block.alert
+warp2search.net##.alert-warning.alert-block.alert
 geo-tel.mobi###cookie-banner
 tracking-panel.org###mcl-wrapper
 obsproject.com##.notice-content
-www.facebook.com##._3ixn
-www.facebook.com##._3qw._4-hy.uiLayer._9o-w._10
+facebook.com##._3ixn
+facebook.com##._3qw._4-hy.uiLayer._9o-w._10
 romtendo.webnode.nl##.cb-scrollable.cb-bar
 romtendo.webnode.nl##.wnd-free-stripe-link
 romtendo.webnode.nl##.cf.wnd-free-stripe
 ws.nperf.com##.content > .title
 ws.nperf.com##.content > .text
 ws.nperf.com##.buttonAcceptContainer
-www.free-css.com##.divascookies-banner-container
+free-css.com##.divascookies-banner-container
 builtbybit.com##.notice--cookie.notice--primary.js-notice.notice
 polymart.org##.wpcc-color-custom--943834009.wpcc-bottom.wpcc-fontsize-small.wpcc-transparency-10.wpcc-padding-none.wpcc-corners-normal.wpcc-corners-round.wpcc-banner.wpcc-container
-www.tebex.io##.cookie-bar
+tebex.io##.cookie-bar
 vencord.app
 ubuntu.com##.p-modal
-fr.lovebox.love##.cb-cookie_consent-layout_container.fhVjU.WidgetComponent__LayoutContainer-sc-1933jxm-1
-fr.lovebox.love###app-embed-container-30760
-www.chronometre.fr##font > font
+lovebox.love##.cb-cookie_consent-layout_container.fhVjU.WidgetComponent__LayoutContainer-sc-1933jxm-1
+lovebox.love###app-embed-container-30760
+chronometre.fr##font > font
 webhorloge.fr##.xs-p-10.panel-ne0n
 webhorloge.fr##.panel-share.panel-body > ul
 twitter.com##.r-1i6wzkk.r-yz1j6i.r-qo02w8.r-l5o3uw.css-1dbjc4n
 about.twitter.com##.u12b-opt-in
-www.timeanddate.com##.center.modal
-www.teamos.xyz##.notice-content
-www.mi.com##.truste-consent-track-class
+timeanddate.com##.center.modal
+teamos.xyz##.notice-content
+mi.com##.truste-consent-track-class
 pcmanager.microsoft.com##._23tra1HsiiP6cT-Cka-ycB
 nowapsiindia.com##.adb-overlay
-www.badlion.net###usercentrics-roo
+badlion.net###usercentrics-roo
 jartexnetwork.com##.notice-content
-www.frandroid.com##.didomi-popup__backdrop.didomi-notice-popup.didomi-popup-backdrop
-www.minecraft.net##._23tra1HsiiP6cT-Cka-ycB
+frandroid.com##.didomi-popup__backdrop.didomi-notice-popup.didomi-popup-backdrop
+minecraft.net##._23tra1HsiiP6cT-Cka-ycB
 univ-droit.fr##.tarteaucitronBeforeVisible
-www.collaboraoffice.com##.cookie-notice-container
-www.collaboraoffice.com##.mf-loaded.mf-animate.mf-bar-iframe-sticky.mf-bar-iframe-large.mf-bar-iframe-top.mf-bar-iframe
-www.logitech.com##.ot-sdk-container > .ot-sdk-row
+collaboraoffice.com##.cookie-notice-container
+collaboraoffice.com##.mf-loaded.mf-animate.mf-bar-iframe-sticky.mf-bar-iframe-large.mf-bar-iframe-top.mf-bar-iframe
+logitech.com##.ot-sdk-container > .ot-sdk-row
 logitechg502.com###cookie-law-info-bar
-www.pcmag.com##.ot-fade-in.onetrust-pc-dark-filter
-www.pcmag.com###onetrust-group-container
-www.pcmag.com##.has-reject-all-button.ot-sdk-columns.ot-sdk-twelve
+pcmag.com##.ot-fade-in.onetrust-pc-dark-filter
+pcmag.com###onetrust-group-container
+pcmag.com##.has-reject-all-button.ot-sdk-columns.ot-sdk-twelve
 status.nicehash.com##.Cookie--base.Cookie--bottom.Cookie
-www.francelive.fr##.didomi-popup-notice-buttons.didomi-buttons.multiple
-www.francelive.fr##.didomi-popup-notice-logo-container
-www.francelive.fr##.didomi-popup-notice-text-container
+francelive.fr##.didomi-popup-notice-buttons.didomi-buttons.multiple
+francelive.fr##.didomi-popup-notice-logo-container
+francelive.fr##.didomi-popup-notice-text-container
 dotnet.microsoft.com##._23tra1HsiiP6cT-Cka-ycB
-www.szynalski.com###cookie-message
-www.szynalski.com##.ad-banner-adblock-msg
-www.szynalski.com##.ad-remove-ui
-www.upwork.com##.ot-sdk-row
-www.paypal.com##.gdprCookieBanner_container
-www.freelance.com##.tarteaucitronAlertBigBottom
-www.honeygain.com##.cgsvr.sc-jrkPcm
-www.honeygain.com##.dMmrNH.sc-lkMEiX
-www.honeygain.com##.jjyIvt.sc-fnhmGq > svg
+szynalski.com###cookie-message
+szynalski.com##.ad-banner-adblock-msg
+szynalski.com##.ad-remove-ui
+upwork.com##.ot-sdk-row
+paypal.com##.gdprCookieBanner_container
+freelance.com##.tarteaucitronAlertBigBottom
+honeygain.com##.cgsvr.sc-jrkPcm
+honeygain.com##.dMmrNH.sc-lkMEiX
+honeygain.com##.jjyIvt.sc-fnhmGq > svg
 earnweb.com##.dialog-pane--side.cdk-overlay-pane
 earnweb.com##.alert--layout-undefined.alert--danger.alert--size-md.alert
 blog.szynalski.com###cookie-message
-www.ocbase.com##.CookieConsent
-www.reddit.com##.transform-none.overflow-hidden.fixed.w-\[300px\].shadow-none.bottom-\[60px\].right-\[74px\].top-\[unset\].left-\[unset\].rounded-lg
+ocbase.com##.CookieConsent
+reddit.com##.transform-none.overflow-hidden.fixed.w-\[300px\].shadow-none.bottom-\[60px\].right-\[74px\].top-\[unset\].left-\[unset\].rounded-lg
 ||img.gearspace.com/uploads/River%20Series_360x1050.jpg$image
-||js.driftt.com/core?d=1&embedId=rg5w64chs6ee&eId=rg5w64chs6ee&region=US&forceShow=false&skipCampaigns=false&sessionId=3adde968-4a85-473f-ae93-fe61512b68fe&sessionStarted=1697031869.968&campaignRefreshToken=02ada914-3632-4910-b060-1a3c31477ba2&hideController=false&pageLoadStartTime=1697031945355&mode=CHAT&driftEnableLog=false&secureIframe=false&u=https%3A%2F%2Fwww.techtarget.com%2Ftechnologyguide%2F$subdocument
-www.logitech.com##.email-subscription-modal-content > .js-modal-default-view.modal-default-view
+||js.driftt.com/core?d=1&embedId=rg5w64chs6ee&eId=rg5w64chs6ee&region=US&forceShow=false&skipCampaigns=false&sessionId=3adde968-4a85-473f-ae93-fe61512b68fe&sessionStarted=1697031869.968&campaignRefreshToken=02ada914-3632-4910-b060-1a3c31477ba2&hideController=false&pageLoadStartTime=1697031945355&mode=CHAT&driftEnableLog=false&secureIframe=false&u=https%3A%2F%2Ftechtarget.com%2Ftechnologyguide%2F$subdocument
+logitech.com##.email-subscription-modal-content > .js-modal-default-view.modal-default-view
 steamcommunity.com##.cookiepreferences_popup_content
-www.omnicalculator.com##.top.jsx-2656163997.jsx-2174582361
-www.omnicalculator.com##.bottom.jsx-2656163997.jsx-2174582361
+omnicalculator.com##.top.jsx-2656163997.jsx-2174582361
+omnicalculator.com##.bottom.jsx-2656163997.jsx-2174582361
 karmasearch.org##.px-5.justify-center.items-center.content-center.flex-col.flex
-www.last.fm##.ot-fade-in.onetrust-pc-dark-filter
-www.last.fm###onetrust-banner-sdk > .ot-sdk-container > .ot-sdk-row
-www.avast.com##.ot-fade-in.onetrust-pc-dark-filter
-www.avast.com##.vertical-align-content.default.otCenterRounded
+last.fm##.ot-fade-in.onetrust-pc-dark-filter
+last.fm###onetrust-banner-sdk > .ot-sdk-container > .ot-sdk-row
+avast.com##.ot-fade-in.onetrust-pc-dark-filter
+avast.com##.vertical-align-content.default.otCenterRounded
 signalrgb.com##.cookie-visible.cookie-notice
 youtube.com##+js(set, yt.config_.openPopupConfig.supportedPopups.adBlockMessageViewModel, false)
 youtube.com##+js(set, Object.prototype.adBlocksFound, 0)
 youtube.com##+js(set, ytplayer.config.args.raw_player_response.adPlacements, [])
 youtube.com##+js(set, Object.prototype.hasAllowedInstreamAd, true)
-www.lycamobile.fr###CybotCookiebotDialog
-www.splashtop.com##.osano-cm-dialog--type_box.osano-cm-dialog--position_bottom-left.osano-cm-dialog.osano-cm-window__dialog
-www.helpwire.app##.float-message__wrap--on.float-message__wrap
+lycamobile.fr###CybotCookiebotDialog
+splashtop.com##.osano-cm-dialog--type_box.osano-cm-dialog--position_bottom-left.osano-cm-dialog.osano-cm-window__dialog
+helpwire.app##.float-message__wrap--on.float-message__wrap
 android.stackexchange.com##.js-consent-banner.r16.l16.b16.bar-lg.fc-white.bg-black-750.sm\:p16.p32.sm\:w-auto.ws4.z-nav-fixed.ps-fixed.ff-sans
-www.gustavortech.com##.section.common-widget.sidebar
+gustavortech.com##.section.common-widget.sidebar
 apkdone.com###cookie-law-info-bar
 yadom.eu###tarteaucitronBack
 yadom.eu##.tarteaucitronAlertBigTop
@@ -431,27 +431,34 @@ jojoy.io###download-donate
 happymod.com##.download-bottom.later
 developer.android.com##.devsite-snackbar-message
 developer.android.com##.devsite-snackbar-inner
-www.zebra.com##.ot-sdk-container > .ot-sdk-row
-www.zebra.com##.zbrbot-icon
+zebra.com##.ot-sdk-container > .ot-sdk-row
+zebra.com##.zbrbot-icon
 developer.samsung.com##.main-menu.cookie-modal-content.modal-content > .cookie-modal-body.modal-body > .pop-item-body > .txt-desc
 developer.samsung.com##.main-menu.cookie-modal-content.modal-content > .cookie-modal-body.modal-body > .pop-item-tit > .h4
 developer.samsung.com##.main-menu.btn-group
-govrad.com##.column1 > center
-www.youtube.com###error-message > .yt-live-chat-message-input-renderer.style-scope
-www.ip2location.com##div:nth-of-type(6)
-www.infobyip.com###cookie-consent-dialog > div
-www.ipfingerprints.com##.ccc-outer
+youtube.com###error-message > .yt-live-chat-message-input-renderer.style-scope
+ip2location.com##div:nth-of-type(6)
+infobyip.com###cookie-consent-dialog > div
+ipfingerprints.com##.ccc-outer
 youtubeloop.eti.pw###\31
 ads.eti.pw
 btc.eti.pw
 youtubeloop.eti.pw##center:nth-of-type(2)
 youtube.eti.pw##center:nth-of-type(2)
-www.trendmicro.com##.ot-sdk-row
-||js.driftt.com/core?d=1&embedId=sv2uuh4gw3ms&eId=sv2uuh4gw3ms&region=US&forceShow=false&skipCampaigns=false&sessionId=8142d58b-135d-41c4-8755-2add049260ad&sessionStarted=1697640980.088&campaignRefreshToken=c2172cb0-6704-4241-9bae-c57febe74898&hideController=false&pageLoadStartTime=1697640977352&mode=CHAT&driftEnableLog=false&secureIframe=false&u=https%3A%2F%2Fwww.trendmicro.com%2Ffr_fr%2FforHome.html$subdocument
-www.avast.com##.inverse.chrome-banner
+trendmicro.com##.ot-sdk-row
+||js.driftt.com/core?d=1&embedId=sv2uuh4gw3ms&eId=sv2uuh4gw3ms&region=US&forceShow=false&skipCampaigns=false&sessionId=8142d58b-135d-41c4-8755-2add049260ad&sessionStarted=1697640980.088&campaignRefreshToken=c2172cb0-6704-4241-9bae-c57febe74898&hideController=false&pageLoadStartTime=1697640977352&mode=CHAT&driftEnableLog=false&secureIframe=false&u=https%3A%2F%2Ftrendmicro.com%2Ffr_fr%2FforHome.html$subdocument
+avast.com##.inverse.chrome-banner
 systemtutos.com##.cmplz-soft-cookiewall.cmplz-show
 1fichier.com##div#modal-msg.ui-dialog-content.ui-widget-content
 1fichier.com##div.ui-dialog-titlebar.ui-corner-all.ui-widget-header.ui-helper-clearfix
 1fichier.com##div.ui-dialog.ui-corner-all.ui-widget.ui-widget-content.ui-front
 1fichier.com##div.ui-widget-overlay.ui-front
 1fichier.com##.ct_warn
+dl-protect.link
+||www.zone-telechargement.rsvp/templates/zone/images/dl/telechargement-direct.png$image
+||www.zone-telechargement.rsvp/templates/zone/images/dl/dl1.png$image
+birlor.com##.column1 > center
+scribens.fr###premsup
+scribens.fr###presprem
+||scribens.fr/images/promo/app-section-bg.svg$image
+
