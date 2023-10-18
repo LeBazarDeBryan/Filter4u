@@ -361,7 +361,6 @@ vencord.app
 ubuntu.com##.p-modal
 fr.lovebox.love##.cb-cookie_consent-layout_container.fhVjU.WidgetComponent__LayoutContainer-sc-1933jxm-1
 fr.lovebox.love###app-embed-container-30760
-trochox.com##.column1 > center
 www.chronometre.fr##font > font
 webhorloge.fr##.xs-p-10.panel-ne0n
 webhorloge.fr##.panel-share.panel-body > ul
@@ -419,3 +418,40 @@ youtube.com##+js(set, yt.config_.openPopupConfig.supportedPopups.adBlockMessageV
 youtube.com##+js(set, Object.prototype.adBlocksFound, 0)
 youtube.com##+js(set, ytplayer.config.args.raw_player_response.adPlacements, [])
 youtube.com##+js(set, Object.prototype.hasAllowedInstreamAd, true)
+www.lycamobile.fr###CybotCookiebotDialog
+www.splashtop.com##.osano-cm-dialog--type_box.osano-cm-dialog--position_bottom-left.osano-cm-dialog.osano-cm-window__dialog
+www.helpwire.app##.float-message__wrap--on.float-message__wrap
+android.stackexchange.com##.js-consent-banner.r16.l16.b16.bar-lg.fc-white.bg-black-750.sm\:p16.p32.sm\:w-auto.ws4.z-nav-fixed.ps-fixed.ff-sans
+www.gustavortech.com##.section.common-widget.sidebar
+apkdone.com###cookie-law-info-bar
+yadom.eu###tarteaucitronBack
+yadom.eu##.tarteaucitronAlertBigTop
+jojoy.io##.fixed-donate-us
+jojoy.io###download-donate
+happymod.com##.download-bottom.later
+developer.android.com##.devsite-snackbar-message
+developer.android.com##.devsite-snackbar-inner
+www.zebra.com##.ot-sdk-container > .ot-sdk-row
+www.zebra.com##.zbrbot-icon
+developer.samsung.com##.main-menu.cookie-modal-content.modal-content > .cookie-modal-body.modal-body > .pop-item-body > .txt-desc
+developer.samsung.com##.main-menu.cookie-modal-content.modal-content > .cookie-modal-body.modal-body > .pop-item-tit > .h4
+developer.samsung.com##.main-menu.btn-group
+govrad.com##.column1 > center
+www.youtube.com###error-message > .yt-live-chat-message-input-renderer.style-scope
+www.ip2location.com##div:nth-of-type(6)
+www.infobyip.com###cookie-consent-dialog > div
+www.ipfingerprints.com##.ccc-outer
+youtubeloop.eti.pw###\31
+ads.eti.pw
+btc.eti.pw
+youtubeloop.eti.pw##center:nth-of-type(2)
+youtube.eti.pw##center:nth-of-type(2)
+www.trendmicro.com##.ot-sdk-row
+||js.driftt.com/core?d=1&embedId=sv2uuh4gw3ms&eId=sv2uuh4gw3ms&region=US&forceShow=false&skipCampaigns=false&sessionId=8142d58b-135d-41c4-8755-2add049260ad&sessionStarted=1697640980.088&campaignRefreshToken=c2172cb0-6704-4241-9bae-c57febe74898&hideController=false&pageLoadStartTime=1697640977352&mode=CHAT&driftEnableLog=false&secureIframe=false&u=https%3A%2F%2Fwww.trendmicro.com%2Ffr_fr%2FforHome.html$subdocument
+www.avast.com##.inverse.chrome-banner
+systemtutos.com##.cmplz-soft-cookiewall.cmplz-show
+1fichier.com##div#modal-msg.ui-dialog-content.ui-widget-content
+1fichier.com##div.ui-dialog-titlebar.ui-corner-all.ui-widget-header.ui-helper-clearfix
+1fichier.com##div.ui-dialog.ui-corner-all.ui-widget.ui-widget-content.ui-front
+1fichier.com##div.ui-widget-overlay.ui-front
+1fichier.com##.ct_warn
