@@ -470,3 +470,12 @@ scribens.fr##div.footer-col:nth-of-type(4)
 scribens.fr##.website-logo.footer-col
 scribens.fr##.specialscribenspremium
 scribens.fr##.social-networks
+aternos.org##.social > ul
+pornhub.com###cookieBannerWrapper
+pornhub.com###cookieBanner
+aternos.org##div.header-link-exaroton
+aternos.org##div.responsive-leaderboard.mobile-full-width.ad-dfp
+aternos.org##.responsive-leaderboard-large.responsive-leaderboard
+aternos.org##.vm-skin-right.vm-skin
+aternos.org##.vm-skin-left.vm-skin
+aternos.org##.sidebar
