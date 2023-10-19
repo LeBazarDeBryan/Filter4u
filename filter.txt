@@ -290,10 +290,6 @@ asciiart.eu##.qc-cmp2-consent-info
 asciiart.eu##.css-47sehv
 dlink2.com##td:nth-of-type(1)
 dlink2.com##td:nth-of-type(3)
-curseforge.com##.cookiebar
-planetminecraft.com##.card-content
-planetminecraft.com##li.r-card.resource:nth-of-type(3)
-planetminecraft.com##li.r-card.resource:nth-of-type(18)
 omegle.com
 gameguardian.net##.ipsJS_hide.ipsPad_half
 aresclient.com##.dnjcK.lhbLEe
@@ -479,3 +475,39 @@ aternos.org##.responsive-leaderboard-large.responsive-leaderboard
 aternos.org##.vm-skin-right.vm-skin
 aternos.org##.vm-skin-left.vm-skin
 aternos.org##.sidebar
+||aternos.org/panel/img/exaroton.svg$image
+mega.io##.cookie-banner
+duckduckgo.com##.legacy-homepage-variants_belowTheFoldWrapper__7_DL2
+duckduckgo.com##.legacy-homepage_ctaSection__5siuM
+duckduckgo.com##.center_andText__ejUnC.center_intrinsic__mk_Ab.center_root__Uf1xM.legacy-homepage-variants_scrollCta__hNjqv
+duckduckgo.com##.atb-new.js-badge-link.ddg-extension-hide.badge-link--serp.badge-link
+deepl.com##div.lg\:px-\[70px\].p-8:nth-of-type(4)
+deepl.com##.ProBanner2021-module--wrapper--EI6x1
+music.youtube.com##tp-yt-paper-dialog.ytmusic-popup-container.style-scope > .ytmusic-popup-container.style-scope
+music.youtube.com##yt-alert-with-actions-renderer.style-scope.ytmusic-browse-response
+music.youtube.com##ytmusic-tastebuilder-shelf-renderer.ytmusic-section-list-renderer.style-scope
+duckduckgo.com##.js-feedback-btn-wrap
+duckduckgo.com##.js-popout-trig
+remove.bg##.p-4.container
+remove.bg##.transform-gpu.group-hover\:-translate-x-4.group-hover\:rotate-\[35deg\].rotate-6.ease-in-out.transition.top-32.-right-24.md\:block.hidden.absolute.text-brand > path
+remove.bg##.transform-gpu.ease-in-out.transition.xl\:-right-1\/2.-right-\[40\%\].-top-16.md\:block.hidden.absolute.text-brand
+remove.bg##.overflow-x-clip.md\:py-24.py-12
+remove.bg##div.prism > .md\:py-8.py-4
+remove.bg##.transform-gpu.ease-in-out.transition.xl\:-bottom-44.-bottom-32.xl\:-left-24.-left-12.md\:block.hidden.absolute.text-brand > path
+remove.bg##div.max-w-5xl.px-8.w-full.mx-auto:nth-of-type(4)
+remove.bg##.md\:mt-28.mt-8.max-w-md.md\:gap-8.gap-4.flex-col.flex.group.relative > .max-w-md
+remove.bg##div.md\:py-24.py-12:nth-of-type(5)
+remove.bg##div.max-w-5xl.px-8.w-full.mx-auto > .md\:py-24.py-12
+remove.bg##div.md\:py-24.py-12:nth-of-type(8)
+remove.bg##div.py-12 md\:py-24
+remove.bg##div.prism > .prism > .md\:py-24.py-12
+remove.bg##div.mt-12.md\:mt-3.bg-pattern-brand.bg-repeat-x
+remove.bg##div.py-12.md\:py-24
+remove.bg##.pt-16.justify-around.align-items-center.flex-row.flex.product-hunt-wrapper
+remove.bg##.transform-gpu.ease-in-out.transition.xl\:-bottom-44.-bottom-32.xl\:-left-24.-left-12.md\:block.hidden.absolute.text-brand
+remove.bg##ul.flex.flex-wrap.gap-2.sm\:gap-x-3.mb-0
+remove.bg##video.w-full.h-auto.rounded-4xl.max-w-320px.lg\:max-w-420px
+https://sb.kaleidousercontent.com/67418/840x560/d749ed76de/manuel-poster.jpg
+https://sb.kaleidousercontent.com/67418/840x560/686381d375/emilia-poster.jpg
+https://sb.kaleidousercontent.com/67418/x/9289c7b8dd/manuel_compressed.mp4
+https://sb.kaleidousercontent.com/67418/x/681f13b37d/emilia_compressed.mp4
