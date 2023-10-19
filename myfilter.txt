@@ -511,3 +511,25 @@ https://sb.kaleidousercontent.com/67418/840x560/d749ed76de/manuel-poster.jpg
 https://sb.kaleidousercontent.com/67418/840x560/686381d375/emilia-poster.jpg
 https://sb.kaleidousercontent.com/67418/x/9289c7b8dd/manuel_compressed.mp4
 https://sb.kaleidousercontent.com/67418/x/681f13b37d/emilia_compressed.mp4
+thewindowsclub.com##.widget-area.sidebar-primary.sidebar
+thewindowsclub.com##.ss-inline-share-content
+thewindowsclub.com##.related-posts
+||onlinechatcenters.com/chate/images/embedClosed.png$image
+crystalmark.info##.single_post_meta
+sourceforge.net##.cmptxt_hl.cmpboxhl
+sourceforge.net##.cmpmore
+sourceforge.net##.cmpboxwelcomeprps
+sourceforge.net##.cmptxt_txt.cmpboxtxt
+sourceforge.net##.cmptxt_btn_yes.cmpboxbtnyes.cmpboxbtn
+y2mate.com##.extension-header
+dictionnaire.reverso.net##.didomi-popup-notice-text > p
+dictionnaire.reverso.net##.didomi-popup-notice-data-processing-list.didomi-notice-data-processing-container
+dictionnaire.reverso.net##.highlight-button.didomi-button-highlight.didomi-components-button--color.didomi-dismiss-button.didomi-button.didomi-components-button
+dictionnaire.reverso.net##button.didomi-components-radio__option--unselected.didomi-components-radio__option:nth-of-type(2)
+dictionnaire.reverso.net##.didomi-buttons-all.didomi-buttons.didomi-popup-actions.didomi-consent-popup-actions > .highlight-button.didomi-button-highlight.didomi-components-button--color.didomi-button.didomi-components-button
+dictionnaire.reverso.net##.didomi-popup-body.didomi-consent-popup-body
+dictionnaire.reverso.net##.didomi-popup-header.didomi-consent-popup-header
+dictionnaire.reverso.net##.didomi-popup-footer.didomi-consent-popup-footer > [href]
+reverso.net##.message-about-Ukrainian
+reverso.net##app-desktop-app-promotion
+reverso.net##.premium-banner
