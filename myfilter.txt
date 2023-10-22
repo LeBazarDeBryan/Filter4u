@@ -1,6 +1,6 @@
 ||mediafire.com/widgets/sidebar_promo.php$subdocument
 mediafire.com##.u49fswdte9fq
-||www.mediafire.com/widgets/premium_trial.php$subdocument
+||mediafire.com/widgets/premium_trial.php$subdocument
 mediafire.com##.lp6yu39k3yeh
 mediafire.com##.jg5awubzao7n
 mots-croises.ch##.ez_banner.ez_twentytwentytwo_corners
@@ -114,7 +114,6 @@ deepl.com##.sm\:p-0.text-center.pb-20.pt-4.px-4.justify-center.items-center.min-
 deepl.com##.overflow-y-auto.inset-0.fixed
 d.tousecurity.com##.hustle-optin-mask.hustle-popup-mask
 fmscan.org###cookieDiv
-duckduckgo.com##.is-showing.js-welcome-wrap.welcome-wrap
 gamergeeks.net##.ez-twentytwentytwo.ez-main-cmp-wrapper.pre-render-cmp.ez_banner
 developers.cloudflare.com##.ot-fade-in.onetrust-pc-dark-filter
 developers.cloudflare.com##.ot-sdk-container > .ot-sdk-row
@@ -128,9 +127,9 @@ lecrabeinfo.net##.langouste_cookiesDenied.langouste_no.langouste_singlePost3.lan
 lecrabeinfo.net##.langouste_cookiesDenied.langouste_no.langouste_singlePost2.langouste_single.langouste
 lecrabeinfo.net##.langouste_cookiesDenied.langouste_no.langouste_singlePost1.langouste_single.langouste
 lecrabeinfo.net##.langouste_cookiesDenied.langouste_no.langouste_singlePost5.langouste_single.langouste
-||www.mediafire.com/widgets/sidebar_promo.php$subdocument
-||www.mediafire.com/widgets/premium_trial.php$subdocument
-||www.mediafire.com/widgets/premium_trial.php$subdocument
+||mediafire.com/widgets/sidebar_promo.php$subdocument
+||mediafire.com/widgets/premium_trial.php$subdocument
+||mediafire.com/widgets/premium_trial.php$subdocument
 touchvpn.net##.ot-sdk-container
 ||img.1fichier.com/ui/ui-bg_highlight-soft_100_eeeeee_1x100.png$image
 ||img.1fichier.com/ui/ui-bg_highlight-soft_100_eeeeee_1x100.png$image
@@ -183,8 +182,8 @@ technicalustad.com##.ez-twentytwentytwo.ez-main-cmp-wrapper.pre-render-cmp.ez_ba
 synaptics.com##.eu-cookie-compliance-banner--opt-in.eu-cookie-compliance-banner-info.eu-cookie-compliance-banner
 virustotal.com##vt-stateful-disclaimer
 sisik.eu##.cc-color-override--1645678099.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-window
-||www.dlink2.com/media.php$subdocument
-||www.clictune.com/images/logo_redirect.png$image
+||dlink2.com/media.php$subdocument
+||clictune.com/images/logo_redirect.png$image
 fileproinfo.com###cookieAlert
 twitter.com##.r-13qz1uu.r-1f1sjgu.r-ymttw5.r-1d7fvdj.r-18u37iz.r-15ce4ve.r-1sw30gj.r-1awozwy.css-1dbjc4n
 molotov.tv##._2HA10
@@ -451,8 +450,8 @@ systemtutos.com##.cmplz-soft-cookiewall.cmplz-show
 1fichier.com##div.ui-widget-overlay.ui-front
 1fichier.com##.ct_warn
 dl-protect.link
-||www.zone-telechargement.rsvp/templates/zone/images/dl/telechargement-direct.png$image
-||www.zone-telechargement.rsvp/templates/zone/images/dl/dl1.png$image
+||zone-telechargement.kim/templates/zone/images/dl/telechargement-direct.png$image
+||zone-telechargement.kim/templates/zone/images/dl/dl1.png$image
 birlor.com##.column1 > center
 scribens.fr###premsup
 scribens.fr###presprem
@@ -477,17 +476,11 @@ aternos.org##.vm-skin-left.vm-skin
 aternos.org##.sidebar
 ||aternos.org/panel/img/exaroton.svg$image
 mega.io##.cookie-banner
-duckduckgo.com##.legacy-homepage-variants_belowTheFoldWrapper__7_DL2
-duckduckgo.com##.legacy-homepage_ctaSection__5siuM
-duckduckgo.com##.center_andText__ejUnC.center_intrinsic__mk_Ab.center_root__Uf1xM.legacy-homepage-variants_scrollCta__hNjqv
-duckduckgo.com##.atb-new.js-badge-link.ddg-extension-hide.badge-link--serp.badge-link
 deepl.com##div.lg\:px-\[70px\].p-8:nth-of-type(4)
 deepl.com##.ProBanner2021-module--wrapper--EI6x1
 music.youtube.com##tp-yt-paper-dialog.ytmusic-popup-container.style-scope > .ytmusic-popup-container.style-scope
 music.youtube.com##yt-alert-with-actions-renderer.style-scope.ytmusic-browse-response
 music.youtube.com##ytmusic-tastebuilder-shelf-renderer.ytmusic-section-list-renderer.style-scope
-duckduckgo.com##.js-feedback-btn-wrap
-duckduckgo.com##.js-popout-trig
 remove.bg##.p-4.container
 remove.bg##.transform-gpu.group-hover\:-translate-x-4.group-hover\:rotate-\[35deg\].rotate-6.ease-in-out.transition.top-32.-right-24.md\:block.hidden.absolute.text-brand > path
 remove.bg##.transform-gpu.ease-in-out.transition.xl\:-right-1\/2.-right-\[40\%\].-top-16.md\:block.hidden.absolute.text-brand
@@ -533,3 +526,49 @@ dictionnaire.reverso.net##.didomi-popup-footer.didomi-consent-popup-footer > [hr
 reverso.net##.message-about-Ukrainian
 reverso.net##app-desktop-app-promotion
 reverso.net##.premium-banner
+medium.com##.butterBar-message
+online-convert.com##.col-12.col-sm-12.col-md-4.col-lg-4
+online-convert.com##.feedback-container.row > div.col-12
+online-convert.com##.pb-0.content-breaker
+croxyproxy.com##.gdprContainerWrapperBorder.gdprContainerWrapper
+proxysite.com###i18n
+tunein.com##.ot-sdk-container > .ot-sdk-row
+tunein.com##.ot-fade-in.onetrust-pc-dark-filter
+fitbit.com##.fitbit-c-sitewide-callout
+lesnumeriques.com##div.box-c2l-modal-body
+lesnumeriques.com##.box-c2l-accept-action.box-c2l-offer-btn.box-c2l-btn
+imgupscaler.com##.items-center.justify-center.text-center.bg-gray-600.w-full
+fitface.xyz##.css-1fdujrb
+fitface.xyz##.jss668
+scribens.com##.maindiv
+||11447344-c647-4855-9011-1d04bc920c8d.widget.cluster.groovehq.com/landing?preferLocal=false$subdocument
+iloveimg.com##.toast-info.toast
+imageresizer.com##.flex-col.flex.mb-8.gap-6
+imageresizer.com##.flex-shrink-0.flex-grow-0
+imageresizer.com##.justify-center.items-center.flex.mt-6.mx-auto
+lecrabeinfo.net###share-post
+lecrabeinfo.net##.lobster_abDetected.lobster_no.lobster_singlePost1.lobster_single.lobster
+lecrabeinfo.net##.lobster_abDetected.lobster_no.lobster_singlePost2.lobster_single.lobster
+lecrabeinfo.net##.lobster_abDetected.lobster_no.lobster_singlePost3.lobster_single.lobster
+lecrabeinfo.net##.lobster_abDetected.lobster_no.lobster_singlePost4.lobster_single.lobster
+lecrabeinfo.net##.lobster_abDetected.lobster_no.lobster_singlePost5.lobster_single.lobster
+lecrabeinfo.net##.sidebar-singleNav-title.sidebar-item-title
+lecrabeinfo.net##.d-lg-block.d-none.mb-4.show.fade.alert-dismissible.alert-primary.alert
+lubuntu.me##.social-icon.ff-social-icon
+lubuntu.me###back-top
+xubuntu.fr
+lubuntu.fr
+duckduckgo.com##.text_text__q9rvO.text_text-md__x96X3.tagline_tagline__xryVo
+start.duckduckgo.com##.tag-home__wrapper
+start.duckduckgo.com###wedonttrack
+start.duckduckgo.com##.ddgsi-down.ddgsi.js-showcase-popout.js-popout-link
+duckduckgo.com##.atb-new.js-badge-link.ddg-extension-hide.badge-link--serp.badge-link
+duckduckgo.com##.js-feedback-start.feedback-btn__send
+learn.microsoft.com###wcpConsentBannerCtrl
+learn.microsoft.com##.padding-block-xs.pre-ignite-banner.padding-block-md.position-relative.tier1-event-banner
+docker.com##.ot-sdk-container > .ot-sdk-row
+docs.docker.com##.ot-sdk-container > .ot-sdk-row
+cyberciti.biz##.pop.alert
+stackoverflow.com##.js-consent-banner.r16.l16.b16.bar-lg.fc-white.bg-black-600.sm\:p16.p32.sm\:w-auto.ws4.z-nav-fixed.ps-fixed.ff-sans
+stackoverflow.com##.py2.fs-body2.ff-sans.fc-white.bg-blue-400.js-announcement-banner
+stackoverflow.com###notice-sidebar-popover
