@@ -4,6 +4,6 @@
 
 | Name | Description | URL |
 |------|-------------|-----|
-| MyFilter |  | <a href="myfilter.txt?raw=true">myfilter.txt</a> |
+| My Filter | Block useless information (for me). | <a href="myfilter.txt?raw=true">myfilter.txt</a> |
 
 </div>
