@@ -5,22 +5,6 @@ mediafire.com##.lp6yu39k3yeh
 mediafire.com##.jg5awubzao7n
 mots-croises.ch##.ez_banner.ez_twentytwentytwo_corners
 mots-croises.ch##.ez-twentytwentytwo.ez-main-cmp-wrapper.pre-render-cmp.ez_banner
-dcode.fr###df2554e0c
-dcode.fr###x502
-dcode.fr###pe14
-dcode.fr###i862d6
-dcode.fr###x7457b7d
-dcode.fr###y3083e89
-dcode.fr###d798
-dcode.fr###y339c8e98
-dcode.fr###k5945aca7
-dcode.fr###h7104fc75
-dcode.fr###p27127
-dcode.fr###t79f9d3d
-dcode.fr###z7cec7
-dcode.fr###pd18
-dcode.fr###k105c
-dcode.fr###eff663e6
 scribens.fr##.visible.modal-wall > div
 scribens.fr##.visible.modal-wall
 samfw.com##.bnud.holder
@@ -97,7 +81,6 @@ qrcode-monkey.com###onetrust-cookie-btn > svg
 qrcode-monkey.com###onetrust-cookie-btn-container > .ot-link-btn
 3ds.hacks.guide##.cc-color-override-2147335709.cc-top.cc-static.cc-theme-edgeless.cc-type-info.cc-banner.cc-window
 gamefaqs.gamespot.com##.ot-fade-in.onetrust-pc-dark-filter
-gamefaqs.gamespot.com##.ot-sdk-container > .ot-sdk-row
 compucademy.net##.ez-twentytwentytwo.ez-main-cmp-wrapper.pre-render-cmp.ez_banner
 play2048.co##.ez-twentytwentytwo.ez-main-cmp-wrapper.pre-render-cmp.ez_banner
 flappybird.io##.ez-twentytwentytwo.ez-main-cmp-wrapper.pre-render-cmp.ez_banner
@@ -116,7 +99,6 @@ d.tousecurity.com##.hustle-optin-mask.hustle-popup-mask
 fmscan.org###cookieDiv
 gamergeeks.net##.ez-twentytwentytwo.ez-main-cmp-wrapper.pre-render-cmp.ez_banner
 developers.cloudflare.com##.ot-fade-in.onetrust-pc-dark-filter
-developers.cloudflare.com##.ot-sdk-container > .ot-sdk-row
 darty.com##.ot-fade-in.onetrust-pc-dark-filter
 darty.com###onetrust-button-group-parent
 darty.com###onetrust-group-container
@@ -130,7 +112,6 @@ lecrabeinfo.net##.langouste_cookiesDenied.langouste_no.langouste_singlePost5.lan
 ||mediafire.com/widgets/sidebar_promo.php$subdocument
 ||mediafire.com/widgets/premium_trial.php$subdocument
 ||mediafire.com/widgets/premium_trial.php$subdocument
-touchvpn.net##.ot-sdk-container
 ||img.1fichier.com/ui/ui-bg_highlight-soft_100_eeeeee_1x100.png$image
 ||img.1fichier.com/ui/ui-bg_highlight-soft_100_eeeeee_1x100.png$image
 sevrim.com##.column1 > center
@@ -141,7 +122,6 @@ deepl.com##.sm\:justify-end.sm\:flex-row.py-4.px-5.gap-4.flex-col.flex
 deepl.com##.\[\&_a\]\:\!underline.\[\&_a\]\:text-white.\[\&_a\]\:font-semibold.text-white.pb-4
 deepl.com##.sm\:text-2xl.font-semibold.text-lg.py-3.px-5
 deepl.com##.text-current.font-medium.gap-2.items-center.h-8.flex.rounded-xs.active\:text-dark-7
-epicgames.com###onetrust-banner-sdk > .ot-sdk-container > .ot-sdk-row
 play2048.co##.ez-twentytwentytwo.ez-main-cmp-wrapper.pre-render-cmp.ez_banner
 lannuaire.fr##.cli-show.cli-popupbar-overlay.cli-fade.cli-modal-backdrop
 lannuaire.fr###cookie-law-info-bar
@@ -153,7 +133,6 @@ tp-link.com##.tp-cookie-eu
 it-connect.fr##.ez_banner.ez-twentytwentytwo.ez-main-cmp-wrapper
 ||static.tp-link.com/assets/diff/fr/widgets/popup/pc-img.png$image
 intel.fr##.ot-fade-in.onetrust-pc-dark-filter
-intel.fr##.ot-sdk-container > .ot-sdk-row
 itigic.com##.ez-twentytwentytwo.ez-main-cmp-wrapper.pre-render-cmp.ez_banner
 pcastuces.com##.sd-cmp-VSd2z
 instagram.com##._abcm._aa5t._abck._abci._abcg._abcf._abab._ab9-._abby._abbg._ab9p._ab9m._ab9h._ab9c._ab99._ab94._ab8w._ab8q
@@ -237,7 +216,6 @@ ploudos.com##.footer
 ploudos.com##.qc-cmp2-persistent-link
 ploudos.com##.alert-danger.alert
 cdiscount.com##.tc-privacy-iab-banner.tc-privacy-footer.tc-privacy-bar.tc-privacy-banner.tc-reset-css
-dolby.com##.ot-sdk-container > .ot-sdk-row
 assistance.bouyguestelecom.fr###tc_privacy_textBan > p
 assistance.bouyguestelecom.fr##li.tc_bt_listitems:nth-of-type(1)
 assistance.bouyguestelecom.fr##li.tc_bt_listitems:nth-of-type(2)
@@ -373,7 +351,6 @@ minecraft.net##._23tra1HsiiP6cT-Cka-ycB
 univ-droit.fr##.tarteaucitronBeforeVisible
 collaboraoffice.com##.cookie-notice-container
 collaboraoffice.com##.mf-loaded.mf-animate.mf-bar-iframe-sticky.mf-bar-iframe-large.mf-bar-iframe-top.mf-bar-iframe
-logitech.com##.ot-sdk-container > .ot-sdk-row
 logitechg502.com###cookie-law-info-bar
 pcmag.com##.ot-fade-in.onetrust-pc-dark-filter
 pcmag.com###onetrust-group-container
@@ -405,7 +382,6 @@ omnicalculator.com##.top.jsx-2656163997.jsx-2174582361
 omnicalculator.com##.bottom.jsx-2656163997.jsx-2174582361
 karmasearch.org##.px-5.justify-center.items-center.content-center.flex-col.flex
 last.fm##.ot-fade-in.onetrust-pc-dark-filter
-last.fm###onetrust-banner-sdk > .ot-sdk-container > .ot-sdk-row
 avast.com##.ot-fade-in.onetrust-pc-dark-filter
 avast.com##.vertical-align-content.default.otCenterRounded
 signalrgb.com##.cookie-visible.cookie-notice
@@ -426,7 +402,6 @@ jojoy.io###download-donate
 happymod.com##.download-bottom.later
 developer.android.com##.devsite-snackbar-message
 developer.android.com##.devsite-snackbar-inner
-zebra.com##.ot-sdk-container > .ot-sdk-row
 zebra.com##.zbrbot-icon
 developer.samsung.com##.main-menu.cookie-modal-content.modal-content > .cookie-modal-body.modal-body > .pop-item-body > .txt-desc
 developer.samsung.com##.main-menu.cookie-modal-content.modal-content > .cookie-modal-body.modal-body > .pop-item-tit > .h4
@@ -532,7 +507,6 @@ online-convert.com##.feedback-container.row > div.col-12
 online-convert.com##.pb-0.content-breaker
 croxyproxy.com##.gdprContainerWrapperBorder.gdprContainerWrapper
 proxysite.com###i18n
-tunein.com##.ot-sdk-container > .ot-sdk-row
 tunein.com##.ot-fade-in.onetrust-pc-dark-filter
 fitbit.com##.fitbit-c-sitewide-callout
 lesnumeriques.com##div.box-c2l-modal-body
@@ -566,9 +540,9 @@ duckduckgo.com##.atb-new.js-badge-link.ddg-extension-hide.badge-link--serp.badge
 duckduckgo.com##.js-feedback-start.feedback-btn__send
 learn.microsoft.com###wcpConsentBannerCtrl
 learn.microsoft.com##.padding-block-xs.pre-ignite-banner.padding-block-md.position-relative.tier1-event-banner
-docker.com##.ot-sdk-container > .ot-sdk-row
-docs.docker.com##.ot-sdk-container > .ot-sdk-row
 cyberciti.biz##.pop.alert
 stackoverflow.com##.js-consent-banner.r16.l16.b16.bar-lg.fc-white.bg-black-600.sm\:p16.p32.sm\:w-auto.ws4.z-nav-fixed.ps-fixed.ff-sans
 stackoverflow.com##.py2.fs-body2.ff-sans.fc-white.bg-blue-400.js-announcement-banner
 stackoverflow.com###notice-sidebar-popover
+store.nvidia.com###onetrust-consent-sdk
+##.ot-sdk-container
