@@ -576,3 +576,8 @@ xda-developers.com##.w-newsletter-in_article
 xda-developers.com##.bottom.sharing
 flash.android.com##.gmat-mdc-snack-bar.cdk-overlay-pane
 docker.com##.css-5kz7rn.MuiStack-root
+www.youtube.com##.ytp-show-tiles.ytp-endscreen-paginate.videowall-endscreen.ytp-player-content.html5-endscreen
+adblockplus.org##.cookiebar.cookie
+ads.google.com###cookieBar
+adsense.google.com##.glue-cookie-notification-bar
+www.upgrad.com##.dWFnev.UGFooterSticky__Container-sc-i6f21r-0
