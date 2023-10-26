@@ -544,5 +544,35 @@ cyberciti.biz##.pop.alert
 stackoverflow.com##.js-consent-banner.r16.l16.b16.bar-lg.fc-white.bg-black-600.sm\:p16.p32.sm\:w-auto.ws4.z-nav-fixed.ps-fixed.ff-sans
 stackoverflow.com##.py2.fs-body2.ff-sans.fc-white.bg-blue-400.js-announcement-banner
 stackoverflow.com###notice-sidebar-popover
-store.nvidia.com###onetrust-consent-sdk
+nvidia.com###onetrust-consent-sdk
 ##.ot-sdk-container
+pitchoun.radioweb.co##.ticker-bar
+pitchoun.radioweb.co##.link-socials-list
+pitchoun.radioweb.co###sidebar
+adguard.com##.social-media
+adguard.com##.footer__icons--social.footer__icons
+adguard.com##.annoyance.sticky-bar--cookie.sticky-bar
+ipv6-test.com##.cc_container--open.cc_container.cc_banner
+dax.fr###tarteaucitronAlertBig
+dax.fr##.tarteaucitronBeforeVisible
+domo-blog.fr##.sd-cmp-1rN4Z > .sd-cmp-2eS9X
+domo-blog.fr##.sd-cmp-33S-2 > div > .sd-cmp-2eS9X
+domo-blog.fr##.sd-cmp-1OqXw > span
+domo-blog.fr##.sd-cmp-25TOo > button.sd-cmp-JnaLO > .sd-cmp-3cRQ2.sd-cmp-2JYyd.sd-cmp-16t61
+domo-blog.fr##.sd-cmp-25TOo > button.sd-cmp-JnaLO > .sd-cmp-18g3C.sd-cmp-2JYyd.sd-cmp-16t61
+forum.hardware.fr##.sondage
+bouyguestelecom-entreprises.fr###tc_privacy_title
+bouyguestelecom-entreprises.fr###tc_privacy_textBan
+bouyguestelecom-entreprises.fr###popin_tc_privacy_button_3
+bouyguestelecom-entreprises.fr##div.popin_tc_privacy_container_button.tc-reset-css tc-privacy-block-button
+domo-blog.fr##.herald-sidebar-right.col-md-3.col-lg-3.herald-sidebar
+curseforge.com##.cookiebar
+curseforge.com###freshworks-container
+samsung.com##.cookie-bar--type-manage.cookie-bar
+magiskroot.net
+duckduckgo.com##.feedback-btn.btn
+xda-developers.com##.no-badge.large.tag.display-card
+xda-developers.com##.w-newsletter-in_article
+xda-developers.com##.bottom.sharing
+flash.android.com##.gmat-mdc-snack-bar.cdk-overlay-pane
+docker.com##.css-5kz7rn.MuiStack-root
