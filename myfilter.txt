@@ -621,3 +621,5 @@ dlandroid.com##.foter-sec.row
 dlandroid.com##.yarpp-template-yarpp-template-dlandroid.yarpp-related-shortcode.yarpp-related.yarpp
 dlandroid.com##.help
 happymod.com##.down_button_link.pdt-btn-msg.clearfix
+slions.net##.js-bottomFixTarget.u-bottomFixer
+intel.com###onetrust-consent-sdk
