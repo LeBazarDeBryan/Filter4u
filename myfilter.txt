@@ -623,3 +623,12 @@ dlandroid.com##.help
 happymod.com##.down_button_link.pdt-btn-msg.clearfix
 slions.net##.js-bottomFixTarget.u-bottomFixer
 intel.com###onetrust-consent-sdk
+icecreamapps.com##.cookie-law
+icecreamapps.com##.app-download__download-file
+alternativeto.net##.visible.data-collector.jsx-5df7ced37f7e80fa
+www.apkmirror.com##.show.set-max-width.container-fluid.apkm-timed-slider
+www.apkmirror.com##.f-stretch.sidebar-widget.col-padding.f-md-33
+apkpure.com###policy-info
+apkpure.com##.share-fixed
+apkpure.com##.float-button-second.float-request-notification-permission-button
+wololo.net##.ez-cookie-banner
