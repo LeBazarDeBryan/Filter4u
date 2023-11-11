@@ -5,7 +5,6 @@ mediafire.com##.lp6yu39k3yeh
 mediafire.com##.jg5awubzao7n
 mots-croises.ch##.ez_banner.ez_twentytwentytwo_corners
 mots-croises.ch##.ez-twentytwentytwo.ez-main-cmp-wrapper.pre-render-cmp.ez_banner
-scribens.fr##.visible.modal-wall > div
 scribens.fr##.visible.modal-wall
 samfw.com##.bnud.holder
 samfw.com###block-mess
@@ -586,7 +585,7 @@ stackoverflow.com##.js-dismissable-hero.z-nav.b0.r0.l0.ps-fixed.bc-black-225.bt.
 lesnewsdunet.com##.sd-cmp-33S-2 > div:nth-of-type(1)
 lesnewsdunet.com##button.sd-cmp-JnaLO:nth-of-type(2)
 lesnewsdunet.com##.sd-cmp-XPeFf
-www.primevideo.com##.DVWebNode.DVWebNode-cookie-banner-wrapper
+primevideo.com##.DVWebNode.DVWebNode-cookie-banner-wrapper
 wawacity.info
 extreme-download.fr
 emule-island.fr
@@ -626,9 +625,19 @@ intel.com###onetrust-consent-sdk
 icecreamapps.com##.cookie-law
 icecreamapps.com##.app-download__download-file
 alternativeto.net##.visible.data-collector.jsx-5df7ced37f7e80fa
-www.apkmirror.com##.show.set-max-width.container-fluid.apkm-timed-slider
-www.apkmirror.com##.f-stretch.sidebar-widget.col-padding.f-md-33
+apkmirror.com##.show.set-max-width.container-fluid.apkm-timed-slider
+apkmirror.com##.f-stretch.sidebar-widget.col-padding.f-md-33
 apkpure.com###policy-info
 apkpure.com##.share-fixed
 apkpure.com##.float-button-second.float-request-notification-permission-button
 wololo.net##.ez-cookie-banner
+la-bande-a-baudelaire.fr##.jetpack_widget_social_icons.ashe-widget
+la-bande-a-baudelaire.fr##.widget_instagram-feed-widget.ashe-widget
+tpehmzpetrole20142015.over-blog.com##.ob-ShareBar-share--facebook.ob-ShareBar-share
+tpehmzpetrole20142015.over-blog.com##.ob-ShareBar-share--twitter.ob-ShareBar-share
+tpehmzpetrole20142015.over-blog.com##.js-ob-ShareBar-share--pinterest.ob-ShareBar-share--pinterest.ob-ShareBar-share
+tpehmzpetrole20142015.over-blog.com###sidebar
+tpehmzpetrole20142015.over-blog.com##.m-social-networks.ob-section
+dentelledelune.fr##.didomi-popup-notice-logo-container
+dentelledelune.fr##.didomi-popup-notice-text-container
+dentelledelune.fr##.didomi-popup-notice-buttons.didomi-buttons.multiple
