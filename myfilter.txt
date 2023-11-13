@@ -641,3 +641,18 @@ tpehmzpetrole20142015.over-blog.com##.m-social-networks.ob-section
 dentelledelune.fr##.didomi-popup-notice-logo-container
 dentelledelune.fr##.didomi-popup-notice-text-container
 dentelledelune.fr##.didomi-popup-notice-buttons.didomi-buttons.multiple
+wookafr.pro##.bottom-0.shadow.text-white.text-sm.p-14.bg-toast.gap-30.justify-center.items-center.w-full.flex.z-50.fixed
+blog.lockee.fr##.cmplz-categories-no.cc-color-override-1275183511.cc-bottom.cmplz-animation-none.cc-theme-classic.cc-type-opt-in.cc-banner.cc-window.cmplz-tcf-banner-hidden
+honeygain.com##.dIufKl.sc-fnOeiS
+honeygain.com##.jIwumh.sc-hjbpFB
+honeygain.com##.iWSwCD.sc-bcPKhP
+honeygain.com##.bgrRen.gkVgsf.sc-jfLZDZ.sc-eDnVMP
+dashboard.honeygain.com##.hmVetI.sc-hFFBBO.ayKrY.sc-jEWKIm.jycPmJ.sc-oefmM
+dashboard.honeygain.com##div.cjMNnH.sc-btlehR:nth-of-type(5)
+dashboard.honeygain.com##.fxLvDu.sc-intHMn > .hgNJQB.eBvbpx.sc-kwxRPZ.sc-bdnyFh
+mediafire.com##div:nth-of-type(5)
+mediafire.com##.actions
+tor.us##.crisp-client
+app.jumptask.io###launcher
+app.jumptask.io##div.MuiBox-root.jZrXAY.sc-iBkjds:nth-of-type(1)
+app.jumptask.io##div.MuiBox-root.jZrXAY.sc-iBkjds:nth-of-type(2)
