@@ -677,3 +677,23 @@ community.chocolatey.org##body > .flex-shrink-0
 canon.fr##.cookie-bar--active.canon-bg--grey-light.cookie-bar--bottom.cookie-bar.flex-global-style__old-template
 wookafr.vip##.bottom-0.shadow.text-white.text-sm.p-14.bg-toast.gap-30.justify-center.items-center.w-full.flex.z-50.fixed
 wookafr.pro##[href="https://wookafr.vip/"]
+mcalts.net###cookiePopup
+en.shrinke.me###imgAddDirectLink
+loaninsurehub.com##.mdpDeblocker-wrapper
+loaninsurehub.com##.active.mdpDeblocker-blackout
+mystudyhelp.in##.adb-overlay
+cryptobrowser.site##.sticky-sharing
+cryptobrowser.site##.header__socials
+cryptobrowser.site##.active.popup__promo-modal.popup--download.popup
+cryptobrowser.site##.news--block-page.news
+cryptobrowser.site##.sharing-section > .coins
+cryptobrowser.site##.sharing-section
+cryptobrowser.site##.menu__item_join.menu__item
+cryptobrowser.site##.top-notification-black__wrapper
+cryptotabbrowser.com
+getcryptotab.com
+cryptobrowser.site##.testimonials
+cryptobrowser.site##.join_black.join > .coins
+cryptotab.farm##.social-links
+cryptotab.farm##.notification
+cryptotab.farm##.sticky-sharing
