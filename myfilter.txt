@@ -690,7 +690,6 @@ cryptobrowser.site##.sharing-section > .coins
 cryptobrowser.site##.sharing-section
 cryptobrowser.site##.menu__item_join.menu__item
 cryptobrowser.site##.top-notification-black__wrapper
-cryptotabbrowser.com
 getcryptotab.com
 cryptobrowser.site##.testimonials
 cryptobrowser.site##.join_black.join > .coins
