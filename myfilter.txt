@@ -696,3 +696,6 @@ cryptobrowser.site##.join_black.join > .coins
 cryptotab.farm##.social-links
 cryptotab.farm##.notification
 cryptotab.farm##.sticky-sharing
+ilemaths.net###ouibouncemodal
+help.roblox.com###_evidon_banner
+youtube.com##ytd-rich-section-renderer.ytd-rich-grid-renderer.style-scope:nth-of-type(4)
