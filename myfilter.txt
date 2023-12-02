@@ -698,4 +698,13 @@ cryptotab.farm##.notification
 cryptotab.farm##.sticky-sharing
 ilemaths.net###ouibouncemodal
 help.roblox.com###_evidon_banner
-youtube.com##ytd-rich-section-renderer.ytd-rich-grid-renderer.style-scope:nth-of-type(4)
+ouest-france.fr##.didomi-popup-notice-buttons.didomi-buttons.multiple
+ouest-france.fr##.didomi-popup-notice-text-container
+ouest-france.fr##.didomi-popup-notice-logo-container
+clipchamp.com##.jmbyiR.sc-1jf790q-0
+cyberlink.com##.sticky-stopper
+techradar.com##.slice-container-newsletterForm.newsletterForm-exitIntent.newsletter-slice.slice-container
+techradar.com##.author__social
+techradar.com##.masthead-item.buttons-social
+cnet.com###onetrust-consent-sdk
+nginx.com##.footer-social
