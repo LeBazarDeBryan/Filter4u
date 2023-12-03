@@ -247,7 +247,6 @@ asciiart.eu##.qc-cmp2-consent-info
 asciiart.eu##.css-47sehv
 dlink2.com##td:nth-of-type(1)
 dlink2.com##td:nth-of-type(3)
-omegle.com
 gameguardian.net##.ipsJS_hide.ipsPad_half
 aresclient.com##.dnjcK.lhbLEe
 epieos.com##.w-full.bottom-0.fixed > .shadow-strong.sm-h\:max-h-\[150px\].max-h-\[150px\].md\:max-h-\[240px\].max-h-\[240px\].bg-white.min-w-0.w-full.justify-center.flex.relative
@@ -584,7 +583,6 @@ ionos.fr##.svelte-1czm8h8.privacy-consent--modal
 ionos.fr##.svelte-6wchuh.privacy-consent--backdrop
 ionos.fr###bio_ep_reworked
 ionos.fr###bio_ep_reworked_bg
-wookafr.tv##.bottom-0.shadow.text-white.text-sm.p-14.bg-toast.gap-30.justify-center.items-center.w-full.flex.z-50.fixed
 teamviewer.com###onetrust-consent-sdk
 login.teamviewer.com##.optanon-alert-box-wrapper
 rule34.xxx##.gdprinner
@@ -622,7 +620,6 @@ tpehmzpetrole20142015.over-blog.com##.m-social-networks.ob-section
 dentelledelune.fr##.didomi-popup-notice-logo-container
 dentelledelune.fr##.didomi-popup-notice-text-container
 dentelledelune.fr##.didomi-popup-notice-buttons.didomi-buttons.multiple
-wookafr.pro##.bottom-0.shadow.text-white.text-sm.p-14.bg-toast.gap-30.justify-center.items-center.w-full.flex.z-50.fixed
 blog.lockee.fr##.cmplz-categories-no.cc-color-override-1275183511.cc-bottom.cmplz-animation-none.cc-theme-classic.cc-type-opt-in.cc-banner.cc-window.cmplz-tcf-banner-hidden
 honeygain.com##.dIufKl.sc-fnOeiS
 honeygain.com##.jIwumh.sc-hjbpFB
@@ -675,8 +672,6 @@ assistance.irobot.fr###trustarc-banner-overlay
 assistance.irobot.fr###truste-consent-track
 community.chocolatey.org##body > .flex-shrink-0
 canon.fr##.cookie-bar--active.canon-bg--grey-light.cookie-bar--bottom.cookie-bar.flex-global-style__old-template
-wookafr.vip##.bottom-0.shadow.text-white.text-sm.p-14.bg-toast.gap-30.justify-center.items-center.w-full.flex.z-50.fixed
-wookafr.pro##[href="https://wookafr.vip/"]
 mcalts.net###cookiePopup
 en.shrinke.me###imgAddDirectLink
 loaninsurehub.com##.mdpDeblocker-wrapper
@@ -708,3 +703,29 @@ techradar.com##.author__social
 techradar.com##.masthead-item.buttons-social
 cnet.com###onetrust-consent-sdk
 nginx.com##.footer-social
+korben.info##div.p-6.flex-1
+superuser.com##.js-consent-banner.r16.l16.b16.bar-lg.fc-white.bg-black-600.sm\:p16.p32.sm\:w-auto.ws4.z-nav-fixed.ps-fixed.ff-sans
+win10.fr##.widget_eu_cookie_law_widget.inner-padding.widget
+win10.fr##.sd-sharing-enabled.sharedaddy
+dlink2.net##div:nth-of-type(2)
+nagadiweb.com###popupX
+grouphowto.com##.heateor_sss_horizontal_sharing.heateor_sss_sharing_container
+grouphowto.com##.simple-social-icons.inner-padding.widget
+investx.fr##.cky-classic-bottom.cky-consent-container
+investx.fr##.cp_cs_overlay.cp-slidein-body-overlay
+investx.fr##.cp-free-widget.cp-slidein-body
+cryptonaute.fr##.cookie-notice-visible.cn-effect-fade.cn-position-bottom.cookie-revoke-hidden
+actufinance.fr##.cookie-notice-visible.cn-effect-fade.cn-position-bottom.cookie-revoke-hidden
+actufinance.fr##.clickout-banner-regular_native_box-bottom.clickout-banner-regular_native_box.clickout-rendered-container-29797fc8-row
+fr.host-tools.com###ipc
+connect.garmin.com##.truste_box_overlay_border
+consent-pref.trustarc.com##.footer
+consent-pref.trustarc.com##.prefPanel
+consent-pref.trustarc.com##.consentHeader.mainHeader
+consent-pref.trustarc.com##.disable.submit
+consent-pref.trustarc.com##.acceptAllButtonLower
+garmin.com###trustarc-banner-overlay
+garmin.com###consent_blackbar
+ome.tv
+beurteletchat.com
+beurteletchat.fr
