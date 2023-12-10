@@ -309,7 +309,7 @@ free-css.com##.divascookies-banner-container
 builtbybit.com##.notice--cookie.notice--primary.js-notice.notice
 polymart.org##.wpcc-color-custom--943834009.wpcc-bottom.wpcc-fontsize-small.wpcc-transparency-10.wpcc-padding-none.wpcc-corners-normal.wpcc-corners-round.wpcc-banner.wpcc-container
 tebex.io##.cookie-bar
-vencord.app
+||vencord.app^$document,from=~vencord.dev
 ubuntu.com##.p-modal
 lovebox.love##.cb-cookie_consent-layout_container.fhVjU.WidgetComponent__LayoutContainer-sc-1933jxm-1
 lovebox.love###app-embed-container-30760
@@ -729,3 +729,13 @@ garmin.com###consent_blackbar
 ome.tv
 beurteletchat.com
 beurteletchat.fr
+xdaforums.com##.blockMessage--none.blockMessage
+hitmanpro.com###onetrust-consent-sdk
+getintopc.com##.nudge.media
+how-to-pc.info##.nudge.media
+marieclaire.fr##.didomi-popup-notice-text > div
+marieclaire.fr##.didomi-notice-data-processing-list > span
+marieclaire.fr##.didomi-popup-notice-data-processing-list.didomi-notice-data-processing-container
+marieclaire.fr##.didomi-popup-notice-buttons.didomi-buttons.multiple
+kaspersky.fr##.CybotCookiebotDialogActive.CybotMultilevel.CybotEdge
+thanksconnect.fr##.notification_cookie
