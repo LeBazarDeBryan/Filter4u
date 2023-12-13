@@ -21,8 +21,6 @@ codefordev.com##.segment.aligned.center.inverted.vertical.ui
 tomsguide.com##.exit-intent__background.exit-intent
 nperf.com###consent
 ws.nperf.com##.tooltip
-speedtest.net##.ot-fade-in.onetrust-pc-dark-filter
-speedtest.net###onetrust-group-container
 speedtest.net##.has-reject-all-button.ot-sdk-columns.ot-sdk-twelve
 speedtest.net##.notification-container > div > .notification
 cdn.privacy-mgmt.com##.message-overlay
@@ -52,7 +50,6 @@ deepl.com##path:nth-of-type(3)
 deepl.com###languageSelectorIcon
 forbes.com###ketch-consent-overlay
 forbes.com##.sizer__JgPZ9.root__TFKT8
-lifewire.com##.ot-fade-in.onetrust-pc-dark-filter
 lifewire.com##.ot-sdk-row
 stream4free.live###__peek_a_bar_34465017
 stream4free.live###__peek_a_bar_70486817
@@ -76,10 +73,9 @@ canalplus.com###pm-overlay
 sevrim.com##.column1 > center
 virtualmachinery.weebly.com##.wpcc-color-custom--943834009.wpcc-left.wpcc-bottom.wpcc-border-thin.wpcc-corners-small.wpcc-corners-round.wpcc-float.wpcc-container
 qrcode-monkey.com##.banner-content
-qrcode-monkey.com###onetrust-cookie-btn > svg
-qrcode-monkey.com###onetrust-cookie-btn-container > .ot-link-btn
+##onetrust-cookie-btn > svg
+##onetrust-cookie-btn-container > .ot-link-btn
 3ds.hacks.guide##.cc-color-override-2147335709.cc-top.cc-static.cc-theme-edgeless.cc-type-info.cc-banner.cc-window
-gamefaqs.gamespot.com##.ot-fade-in.onetrust-pc-dark-filter
 compucademy.net##.ez-twentytwentytwo.ez-main-cmp-wrapper.pre-render-cmp.ez_banner
 play2048.co##.ez-twentytwentytwo.ez-main-cmp-wrapper.pre-render-cmp.ez_banner
 flappybird.io##.ez-twentytwentytwo.ez-main-cmp-wrapper.pre-render-cmp.ez_banner
@@ -97,10 +93,7 @@ deepl.com##.overflow-y-auto.inset-0.fixed
 d.tousecurity.com##.hustle-optin-mask.hustle-popup-mask
 fmscan.org###cookieDiv
 gamergeeks.net##.ez-twentytwentytwo.ez-main-cmp-wrapper.pre-render-cmp.ez_banner
-developers.cloudflare.com##.ot-fade-in.onetrust-pc-dark-filter
-darty.com##.ot-fade-in.onetrust-pc-dark-filter
-darty.com###onetrust-button-group-parent
-darty.com###onetrust-group-container
+##onetrust-button-group-parent
 twitch.tv##.consent-banner.fvoCQA.Layout-sc-1xcs6mc-0
 thewindowsclub.com##.ez-original.ez-main-cmp-wrapper.pre-render-cmp.ez_modal
 lecrabeinfo.net##.alertIncentive.alert-warning.alert
@@ -125,13 +118,10 @@ play2048.co##.ez-twentytwentytwo.ez-main-cmp-wrapper.pre-render-cmp.ez_banner
 lannuaire.fr##.cli-show.cli-popupbar-overlay.cli-fade.cli-modal-backdrop
 lannuaire.fr###cookie-law-info-bar
 annuaire-inverse-france.com##.cookies > div
-speedtest.net##.ot-fade-in.onetrust-pc-dark-filter
-speedtest.net###onetrust-group-container
 speedtest.net##.has-reject-all-button.ot-sdk-columns.ot-sdk-twelve
 tp-link.com##.tp-cookie-eu
 it-connect.fr##.ez_banner.ez-twentytwentytwo.ez-main-cmp-wrapper
 ||static.tp-link.com/assets/diff/fr/widgets/popup/pc-img.png$image
-intel.fr##.ot-fade-in.onetrust-pc-dark-filter
 itigic.com##.ez-twentytwentytwo.ez-main-cmp-wrapper.pre-render-cmp.ez_banner
 pcastuces.com##.sd-cmp-VSd2z
 instagram.com##._abcm._aa5t._abck._abci._abcg._abcf._abab._ab9-._abby._abbg._ab9p._ab9m._ab9h._ab9c._ab99._ab94._ab8w._ab8q
@@ -152,7 +142,6 @@ aternos.org##.content > .ad-dfp.mobile-full-width.responsive-leaderboard > .ad-l
 aternos.org##.content > .ad-dfp.mobile-full-width.responsive-leaderboard > .ad-replacement
 scribens.fr##.visible.modal-wall > div
 scribens.fr##.visible.modal-wall
-hostgator.com##.ot-fade-in.onetrust-pc-dark-filter
 zyro.com##.zyro-cookies
 vincentdepaul.fr###cookie_law_banner
 vacances-scolaires.education##.sd-cmp-VSd2z
@@ -239,8 +228,6 @@ mcbedrock.com##.css-1vti6ok.qc-cmp-cleanslate
 k-net.fr##.cmplz-show.cc-window.cmplz-categories-type-view-preferences.cmplz-bottom-right.optin.banner-1.cmplz-cookiebanner
 free-reseau.fr###adblocker > table
 free-reseau.fr##.recherche_google
-trustpilot.com##.ot-fade-in.onetrust-pc-dark-filter
-trustpilot.com###onetrust-group-container
 trustpilot.com##.has-reject-all-button.ot-sdk-columns.ot-sdk-twelve
 wikipedia.org##.vector-sitenotice-container
 asciiart.eu##.qc-cmp2-consent-info
@@ -255,15 +242,11 @@ iobit.com##.active.clearfix.float-bar
 twitch.tv##.jXmrwp.Layout-sc-1xcs6mc-0
 twitch.tv##.consent-banner.fvjrYF.Layout-sc-1xcs6mc-0
 histoiredumonde.net##.tarteaucitronAlertBigBottom
-larousse.fr##.ot-fade-in.onetrust-pc-dark-filter
-larousse.fr###onetrust-group-container
 larousse.fr##.has-reject-all-button.ot-sdk-columns.ot-sdk-twelve
 assets.poool.fr##.p3-login.p3-link
 assets.poool.fr##.p3-or
 assets.poool.fr##button.p3-main-action.p3-button:nth-of-type(2)
-nationalgeographic.fr##.ot-fade-in.onetrust-pc-dark-filter
 nationalgeographic.fr##.has-reject-all-button.ot-sdk-columns.ot-sdk-twelve
-nationalgeographic.fr###onetrust-group-container
 nationalgeographic.fr##.css-nayslh
 universalis.fr##.css-8mu7gm.qc-cmp-cleanslate
 universalis.fr###bandeau-footer
@@ -280,11 +263,8 @@ remove.bg##.pt-2.text-center.justify-content-center.align-items-center.d-flex
 remove.bg##.w-100.mt-md-0.mt-3.mb-3 > .mb-1
 remove.bg##.w-100.mt-md-0.mt-3.mb-3 > .small.text-muted > div
 remove.bg##.\!mt-3.gap-3.flex-wrap.flex
-opendns.com###onetrust-banner-sdk > div
 opendns.com##.vertical-align-content.ot-wo-title.bottom.otFlat
-cisco.com###onetrust-banner-sdk > div
 cisco.com##.vertical-align-content.ot-wo-title.bottom.otFlat
-cloudflare.com##.ot-fade-in.onetrust-pc-dark-filter
 cloudflare.com##.ot-sdk-row
 linkedin.com##.artdeco-global-alert--COOKIE_CONSENT.artdeco-global-alert--NOTICE.artdeco-global-alert
 linkedin.com##.transition-in.global-alert-banner
@@ -325,19 +305,13 @@ pcmanager.microsoft.com##._23tra1HsiiP6cT-Cka-ycB
 nowapsiindia.com##.adb-overlay
 badlion.net###usercentrics-roo
 jartexnetwork.com##.notice-content
-frandroid.com##.didomi-popup__backdrop.didomi-notice-popup.didomi-popup-backdrop
 minecraft.net##._23tra1HsiiP6cT-Cka-ycB
 univ-droit.fr##.tarteaucitronBeforeVisible
 collaboraoffice.com##.cookie-notice-container
 collaboraoffice.com##.mf-loaded.mf-animate.mf-bar-iframe-sticky.mf-bar-iframe-large.mf-bar-iframe-top.mf-bar-iframe
 logitechg502.com###cookie-law-info-bar
-pcmag.com##.ot-fade-in.onetrust-pc-dark-filter
-pcmag.com###onetrust-group-container
+##onetrust-group-container
 pcmag.com##.has-reject-all-button.ot-sdk-columns.ot-sdk-twelve
-status.nicehash.com##.Cookie--base.Cookie--bottom.Cookie
-francelive.fr##.didomi-popup-notice-buttons.didomi-buttons.multiple
-francelive.fr##.didomi-popup-notice-logo-container
-francelive.fr##.didomi-popup-notice-text-container
 dotnet.microsoft.com##._23tra1HsiiP6cT-Cka-ycB
 szynalski.com###cookie-message
 szynalski.com##.ad-banner-adblock-msg
@@ -360,8 +334,6 @@ steamcommunity.com##.cookiepreferences_popup_content
 omnicalculator.com##.top.jsx-2656163997.jsx-2174582361
 omnicalculator.com##.bottom.jsx-2656163997.jsx-2174582361
 karmasearch.org##.px-5.justify-center.items-center.content-center.flex-col.flex
-last.fm##.ot-fade-in.onetrust-pc-dark-filter
-avast.com##.ot-fade-in.onetrust-pc-dark-filter
 avast.com##.vertical-align-content.default.otCenterRounded
 signalrgb.com##.cookie-visible.cookie-notice
 youtube.com##+js(set, yt.config_.openPopupConfig.supportedPopups.adBlockMessageViewModel, false)
@@ -469,14 +441,6 @@ sourceforge.net##.cmpboxwelcomeprps
 sourceforge.net##.cmptxt_txt.cmpboxtxt
 sourceforge.net##.cmptxt_btn_yes.cmpboxbtnyes.cmpboxbtn
 y2mate.com##.extension-header
-dictionnaire.reverso.net##.didomi-popup-notice-text > p
-dictionnaire.reverso.net##.didomi-popup-notice-data-processing-list.didomi-notice-data-processing-container
-dictionnaire.reverso.net##.highlight-button.didomi-button-highlight.didomi-components-button--color.didomi-dismiss-button.didomi-button.didomi-components-button
-dictionnaire.reverso.net##button.didomi-components-radio__option--unselected.didomi-components-radio__option:nth-of-type(2)
-dictionnaire.reverso.net##.didomi-buttons-all.didomi-buttons.didomi-popup-actions.didomi-consent-popup-actions > .highlight-button.didomi-button-highlight.didomi-components-button--color.didomi-button.didomi-components-button
-dictionnaire.reverso.net##.didomi-popup-body.didomi-consent-popup-body
-dictionnaire.reverso.net##.didomi-popup-header.didomi-consent-popup-header
-dictionnaire.reverso.net##.didomi-popup-footer.didomi-consent-popup-footer > [href]
 reverso.net##.message-about-Ukrainian
 reverso.net##app-desktop-app-promotion
 reverso.net##.premium-banner
@@ -486,7 +450,7 @@ online-convert.com##.feedback-container.row > div.col-12
 online-convert.com##.pb-0.content-breaker
 croxyproxy.com##.gdprContainerWrapperBorder.gdprContainerWrapper
 proxysite.com###i18n
-tunein.com##.ot-fade-in.onetrust-pc-dark-filter
+##.ot-fade-in.onetrust-pc-dark-filter
 fitbit.com##.fitbit-c-sitewide-callout
 lesnumeriques.com##div.box-c2l-modal-body
 lesnumeriques.com##.box-c2l-accept-action.box-c2l-offer-btn.box-c2l-btn
@@ -523,7 +487,6 @@ cyberciti.biz##.pop.alert
 stackoverflow.com##.js-consent-banner.r16.l16.b16.bar-lg.fc-white.bg-black-600.sm\:p16.p32.sm\:w-auto.ws4.z-nav-fixed.ps-fixed.ff-sans
 stackoverflow.com##.py2.fs-body2.ff-sans.fc-white.bg-blue-400.js-announcement-banner
 stackoverflow.com###notice-sidebar-popover
-nvidia.com###onetrust-consent-sdk
 ##.ot-sdk-container
 pitchoun.radioweb.co##.ticker-bar
 pitchoun.radioweb.co##.link-socials-list
@@ -560,7 +523,6 @@ adblockplus.org##.cookiebar.cookie
 ads.google.com###cookieBar
 adsense.google.com##.glue-cookie-notification-bar
 upgrad.com##.dWFnev.UGFooterSticky__Container-sc-i6f21r-0
-nginx.com###consent_blackbar
 stackoverflow.com##.js-dismissable-hero.z-nav.b0.r0.l0.ps-fixed.bc-black-225.bt.bs-sm.bg-black-100
 lesnewsdunet.com##.sd-cmp-33S-2 > div:nth-of-type(1)
 lesnewsdunet.com##button.sd-cmp-JnaLO:nth-of-type(2)
@@ -583,7 +545,6 @@ ionos.fr##.svelte-1czm8h8.privacy-consent--modal
 ionos.fr##.svelte-6wchuh.privacy-consent--backdrop
 ionos.fr###bio_ep_reworked
 ionos.fr###bio_ep_reworked_bg
-teamviewer.com###onetrust-consent-sdk
 login.teamviewer.com##.optanon-alert-box-wrapper
 rule34.xxx##.gdprinner
 apkmb.com##.stpd_cmp
@@ -600,7 +561,6 @@ dlandroid.com##.yarpp-template-yarpp-template-dlandroid.yarpp-related-shortcode.
 dlandroid.com##.help
 happymod.com##.down_button_link.pdt-btn-msg.clearfix
 slions.net##.js-bottomFixTarget.u-bottomFixer
-intel.com###onetrust-consent-sdk
 icecreamapps.com##.cookie-law
 icecreamapps.com##.app-download__download-file
 alternativeto.net##.visible.data-collector.jsx-5df7ced37f7e80fa
@@ -617,9 +577,6 @@ tpehmzpetrole20142015.over-blog.com##.ob-ShareBar-share--twitter.ob-ShareBar-sha
 tpehmzpetrole20142015.over-blog.com##.js-ob-ShareBar-share--pinterest.ob-ShareBar-share--pinterest.ob-ShareBar-share
 tpehmzpetrole20142015.over-blog.com###sidebar
 tpehmzpetrole20142015.over-blog.com##.m-social-networks.ob-section
-dentelledelune.fr##.didomi-popup-notice-logo-container
-dentelledelune.fr##.didomi-popup-notice-text-container
-dentelledelune.fr##.didomi-popup-notice-buttons.didomi-buttons.multiple
 blog.lockee.fr##.cmplz-categories-no.cc-color-override-1275183511.cc-bottom.cmplz-animation-none.cc-theme-classic.cc-type-opt-in.cc-banner.cc-window.cmplz-tcf-banner-hidden
 honeygain.com##.dIufKl.sc-fnOeiS
 honeygain.com##.jIwumh.sc-hjbpFB
@@ -643,7 +600,6 @@ eclat-bfc.fr##.tarteaucitronAlertBigBottom
 grabify.link##.ab_container
 iplogger.org###cookies
 rainmeterskins.net##.elementor-section-height-default.elementor-section-full_width.elementor-element-25295e8.elementor-element.elementor-top-section.elementor-section
-weather.com###consent_blackbar
 texture-packs.com##.follow-us
 mediafire.com##.u-cf.footerColWrap
 mediafire.com###subFooterSocial
@@ -658,13 +614,6 @@ mediafire.com##.DLExtraInfo-additional.DLExtraInfo
 mediafire.com##.description
 hix.ai##.gap-y-3.flex-col.mt-8.flex
 tf1.fr##.z-maxBanner.bottom-0.inset-x-0.fixed.BannerContainer_bannerContainer_oNKMW
-bfmtv.com##.didomi-popup-notice-text
-bfmtv.com##.highlight-button.didomi-button-highlight.didomi-components-button--color.didomi-dismiss-button.didomi-button.didomi-components-button
-bfmtv.com##.standard-button.didomi-button-standard.didomi-learn-more-button.didomi-button.didomi-components-button
-france.tv##.didomi-popup-notice-text
-france.tv##.highlight-button.didomi-button-highlight.didomi-components-button--color.didomi-dismiss-button.didomi-button.didomi-components-button
-france.tv##.standard-button.didomi-button-standard.didomi-learn-more-button.didomi-button.didomi-components-button
-france.tv##.didomi-popup-notice-text-container
 ecoledirecte.com##ed-connecteur-robert-dico-en-ligne
 iqoptimizer.com##.mb-60.mt-30.list-vgap.list-hgap.mpl-list-horizontal.mpl-list > li
 hone.gg###hubspot-messages-iframe-container
@@ -693,15 +642,11 @@ cryptotab.farm##.notification
 cryptotab.farm##.sticky-sharing
 ilemaths.net###ouibouncemodal
 help.roblox.com###_evidon_banner
-ouest-france.fr##.didomi-popup-notice-buttons.didomi-buttons.multiple
-ouest-france.fr##.didomi-popup-notice-text-container
-ouest-france.fr##.didomi-popup-notice-logo-container
 clipchamp.com##.jmbyiR.sc-1jf790q-0
 cyberlink.com##.sticky-stopper
 techradar.com##.slice-container-newsletterForm.newsletterForm-exitIntent.newsletter-slice.slice-container
 techradar.com##.author__social
 techradar.com##.masthead-item.buttons-social
-cnet.com###onetrust-consent-sdk
 nginx.com##.footer-social
 korben.info##div.p-6.flex-1
 superuser.com##.js-consent-banner.r16.l16.b16.bar-lg.fc-white.bg-black-600.sm\:p16.p32.sm\:w-auto.ws4.z-nav-fixed.ps-fixed.ff-sans
@@ -725,17 +670,19 @@ consent-pref.trustarc.com##.consentHeader.mainHeader
 consent-pref.trustarc.com##.disable.submit
 consent-pref.trustarc.com##.acceptAllButtonLower
 garmin.com###trustarc-banner-overlay
-garmin.com###consent_blackbar
+##consent_blackbar
 ome.tv
 beurteletchat.com
 beurteletchat.fr
 xdaforums.com##.blockMessage--none.blockMessage
-hitmanpro.com###onetrust-consent-sdk
+##onetrust-consent-sdk
 getintopc.com##.nudge.media
 how-to-pc.info##.nudge.media
-marieclaire.fr##.didomi-popup-notice-text > div
-marieclaire.fr##.didomi-notice-data-processing-list > span
-marieclaire.fr##.didomi-popup-notice-data-processing-list.didomi-notice-data-processing-container
-marieclaire.fr##.didomi-popup-notice-buttons.didomi-buttons.multiple
+##.didomi-popup-notice-text > div
+##.didomi-notice-data-processing-list > span
+##.didomi-popup-notice-data-processing-list.didomi-notice-data-processing-container
+##.didomi-popup-notice-buttons.didomi-buttons.multiple
 kaspersky.fr##.CybotCookiebotDialogActive.CybotMultilevel.CybotEdge
 thanksconnect.fr##.notification_cookie
+amazon.fr###sp-cc
+amazon.fr##.nav-flyout.nav-signin-tt
