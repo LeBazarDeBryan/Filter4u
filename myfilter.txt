@@ -686,3 +686,16 @@ kaspersky.fr##.CybotCookiebotDialogActive.CybotMultilevel.CybotEdge
 thanksconnect.fr##.notification_cookie
 amazon.fr###sp-cc
 amazon.fr##.nav-flyout.nav-signin-tt
+beta.character.ai##.modal-dialog
+beta.character.ai##.show.fade.modal
+beta.character.ai##.show.fade.modal-backdrop
+intego.com###cookieConsent
+norton.com##.ensNotifyBanner
+av-comparatives.org###cookiebar
+websiterating.com##.cookie-notice-container
+websiterating.com##.ns-no-print.large.ns-floating.ns-buttons
+websiterating.com##.gb-grid-column-da1e664c.gb-grid-column
+websiterating.com##.gb-container-366a1a73.gb-container
+techradar.com##.region_redirect_banner
+kaspersky.fr##.FooterBBB_socialBlock__ZSXxN
+askanydifference.com##.ez-twentytwentytwo.ez-main-cmp-wrapper.ez_banner
