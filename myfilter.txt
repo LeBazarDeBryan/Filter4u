@@ -127,7 +127,6 @@ pcastuces.com##.sd-cmp-VSd2z
 instagram.com##._abcm._aa5t._abck._abci._abcg._abcf._abab._ab9-._abby._abbg._ab9p._ab9m._ab9h._ab9c._ab99._ab94._ab8w._ab8q
 fake-id.com###freeprivacypolicy-com---preferences-center
 youtube.com##.opened
-youtube.com##.ytd-consent-bump-v2-lightbox.style-scope.eom-v1-dialog
 aternos.org##.server-tutorials
 scalacube.com###navigation > .contact-bar
 alfred.camera##.MuiDialog-scrollPaper.MuiDialog-container
@@ -699,3 +698,20 @@ websiterating.com##.gb-container-366a1a73.gb-container
 techradar.com##.region_redirect_banner
 kaspersky.fr##.FooterBBB_socialBlock__ZSXxN
 askanydifference.com##.ez-twentytwentytwo.ez-main-cmp-wrapper.ez_banner
+ecoledirecte.com##li:nth-of-type(13)
+ecoledirecte.com##li:nth-of-type(14)
+ecoledirecte.com##li:nth-of-type(15)
+semiconductor.samsung.com###cookiePopupForm
+semiconductor.samsung.com##div.none.CO11_cookie:nth-of-type(3)
+tunestotube.com##.cc-color-override-1410247320.cc-right.cc-bottom.cc-theme-block.cc-type-info.cc-floating.cc-window
+revouninstaller.com###consentAccepted
+revouninstaller.com###launcher
+revouninstaller.com##.footer-social
+revouninstaller.com##.subscribe-form-container.container-fluid
+revouninstaller.com##.main-testimonials.py-5.container
+revouninstaller.com##.promo-home.container-fluid
+revouninstaller.com##.justify-content-between.align-items-center.d-flex.container > .align-items-center.d-flex
+twitch.tv##.ceAbGI.Layout-sc-1xcs6mc-0
+shadertoy.com###compliance
+mediafire.com###ez-cmpv2-container
+mediafire.com###cookie-accept-footer
