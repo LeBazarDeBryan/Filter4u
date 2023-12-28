@@ -715,3 +715,15 @@ twitch.tv##.ceAbGI.Layout-sc-1xcs6mc-0
 shadertoy.com###compliance
 mediafire.com###ez-cmpv2-container
 mediafire.com###cookie-accept-footer
+fitbit.com##.align-center.row.expanded.social
+support.honeygain.com##.share
+attapoll.com##.jUcJ2u.Frk6TZ.MNUFxS.consent-banner-root
+streetbees.com##.cky-overlay
+streetbees.com###sbx-modal
+streetbees.com##.cky-popup-center.cky-consent-container
+packetstream.io##.share-link
+ebesucher.com##.cookie-banner.bootstrap
+deliver.adnade.net
+sourcemobile.fr##.div-social-media
+sourcemobile.fr###axeptio_main_button
+sourcemobile.fr##.ax-widget.axeptio_widget.dVMnlA.Widget__WidgetStyle-sc-zhn46e-2
