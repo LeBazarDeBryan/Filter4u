@@ -674,7 +674,7 @@ ome.tv
 beurteletchat.com
 beurteletchat.fr
 xdaforums.com##.blockMessage--none.blockMessage
-##onetrust-consent-sdk
+###onetrust-consent-sdk
 getintopc.com##.nudge.media
 how-to-pc.info##.nudge.media
 ##.didomi-popup-notice-text > div
