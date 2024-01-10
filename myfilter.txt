@@ -674,7 +674,7 @@ ome.tv
 beurteletchat.com
 beurteletchat.fr
 xdaforums.com##.blockMessage--none.blockMessage
-###onetrust-consent-sdk
+##onetrust-consent-sdk
 getintopc.com##.nudge.media
 how-to-pc.info##.nudge.media
 ##.didomi-popup-notice-text > div
@@ -727,3 +727,5 @@ deliver.adnade.net
 sourcemobile.fr##.div-social-media
 sourcemobile.fr###axeptio_main_button
 sourcemobile.fr##.ax-widget.axeptio_widget.dVMnlA.Widget__WidgetStyle-sc-zhn46e-2
+paget96projects.com##.cc-nb-main-container
+razex.de##.cc-color-override-688238583.cc-bottom.cc-theme-classic.cc-type-info.cc-banner.cc-window
