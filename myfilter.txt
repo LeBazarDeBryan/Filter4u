@@ -729,3 +729,10 @@ sourcemobile.fr###axeptio_main_button
 sourcemobile.fr##.ax-widget.axeptio_widget.dVMnlA.Widget__WidgetStyle-sc-zhn46e-2
 paget96projects.com##.cc-nb-main-container
 razex.de##.cc-color-override-688238583.cc-bottom.cc-theme-classic.cc-type-info.cc-banner.cc-window
+celo.org##.privacy-policy-container
+metamask.io##.osano-cm-content.osano-cm-dialog__content
+metamask.io##.osano-cm-button--type_accept.osano-cm-button.osano-cm-buttons__button.osano-cm-accept-all
+metamask.io##.osano-cm-button--type_manage.osano-cm-button.osano-cm-buttons__button.osano-cm-manage
+celoscan.io##.p-3.shadow.border.alert-light.alert
+yoomoney.ru##.lsp-65de5u.e1sdf9nq0.qa-gdpr
+forum.beammp.com##.cc-color-override-2038967837.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-window
