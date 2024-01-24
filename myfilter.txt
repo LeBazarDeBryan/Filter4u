@@ -713,7 +713,6 @@ revouninstaller.com##.promo-home.container-fluid
 revouninstaller.com##.justify-content-between.align-items-center.d-flex.container > .align-items-center.d-flex
 twitch.tv##.ceAbGI.Layout-sc-1xcs6mc-0
 shadertoy.com###compliance
-mediafire.com###ez-cmpv2-container
 mediafire.com###cookie-accept-footer
 fitbit.com##.align-center.row.expanded.social
 support.honeygain.com##.share
@@ -736,3 +735,8 @@ metamask.io##.osano-cm-button--type_manage.osano-cm-button.osano-cm-buttons__but
 celoscan.io##.p-3.shadow.border.alert-light.alert
 yoomoney.ru##.lsp-65de5u.e1sdf9nq0.qa-gdpr
 forum.beammp.com##.cc-color-override-2038967837.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-window
+###ez-cmpv2-container
+nofap.com##.fomo-notification-container
+orai.com##.formkit-overlay.seva-overlay
+archos.com###cookie-law-info-bar
+malekal.com##.sab_xxx.xxx-detect.simple-alert-boxes
