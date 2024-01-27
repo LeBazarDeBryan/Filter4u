@@ -740,3 +740,22 @@ nofap.com##.fomo-notification-container
 orai.com##.formkit-overlay.seva-overlay
 archos.com###cookie-law-info-bar
 malekal.com##.sab_xxx.xxx-detect.simple-alert-boxes
+deskmodder.de##.cookie-modal
+chocolatey.org##.show.fade.alert-btn-center.alert-dismissible-center.alert-dismissible.alert-primary.alert
+stackoverflow.com###onetrust-consent-sdk
+dashboard.honeygain.com##.kFFfYr.sc-ecQlmF.jlnakC.sc-hYRUjI.fEJCPd.sc-dItHI
+consent-pref.trustarc.com###cookieConsentDescription
+consent-pref.trustarc.com##.call
+consent-pref.trustarc.com##.shp
+consent-pref.trustarc.com##.contentfield
+clictune.com##.fixed
+||www.dlink3.com/media.php$subdocument
+logdumoderateur.com##.visible.hw-cc-notice-box
+ws-cdn.nperf.com##.content > .title
+ws-cdn.nperf.com##.content > .text
+ws-cdn.nperf.com##.buttonAcceptContainer
+ws-cdn.nperf.com##.privacySettingsButton
+ws-cdn.nperf.com##.highlight.mobilePromoLogos
+ws.nperf.com##.privacySettingsButton
+ws.nperf.com##.highlight.mobilePromoLogos
+nperf.com##.footerAppli
