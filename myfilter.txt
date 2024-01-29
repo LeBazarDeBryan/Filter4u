@@ -765,3 +765,4 @@ openculture.com##.a2a_block
 service-public.fr##.fr-footer__partners
 service-public.fr##.fr-follow
 service-public.fr##.rs_skip.sp-no-print.fr-my-6w.sp-notation
+service-public.fr##.fr-displayed-lg.sp-text--center.sp-sub-header
