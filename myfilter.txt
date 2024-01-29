@@ -759,3 +759,9 @@ ws-cdn.nperf.com##.highlight.mobilePromoLogos
 ws.nperf.com##.privacySettingsButton
 ws.nperf.com##.highlight.mobilePromoLogos
 nperf.com##.footerAppli
+service-public.fr##.orejime-Notice
+hadopi.fr##.tarteaucitronBeforeVisible
+openculture.com##.a2a_block
+service-public.fr##.fr-footer__partners
+service-public.fr##.fr-follow
+service-public.fr##.rs_skip.sp-no-print.fr-my-6w.sp-notation
