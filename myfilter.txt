@@ -768,3 +768,5 @@ service-public.fr##.rs_skip.sp-no-print.fr-my-6w.sp-notation
 service-public.fr##.fr-displayed-lg.sp-text--center.sp-sub-header
 healthline.com##hl-newsletter-cta
 healthline.com##hl-social-nav
+iptvcat.com##.show.cookiealert.text-center.alert
+hubu.cloud##.notranslate.cookiefirst-root
