@@ -767,6 +767,11 @@ service-public.fr##.fr-follow
 service-public.fr##.rs_skip.sp-no-print.fr-my-6w.sp-notation
 service-public.fr##.fr-displayed-lg.sp-text--center.sp-sub-header
 healthline.com##hl-newsletter-cta
+iptvcat.com##.show.cookiealert.text-center.alert
+hubu.cloud##.notranslate.cookiefirst-root
+go2.do##.cc_banner-wrapper
+go2.do##.shareButtons
+go2.do##.bookmarkItems
 healthline.com##hl-social-nav
 iptvcat.com##.show.cookiealert.text-center.alert
 hubu.cloud##.notranslate.cookiefirst-root
