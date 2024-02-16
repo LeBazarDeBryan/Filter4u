@@ -780,3 +780,4 @@ iptvarticles.net##.cookie-notice-container
 iptvarticles.net###post-3287 > .clearfix.list-table
 iptvarticles.net##.su-box-style-default.su-box
 ledirect.fr##.bg-opacity-75.bg-black.p-4.max-w-xs.w-full.right-3.bottom-4.fixed.z-20
+moewalls.com##.g1-collection-columns-3.g1-collection-with-cards.g1-collection > .ads-content-area
