@@ -776,3 +776,6 @@ healthline.com##hl-social-nav
 iptvcat.com##.show.cookiealert.text-center.alert
 hubu.cloud##.notranslate.cookiefirst-root
 gemini.google.com##.expanded.ng-star-inserted.sidenav-with-history-container > .ng-star-inserted
+iptvarticles.net##.cookie-notice-container
+iptvarticles.net###post-3287 > .clearfix.list-table
+iptvarticles.net##.su-box-style-default.su-box
