@@ -742,7 +742,7 @@ archos.com###cookie-law-info-bar
 malekal.com##.sab_xxx.xxx-detect.simple-alert-boxes
 deskmodder.de##.cookie-modal
 chocolatey.org##.show.fade.alert-btn-center.alert-dismissible-center.alert-dismissible.alert-primary.alert
-stackoverflow.com###onetrust-consent-sdk
+###onetrust-consent-sdk
 dashboard.honeygain.com##.kFFfYr.sc-ecQlmF.jlnakC.sc-hYRUjI.fEJCPd.sc-dItHI
 consent-pref.trustarc.com###cookieConsentDescription
 consent-pref.trustarc.com##.call
@@ -781,3 +781,6 @@ iptvarticles.net###post-3287 > .clearfix.list-table
 iptvarticles.net##.su-box-style-default.su-box
 ledirect.fr##.bg-opacity-75.bg-black.p-4.max-w-xs.w-full.right-3.bottom-4.fixed.z-20
 moewalls.com##.g1-collection-columns-3.g1-collection-with-cards.g1-collection > .ads-content-area
+adoptium.net##.cc-color-override-1434350510.cc-bottom.cc-theme-block.cc-type-opt-in.cc-banner.cc-window
+adoptium.net##.btn-primary.btn.dropdown-toggle.text-white.text-left
+iptvtools.net##[src="icons/solustv.gif"]
