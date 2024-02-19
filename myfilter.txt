@@ -784,3 +784,6 @@ moewalls.com##.g1-collection-columns-3.g1-collection-with-cards.g1-collection > 
 adoptium.net##.cc-color-override-1434350510.cc-bottom.cc-theme-block.cc-type-opt-in.cc-banner.cc-window
 adoptium.net##.btn-primary.btn.dropdown-toggle.text-white.text-left
 iptvtools.net##[src="icons/solustv.gif"]
+roblox.com##.cookie-banner
+devforum.roblox.com###_evidon_banner
+fondationresistance.org##.tarteaucitronBeforeVisible
