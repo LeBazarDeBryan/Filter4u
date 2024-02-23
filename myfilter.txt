@@ -784,6 +784,19 @@ moewalls.com##.g1-collection-columns-3.g1-collection-with-cards.g1-collection > 
 adoptium.net##.cc-color-override-1434350510.cc-bottom.cc-theme-block.cc-type-opt-in.cc-banner.cc-window
 adoptium.net##.btn-primary.btn.dropdown-toggle.text-white.text-left
 iptvtools.net##[src="icons/solustv.gif"]
+earnapp.com##.eas_social.ea_social
+clubic.com##.newsletter
+clubic.com##.shadow.fbToTop
+clubic.com##.shadow.twToTop
+malekal.com##.builder-item--social-icons.item--inner
+aesthetics.fandom.com##.page__right-rail
+phonemore.com##.gdpr
+tecmint.com##.hide-on-tablet.hide-on-mobile.tecmint-float-social-wrapper
+tecmint.com##.is-right-sidebar.sidebar.widget-area
+makeuseof.com##.affiliate-sponsored
+makeuseof.com##.adsninja-rail-container.sidebar
+makeuseof.com##.expandable.img-size-heading-image-full-width.responsive-img.heading_image > figure
+makeuseof.com##.article-footer
 roblox.com##.cookie-banner
 devforum.roblox.com###_evidon_banner
 fondationresistance.org##.tarteaucitronBeforeVisible
