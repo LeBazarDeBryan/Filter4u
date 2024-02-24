@@ -800,3 +800,21 @@ makeuseof.com##.article-footer
 roblox.com##.cookie-banner
 devforum.roblox.com###_evidon_banner
 fondationresistance.org##.tarteaucitronBeforeVisible
+earnapp.com##.eas_social.ea_social
+clubic.com##.newsletter
+clubic.com##.shadow.fbToTop
+clubic.com##.shadow.twToTop
+malekal.com##.builder-item--social-icons.item--inner
+aesthetics.fandom.com##.page__right-rail
+phonemore.com##.gdpr
+tecmint.com##.hide-on-tablet.hide-on-mobile.tecmint-float-social-wrapper
+tecmint.com##.is-right-sidebar.sidebar.widget-area
+makeuseof.com##.affiliate-sponsored
+makeuseof.com##.adsninja-rail-container.sidebar
+makeuseof.com##.expandable.img-size-heading-image-full-width.responsive-img.heading_image > figure
+makeuseof.com##.article-footer
+phoenixnap.com###clym-widget-privacy-frame
+phoenixnap.com##.scriptlesssocialsharing
+phoenixnap.com###was-this-helpful
+phoenixnap.com##.live-chat-btn
+omegle.cc
