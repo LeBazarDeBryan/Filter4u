@@ -818,3 +818,4 @@ phoenixnap.com##.scriptlesssocialsharing
 phoenixnap.com###was-this-helpful
 phoenixnap.com##.live-chat-btn
 omegle.cc
+||discordapp.com/widget$subdocument
