@@ -816,6 +816,8 @@ makeuseof.com##.article-footer
 phoenixnap.com###clym-widget-privacy-frame
 phoenixnap.com##.scriptlesssocialsharing
 phoenixnap.com###was-this-helpful
+fandom.com###WikiaBar
+fandom.com##.notifications-placeholder
 phoenixnap.com##.live-chat-btn
 omegle.cc
 ||discordapp.com/widget$subdocument
