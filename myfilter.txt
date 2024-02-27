@@ -820,4 +820,5 @@ fandom.com###WikiaBar
 fandom.com##.notifications-placeholder
 phoenixnap.com##.live-chat-btn
 omegle.cc
+natrongithub.github.io##.text-center.container > h6
 ||discordapp.com/widget$subdocument
