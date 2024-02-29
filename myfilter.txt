@@ -819,6 +819,10 @@ phoenixnap.com###was-this-helpful
 fandom.com###WikiaBar
 fandom.com##.notifications-placeholder
 phoenixnap.com##.live-chat-btn
+tiny10.com
+pkgs.org##.show.m-0.fixed-bottom.fade.alert-secondary.alert
+unictool.com##.with-addthis.cookie-policy
+fostips.com##.is-show.rb-cookie
 omegle.cc
 natrongithub.github.io##.text-center.container > h6
 ||discordapp.com/widget$subdocument
