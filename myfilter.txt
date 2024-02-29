@@ -826,3 +826,4 @@ fostips.com##.is-show.rb-cookie
 omegle.cc
 natrongithub.github.io##.text-center.container > h6
 ||discordapp.com/widget$subdocument
+www.youtube.com###cinematics.ytd-watch-flexy:remove()
