@@ -846,3 +846,13 @@ youtube.com##ytd-popup-container > tp-yt-paper-dialog > ytd-mealbar-promo-render
 get.videolan.org###uecookies
 www.tomshardware.com##.slice-container-newsletterForm.newsletterForm-exitIntent.newsletter-slice.slice-container
 cloudflare.com##.black.bg-orange-1-500.pv3.w-100.flex-row-l.flex-row-m.flex-row-ns.flex-column.flex.z-1.bottom-0.fixed
+partitionwizard.com##.page-bottom-fixed
+partitionwizard.com##.article-share-wrap
+partitionwizard.com##.author-follow
+partitionwizard.com##.totop.icon-awe-sort-up
+partitionwizard.com##.icon-awe-twitter.follow
+partitionwizard.com##.social.t
+partitionwizard.com##.tip.article-inner-content-box
+partitionwizard.com##.icon-awe-down.article-down-btn
+partitionwizard.com##.main-menu-download-btn
+h30434.www3.hp.com##.footer-fixed.ask-common-wrap
