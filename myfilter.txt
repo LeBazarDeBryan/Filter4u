@@ -856,3 +856,6 @@ partitionwizard.com##.tip.article-inner-content-box
 partitionwizard.com##.icon-awe-down.article-down-btn
 partitionwizard.com##.main-menu-download-btn
 h30434.www3.hp.com##.footer-fixed.ask-common-wrap
+pytorch.org##.is-visible.cookie-banner-wrapper
+ecosia.org##.cookie-wrapper
+ecosia.org##.full-footer__social.footer-social
