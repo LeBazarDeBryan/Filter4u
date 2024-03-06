@@ -859,3 +859,10 @@ h30434.www3.hp.com##.footer-fixed.ask-common-wrap
 pytorch.org##.is-visible.cookie-banner-wrapper
 ecosia.org##.cookie-wrapper
 ecosia.org##.full-footer__social.footer-social
+cpuid.com##.widget-donation.widget-block
+cpuid.com##.advert.block_33
+cpuid.com###main__menu > .main-wrapper > div > div
+minitool.com##.page-bottom-fixed
+minitool.com##.footer-follow-us
+minitool.com##.article-share-wrap
+minitool.com##.article-recommend
