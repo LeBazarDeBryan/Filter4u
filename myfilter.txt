@@ -826,25 +826,14 @@ fostips.com##.is-show.rb-cookie
 omegle.cc
 natrongithub.github.io##.text-center.container > h6
 ||discordapp.com/widget$subdocument
-www.youtube.com###cinematics.ytd-watch-flexy:remove()
-youtube.com##+js(set, ytInitialData.topbar.desktopTopbarRenderer.interstitial.consentBumpRenderer.forceConsent, false)
-youtube.com##+js(json-prune, [].response.topbar.desktopTopbarRenderer.interstitial.consentBumpRenderer)
-youtube.com##+js(json-prune, topbar.desktopTopbarRenderer.interstitial.consentBumpRenderer)
-youtube.com##+js(set, ytInitialData.onResponseReceivedEndpoints, undefined)
-youtube.com##+js(set, ytInitialData.topbar.desktopTopbarRenderer.interstitial.consentBumpV2Renderer, undefined)
-youtube.com##+js(json-prune, [].response.overlay.consentBumpV2Renderer topbar.desktopTopbarRenderer.interstitial.consentBumpV2Renderer overlay.consentBumpV2Renderer response.overlay.consentBumpV2Renderer)
-youtube.com##+js(set, ytInitialData.desktopTopbar.desktopTopbarRenderer.interstitial.consentBumpV2Renderer, undefined)
-youtube.com##+js(set, ytInitialPlayerResponse.auxiliaryUi.messageRenderers.upsellDialogRenderer.isVisible, false)
-youtube.com##+js(set, ytInitialData.overlay.upsellDialogRenderer.isVisible, false)
-youtube.com##+js(json-prune, [].playerResponse.auxiliaryUi.messageRenderers.upsellDialogRenderer)
-youtube.com##+js(json-prune, auxiliaryUi.messageRenderers.upsellDialogRenderer)
+youtube.com###cinematics.ytd-watch-flexy:remove()
 youtube-nocookie.com,youtube.com##.ytp-pause-overlay, .show-video-thumbnail-button
 ~youtube-nocookie.com,~youtube.com##iframe ~ #topvbar > #rvid
 youtube.com##.ytp-quality-menu .ytp-premium-label:upward(.ytp-menuitem)
 youtube.com##.ytp-quality-menu .ytp-menuitem:has(.ytp-premium-label)
 youtube.com##ytd-popup-container > tp-yt-paper-dialog > ytd-mealbar-promo-renderer, ytd-popup-container > tp-yt-paper-dialog > yt-mealbar-promo-renderer:has-text(/Claim Offer|Join now|Not Now|No thanks|YouTube TV|live TV|Live TV|movies|sports|Try it free|unlimited DVR|watch NFL/)
 get.videolan.org###uecookies
-www.tomshardware.com##.slice-container-newsletterForm.newsletterForm-exitIntent.newsletter-slice.slice-container
+tomshardware.com##.slice-container-newsletterForm.newsletterForm-exitIntent.newsletter-slice.slice-container
 cloudflare.com##.black.bg-orange-1-500.pv3.w-100.flex-row-l.flex-row-m.flex-row-ns.flex-column.flex.z-1.bottom-0.fixed
 partitionwizard.com##.page-bottom-fixed
 partitionwizard.com##.article-share-wrap
@@ -856,6 +845,8 @@ partitionwizard.com##.tip.article-inner-content-box
 partitionwizard.com##.icon-awe-down.article-down-btn
 partitionwizard.com##.main-menu-download-btn
 h30434.www3.hp.com##.footer-fixed.ask-common-wrap
+uptechnet.com###cookie-notification
+h30434.www3.hp.com##.footer-fixed.ask-common-wrap
 pytorch.org##.is-visible.cookie-banner-wrapper
 ecosia.org##.cookie-wrapper
 ecosia.org##.full-footer__social.footer-social
@@ -866,3 +857,7 @@ minitool.com##.page-bottom-fixed
 minitool.com##.footer-follow-us
 minitool.com##.article-share-wrap
 minitool.com##.article-recommend
+team-aaz.com##.cc-color-override--1687565279.cc-bottom.cc-theme-classic.cc-type-info.cc-banner.cc-window
+lefigaro.fr##.fig-layout--wrapped.fig-layout.fig-bottom
+lefigaro.fr##.video-sticky-limit.fig-tabbar
+lefigaro.fr##.fh-ft__social.fh-ft__container
