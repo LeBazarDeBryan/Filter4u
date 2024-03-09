@@ -399,7 +399,6 @@ aternos.org##.responsive-leaderboard-large.responsive-leaderboard
 aternos.org##.vm-skin-right.vm-skin
 aternos.org##.vm-skin-left.vm-skin
 aternos.org##.sidebar
-||aternos.org/panel/img/exaroton.svg$image
 mega.io##.cookie-banner
 deepl.com##div.lg\:px-\[70px\].p-8:nth-of-type(4)
 deepl.com##.ProBanner2021-module--wrapper--EI6x1
@@ -861,3 +860,4 @@ team-aaz.com##.cc-color-override--1687565279.cc-bottom.cc-theme-classic.cc-type-
 lefigaro.fr##.fig-layout--wrapped.fig-layout.fig-bottom
 lefigaro.fr##.video-sticky-limit.fig-tabbar
 lefigaro.fr##.fh-ft__social.fh-ft__container
+||aternos.org/panel/img/exaroton.svg$image
