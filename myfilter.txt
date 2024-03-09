@@ -860,4 +860,4 @@ team-aaz.com##.cc-color-override--1687565279.cc-bottom.cc-theme-classic.cc-type-
 lefigaro.fr##.fig-layout--wrapped.fig-layout.fig-bottom
 lefigaro.fr##.video-sticky-limit.fig-tabbar
 lefigaro.fr##.fh-ft__social.fh-ft__container
-||aternos.org/panel/img/exaroton.svg$image
+||aternos.org/panel/img/*.svg$image
