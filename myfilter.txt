@@ -231,8 +231,6 @@ trustpilot.com##.has-reject-all-button.ot-sdk-columns.ot-sdk-twelve
 wikipedia.org##.vector-sitenotice-container
 asciiart.eu##.qc-cmp2-consent-info
 asciiart.eu##.css-47sehv
-dlink2.com##td:nth-of-type(1)
-dlink2.com##td:nth-of-type(3)
 gameguardian.net##.ipsJS_hide.ipsPad_half
 aresclient.com##.dnjcK.lhbLEe
 epieos.com##.w-full.bottom-0.fixed > .shadow-strong.sm-h\:max-h-\[150px\].max-h-\[150px\].md\:max-h-\[240px\].max-h-\[240px\].bg-white.min-w-0.w-full.justify-center.flex.relative
@@ -650,7 +648,6 @@ korben.info##div.p-6.flex-1
 superuser.com##.js-consent-banner.r16.l16.b16.bar-lg.fc-white.bg-black-600.sm\:p16.p32.sm\:w-auto.ws4.z-nav-fixed.ps-fixed.ff-sans
 win10.fr##.widget_eu_cookie_law_widget.inner-padding.widget
 win10.fr##.sd-sharing-enabled.sharedaddy
-dlink2.net##div:nth-of-type(2)
 nagadiweb.com###popupX
 grouphowto.com##.heateor_sss_horizontal_sharing.heateor_sss_sharing_container
 grouphowto.com##.simple-social-icons.inner-padding.widget
@@ -748,7 +745,7 @@ consent-pref.trustarc.com##.call
 consent-pref.trustarc.com##.shp
 consent-pref.trustarc.com##.contentfield
 clictune.com##.fixed
-||www.dlink3.com/media.php$subdocument
+||dlink3.com/media.php$subdocument
 logdumoderateur.com##.visible.hw-cc-notice-box
 ws-cdn.nperf.com##.content > .title
 ws-cdn.nperf.com##.content > .text
@@ -861,3 +858,13 @@ lefigaro.fr##.fig-layout--wrapped.fig-layout.fig-bottom
 lefigaro.fr##.video-sticky-limit.fig-tabbar
 lefigaro.fr##.fh-ft__social.fh-ft__container
 ||aternos.org/panel/img/*.svg$image
+||dlink4.com/media.php$subdocument
+remove.bg##.lg\:max-w-\[420px\].max-w-\[320px\].rounded-4xl.h-auto.w-full
+accounts.kaleido.ai##.fixed-bottom.banner
+ruffle.rs##.mantine-Group-root.m-4081bf90.footer_links__YrPdW
+nextdns.io##.twitter.social.menu-item
+nextdns.io##.reddit.social.menu-item
+nextdns.io##.medium.social.menu-item
+nextdns.io##.github.social.menu-item
+nextdns.io##.menu-inner > .separator
+youtube.com##tp-yt-paper-dialog.ytd-popup-container.style-scope
