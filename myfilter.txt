@@ -868,3 +868,10 @@ nextdns.io##.medium.social.menu-item
 nextdns.io##.github.social.menu-item
 nextdns.io##.menu-inner > .separator
 youtube.com##tp-yt-paper-dialog.ytd-popup-container.style-scope
+youtube.com###glue-cookie-notification-bar-1
+gaana.com##.overlay
+gaana.com##.gdpr_pp.active._gdpr
+unstoppabledomains.com##.css-1upc7ec-cookieBanner
+unstoppabledomains.com##.css-2kxjnv-root-root-defaultSeverity-root-defaultSeverity.MuiAlert-filled.MuiAlert-filledInfo.MuiAlert-root.MuiPaper-elevation0.MuiPaper-rounded.MuiPaper-elevation.MuiPaper-root
+hubu.cloud##.cc_container--open.cc_container.cc_banner
+aternos.org##.usericon
