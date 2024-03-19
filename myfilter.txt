@@ -877,3 +877,8 @@ hubu.cloud##.cc_container--open.cc_container.cc_banner
 aternos.org##.usericon
 developer.android.com##.devsite-badger-award
 developer.android.com##devsite-cookie-notification-bar
+support.google.com##.sgeDesktopFabRoot
+catbox.moe##div.notetiny
+wetransfer.com##.button--enabled.welcome__button--accept.welcome__button.button
+wetransfer.com##.button--enabled.welcome__button--preferences.welcome__button.button
+wetransfer.com##.terms-conditions.transfer__window
