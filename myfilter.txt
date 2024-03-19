@@ -875,3 +875,5 @@ unstoppabledomains.com##.css-1upc7ec-cookieBanner
 unstoppabledomains.com##.css-2kxjnv-root-root-defaultSeverity-root-defaultSeverity.MuiAlert-filled.MuiAlert-filledInfo.MuiAlert-root.MuiPaper-elevation0.MuiPaper-rounded.MuiPaper-elevation.MuiPaper-root
 hubu.cloud##.cc_container--open.cc_container.cc_banner
 aternos.org##.usericon
+developer.android.com##.devsite-badger-award
+developer.android.com##devsite-cookie-notification-bar
