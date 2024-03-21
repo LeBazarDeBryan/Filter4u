@@ -882,3 +882,5 @@ catbox.moe##div.notetiny
 wetransfer.com##.button--enabled.welcome__button--accept.welcome__button.button
 wetransfer.com##.button--enabled.welcome__button--preferences.welcome__button.button
 wetransfer.com##.terms-conditions.transfer__window
+mee6.xyz##.cky-classic-bottom.cky-consent-container
+store.steampowered.com##.cookiepreferences_popup
