@@ -885,3 +885,7 @@ wetransfer.com##.terms-conditions.transfer__window
 mee6.xyz##.cky-classic-bottom.cky-consent-container
 store.steampowered.com##.cookiepreferences_popup
 goblin-heart.123guestbook.com##.cc_banner-wrapper
+pcpartpicker.com##.cc-color-override--1360619034.cc-bottom.cc-theme-block.cc-type-opt-in.cc-banner.cc-window
+msi.com###ccc
+deepl.com##.empty\:hidden.min-w-0.min-h-0.z-20.top-2.right-0.absolute
+deepl.com##.pageFooterV2-module--socialMediaLinks--cTBX5
