@@ -889,3 +889,11 @@ pcpartpicker.com##.cc-color-override--1360619034.cc-bottom.cc-theme-block.cc-typ
 msi.com###ccc
 deepl.com##.empty\:hidden.min-w-0.min-h-0.z-20.top-2.right-0.absolute
 deepl.com##.pageFooterV2-module--socialMediaLinks--cTBX5
+aternos.org##.content > .help-center-articles
+aternos.org##.page-server.page-content > .help-center-articles
+sudouest.fr###didomi-host
+vercel.com##.fides-banner-bottom.fides-banner
+mega.nz##.social
+phonandroid.com##.socialnetworks
+character.ai##.z-50.text-sm.rounded-spacing-xs.p-4.bg-surface-elevation-3.shadow-sm.md\:max-w-64.w-full.md\:left-auto.md\:right-4.md\:bottom-16.md\:absolute.bottom-0.inset-x-0.fixed
+translatium.app##.pb-6.px-6.bottom-0.inset-x-0.fixed.pointer-events-none
