@@ -898,3 +898,4 @@ phonandroid.com##.socialnetworks
 character.ai##.z-50.text-sm.rounded-spacing-xs.p-4.bg-surface-elevation-3.shadow-sm.md\:max-w-64.w-full.md\:left-auto.md\:right-4.md\:bottom-16.md\:absolute.bottom-0.inset-x-0.fixed
 translatium.app##.pb-6.px-6.bottom-0.inset-x-0.fixed.pointer-events-none
 floorp.app##.css-1tanaqe.chakra-button__group
+malwarebytes.com##.u-flex-center.site-footer__social-icons
