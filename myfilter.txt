@@ -126,7 +126,6 @@ itigic.com##.ez-twentytwentytwo.ez-main-cmp-wrapper.pre-render-cmp.ez_banner
 pcastuces.com##.sd-cmp-VSd2z
 instagram.com##._abcm._aa5t._abck._abci._abcg._abcf._abab._ab9-._abby._abbg._ab9p._ab9m._ab9h._ab9c._ab99._ab94._ab8w._ab8q
 fake-id.com###freeprivacypolicy-com---preferences-center
-youtube.com##.opened
 aternos.org##.server-tutorials
 scalacube.com###navigation > .contact-bar
 alfred.camera##.MuiDialog-scrollPaper.MuiDialog-container
@@ -867,7 +866,6 @@ nextdns.io##.reddit.social.menu-item
 nextdns.io##.medium.social.menu-item
 nextdns.io##.github.social.menu-item
 nextdns.io##.menu-inner > .separator
-youtube.com##tp-yt-paper-dialog.ytd-popup-container.style-scope
 youtube.com###glue-cookie-notification-bar-1
 gaana.com##.overlay
 gaana.com##.gdpr_pp.active._gdpr
