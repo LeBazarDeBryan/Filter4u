@@ -911,3 +911,5 @@ phandroid.com##.list-center.social-list--lg.social-list
 phandroid.com##.text-right.list-horizontal.social-list
 phandroid.com##.single-content > .entry-interaction--horizontal.entry-interaction
 phandroid.com##.entry-footer.single-footer > .entry-interaction--horizontal.entry-interaction
+winaero.com##.illa > p
+winaero.com##.supportus
