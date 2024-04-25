@@ -913,3 +913,5 @@ phandroid.com##.single-content > .entry-interaction--horizontal.entry-interactio
 phandroid.com##.entry-footer.single-footer > .entry-interaction--horizontal.entry-interaction
 winaero.com##.illa > p
 winaero.com##.supportus
+handbrake.fr##.cc-grower
+techy.how##.OPT_IN.BUTTON.BOTTOM_LEFT.DARK.POPUP.sqs-cookie-banner-v2
