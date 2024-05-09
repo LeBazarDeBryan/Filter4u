@@ -915,3 +915,11 @@ winaero.com##.illa > p
 winaero.com##.supportus
 handbrake.fr##.cc-grower
 techy.how##.OPT_IN.BUTTON.BOTTOM_LEFT.DARK.POPUP.sqs-cookie-banner-v2
+||www.tumblr.com/dashboard/iframe/consent$subdocument
+razerid.razer.com##.show.cookie-notice
+bitly.cx##.pointer-events-auto.backdrop-filter-blur.cookie-banner.rounded.p-2.ml-3.mb-3.mr-3.mt-0.border-0
+wikihow.com###article_courses_banner
+plz.ffm.to##.accept-cookies.accept-button
+gigabyte.com###policy-div
+global.aorus.com###policy-div
+marsgaming.eu##.cookies
