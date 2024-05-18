@@ -609,7 +609,6 @@ mediafire.com##.DLExtraInfo-additional.DLExtraInfo
 mediafire.com##.description
 hix.ai##.gap-y-3.flex-col.mt-8.flex
 tf1.fr##.z-maxBanner.bottom-0.inset-x-0.fixed.BannerContainer_bannerContainer_oNKMW
-ecoledirecte.com##ed-connecteur-robert-dico-en-ligne
 iqoptimizer.com##.mb-60.mt-30.list-vgap.list-hgap.mpl-list-horizontal.mpl-list > li
 hone.gg###hubspot-messages-iframe-container
 assistance.irobot.fr###trustarc-banner-overlay
@@ -693,9 +692,6 @@ websiterating.com##.gb-container-366a1a73.gb-container
 techradar.com##.region_redirect_banner
 kaspersky.fr##.FooterBBB_socialBlock__ZSXxN
 askanydifference.com##.ez-twentytwentytwo.ez-main-cmp-wrapper.ez_banner
-ecoledirecte.com##li:nth-of-type(13)
-ecoledirecte.com##li:nth-of-type(14)
-ecoledirecte.com##li:nth-of-type(15)
 semiconductor.samsung.com###cookiePopupForm
 semiconductor.samsung.com##div.none.CO11_cookie:nth-of-type(3)
 tunestotube.com##.cc-color-override-1410247320.cc-right.cc-bottom.cc-theme-block.cc-type-info.cc-floating.cc-window
@@ -876,7 +872,6 @@ aternos.org##.usericon
 developer.android.com##.devsite-badger-award
 developer.android.com##devsite-cookie-notification-bar
 support.google.com##.sgeDesktopFabRoot
-catbox.moe##div.notetiny
 wetransfer.com##.button--enabled.welcome__button--accept.welcome__button.button
 wetransfer.com##.button--enabled.welcome__button--preferences.welcome__button.button
 wetransfer.com##.terms-conditions.transfer__window
@@ -923,3 +918,7 @@ plz.ffm.to##.accept-cookies.accept-button
 gigabyte.com###policy-div
 global.aorus.com###policy-div
 marsgaming.eu##.cookies
+logitech.com##.active.theme-light.js-site-notification.pangea-site-notification.pangea-cmp
+turborocketgames.com##.wt-cli-cookie-bar-container
+homebrew-france.fr###cookieBoxGen
+catbox.moe##div.notetiny:nth-of-type(3)
