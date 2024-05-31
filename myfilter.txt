@@ -922,3 +922,5 @@ logitech.com##.active.theme-light.js-site-notification.pangea-site-notification.
 turborocketgames.com##.wt-cli-cookie-bar-container
 homebrew-france.fr###cookieBoxGen
 catbox.moe##div.notetiny:nth-of-type(3)
+proxifly.dev##.cc-color-override--877141198.cc-left.cc-bottom.cc-theme-classic.cc-type-.cc-floating.cc-window
+golinuxcloud.com##.IRPP_button
