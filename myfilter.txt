@@ -926,3 +926,4 @@ proxifly.dev##.cc-color-override--877141198.cc-left.cc-bottom.cc-theme-classic.c
 golinuxcloud.com##.IRPP_button
 meldaproduction.com##.show.fade.hide.modal
 meldaproduction.com##.show.fade.modal-backdrop
+nperf.com##.justify-content-center.justify-content-md-end.d-flex.container-social
