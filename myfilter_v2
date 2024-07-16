@@ -1,0 +1,10 @@
+[Adblock Plus 2.0]
+! Title: Félx's Filter (myfilter v2)
+! Description: Block useless things.
+! Updated: 16/07/2024
+! Homepage: https://github.com/LeBazarDeBryan/Filter4u#readme
+! Reporting Issues: https://github.com/LeBazarDeBryan/Filter4u/issues
+!
+! I won't recommend using my filter since it may block useful thing for you.
+
+gdpr.eu###compliance_a
