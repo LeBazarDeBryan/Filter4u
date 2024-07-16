@@ -3,7 +3,7 @@
   
 | Maintainer | Title | Description | URL | Device | Add-on |
 |------------|-------|-------------|-----|--------|--------|
-| <a href="https://www.clictune.com/jxZZ">Le Bazar de Bryan</a> | My Filter | Block useless information (for me). | <a href="myfilter.txt?raw=true">myfilter.txt</a> | Computer | <a href="https://www.clictune.com/jy02">uBlock Origin</a> |
+| <a href="https://www.clictune.com/jxZZ">Félx</a> | My Filter | Block useless information (for me). | <a href="myfilter.txt?raw=true">myfilter.txt</a> | Computer | <a href="https://www.clictune.com/jy02">uBlock Origin</a> |
 | <a href="https://www.clictune.com/jy01">Brave</a> | Brave Android-Specific Rules |  | <a href="https://www.clictune.com/jy04">brave-android-specific.txt</a> | Android |  |
 | <a href="https://www.clictune.com/jy01">Brave</a> | Brave Cookie-snippet list | Brave-specific additions to Easylist Cookie | <a href="https://www.clictune.com/jy05">brave-cookie-specific.txt</a> |  |  |
 | <a href="https://www.clictune.com/jy01">Brave</a> | Brave firstparty CNAME |  | <a href="https://www.clictune.com/jy06">brave-firstparty-cname.txt</a> |  |  |
