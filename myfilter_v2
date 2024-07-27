@@ -8,5 +8,11 @@
 ! I won't recommend using my filter since it may block useful thing for you.
 
 gdpr.eu###compliance_a
-||www.mediafire.com/widgets/sidebar_promo.php$subdocument
+||mediafire.com/widgets/sidebar_promo.php$subdocument
 youtube.com##.ytd-item-section-renderer.style-scope > .ytd-reel-shelf-renderer.style-scope
+||mediafire.com/widgets/premium_trial.php$subdocument
+mediafire.com##.DLExtraInfo-additional.DLExtraInfo
+mediafire.com##.description
+mediafire.com##.sidebar
+mediafire.com##.dl-info
+mediafire.com##.dl-box.ads > p
