@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: Félx's Filter (myfilter v2)
 ! Description: Block useless things.
-! Updated: 16/07/2024
+! Updated: 11/08/2024
 ! Homepage: https://github.com/LeBazarDeBryan/Filter4u#readme
 ! Reporting Issues: https://github.com/LeBazarDeBryan/Filter4u/issues
 !
@@ -17,3 +17,5 @@ mediafire.com##.sidebar
 mediafire.com##.dl-info
 mediafire.com##.dl-box.ads > p
 uptodown.com##.popup-turbo
+openshot.org##.pulse.animated.openshot-downloaded.mb-xl.call-to-action-primary.call-to-action
+gigabyte.com##.img-ribbon
