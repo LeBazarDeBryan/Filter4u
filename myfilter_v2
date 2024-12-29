@@ -1,15 +1,27 @@
 [Adblock Plus 2.0]
 ! Title: Félx's Filter (myfilter v2)
 ! Description: Block useless things.
-! Updated: 11/08/2024
+! Updated: 29/12/2024
 ! Homepage: https://github.com/LeBazarDeBryan/Filter4u#readme
 ! Reporting Issues: https://github.com/LeBazarDeBryan/Filter4u/issues
 !
 ! I won't recommend using my filter since it may block useful thing for you.
 
+###cookies-panel
+###ez-cmpv2-container
+##.cookie-banner
+##.use.lang-fr.tos-cookies-container
+##.didomi-popup__backdrop.didomi-notice-popup.didomi-popup-backdrop
+###onetrust-consent-sdk
+###credential_picker_container
+
+! Specific Website !
+msi.com###ccc-overlay
+msi.com##.ccc-content--light.ccc-notify__top
+tunestotube.com##.cc-color-override-1410247320.cc-right.cc-bottom.cc-theme-block.cc-type-info.cc-floating.cc-window
+techradar.com##.exit-intent__background.exit-intent
 gdpr.eu###compliance_a
 ||mediafire.com/widgets/sidebar_promo.php$subdocument
-youtube.com##.ytd-item-section-renderer.style-scope > .ytd-reel-shelf-renderer.style-scope
 ||mediafire.com/widgets/premium_trial.php$subdocument
 mediafire.com##.DLExtraInfo-additional.DLExtraInfo
 mediafire.com##.description
@@ -19,3 +31,4 @@ mediafire.com##.dl-box.ads > p
 uptodown.com##.popup-turbo
 openshot.org##.pulse.animated.openshot-downloaded.mb-xl.call-to-action-primary.call-to-action
 gigabyte.com##.img-ribbon
+youtube.com##.ytd-item-section-renderer.style-scope > .ytd-reel-shelf-renderer.style-scope
